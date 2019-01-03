@@ -11,4 +11,4 @@ script:
 before_deploy:
   - cd dist
 after_success:
-  "find dist -type f -exec curl --ftp-create-dirs -T {} -u $FTP_USER:$FTP_PASSWORD ftp://joduplessis.com/{} \\;"
+  "find dist -type f -exec curl --ftp-create-dirs -T {} -u $FTP_USER:$FTP_PASSWORD ftp.joduplessis.com/public_html{} \\;"
