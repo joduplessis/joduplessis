@@ -1,4 +1,4 @@
-# Omari VueJS website
+# Personal VueJS website
 
 ## Build Setup
 
