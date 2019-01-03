@@ -1,7 +1,7 @@
 {
-  "name": "hatch",
+  "name": "joduplessis",
   "version": "1.0.0",
-  "description": "Studio website",
+  "description": "Personal website",
   "author": "Jo du Plessis <jo@joduplessis.com>",
   "private": true,
   "scripts": {
