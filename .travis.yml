@@ -1,4 +1,10 @@
 language: node_js
+sudo: false
+addons:
+  apt:
+    packages:
+    - lftp
+os: linux
 node_js:
   - "9.11.2"
 branches:
@@ -8,10 +14,4 @@ before_script:
   - npm i
 script:
   - npm run build
-sudo: false
-addons:
-  apt:
-    packages:
-    - lftp
-os: linux
-script: deploy.sh
+  - bash deploy.sh
