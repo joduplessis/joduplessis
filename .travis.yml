@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "9.11.2"
+before_script:
+  - npm i
+script:
+  - npm run build
+after_success:
+  "find public -type f -exec curl --ftp-create-dirs -T {} -u $FTP_USER:$FTP_PASSWORD ftp://joduplessis.com/{} \\;"
