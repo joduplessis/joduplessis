@@ -31,7 +31,7 @@
         "roles": ["DevOps", "Development", "Technical Direction"],
         "slug": "unsilo",
         "tags": ["PHP", "Apache", "Laravel", "Bootstrap", "VueJS", "ES6/Babel", "MySQL", "Digital Ocean Spaces", "HAProxy", "SendGrid", "Google Cloud", "DropBox API", "CI/CD", "Docker", "MailChimp API", "PayFast", "REST API"],
-        "year": 2018
+        "year": 2019
     }, {
         "author": "Jo du Plessis",
         "images": ["store-images/Yack/00.png", "store-images/Yack/01.png", "store-images/Yack/02.png", "store-images/Yack/03.png", "store-images/Yack/04.png", "store-images/Yack/05.png", "store-images/Yack/06.png", "store-images/Yack/07.png", "store-images/Yack/08.png", "store-images/Yack/09.png", "store-images/Yack/10.png", "store-images/Yack/11.png"],
@@ -189,7 +189,7 @@
     }, {
         "author": "Jo du Plessis",
         "images": ["store-images/Play/00.jpg", "store-images/Play/01.jpg", "store-images/Play/02.jpg", "store-images/Play/03.jpg", "store-images/Play/04.jpg", "store-images/Play/05.jpg", "store-images/Play/06.jpg", "store-images/Play/07.jpg", "store-images/Play/08.jpg", "store-images/Play/09.jpg", "store-images/Play/10.jpg", "store-images/Play/11.jpg", "store-images/Play/12.jpg", "store-images/Play/13.jpg", "store-images/Play/14.jpg", "store-images/Play/15.jpg", "store-images/Play/16.jpg", "store-images/Play/17.jpg", "store-images/Play/18.png", "store-images/Play/19.png", "store-images/Play/20.png", "store-images/Play/21.png", "store-images/Play/22.png", "store-images/Play/23.png", "store-images/Play/24.png", "store-images/Play/25.png", "store-images/Play/26.png", "store-images/Play/27.png", "store-images/Play/28.png", "store-images/Play/29.png", "store-images/Play/30.png", "store-images/Play/31.png", "store-images/Play/32.png", "store-images/Play/33.png", "store-images/Play/34.png", "store-images/Play/35.png", "store-images/Play/36.png"],
-        "links": ["https://playfirst.omari.studio"],
+        "links": ["https://playfirst.co.za"],
         "notes": "Deliver intuitive learning experiences wrapped in an immersive game world. You can focus on the content, instead of jumping over the technical hurdles.",
         "partner": "",
         "project": "Playfirst",

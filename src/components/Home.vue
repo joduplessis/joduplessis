@@ -7,10 +7,7 @@
 				</div>
                 <div class="container">
                  	<div class="title">
-						Developer.
-						Occasional designer.
-                        Founder at
-						<a href="https://yack.app" target="_blank">Yack</a>.
+						Developer. Occasional designer. <br />
 						All round swell homo sapien(s), sometimes.
                     </div>
                     <div class="subtitle">
@@ -149,7 +146,7 @@ export default {
 	.item.full .avatar .photo {
 		background: url('../assets/profile.jpg') no-repeat center center;
 		border: 3px solid white;
-		box-shadow: 0px 0px 0px 3px #FF3267;
+		box-shadow: 0px 0px 0px 3px black;
 		background-size: cover;
 		background-color: transparent;
 		width: 200px;
