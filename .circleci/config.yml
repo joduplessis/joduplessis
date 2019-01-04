@@ -12,7 +12,7 @@ jobs:
       - checkout
 
       - run: yarn install
-	  - run: sudo apt-get update -q
+      - run: sudo apt-get update -q
       - run: sudo apt-get install -y lftp
 
  	  - run:
