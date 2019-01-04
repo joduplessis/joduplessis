@@ -14,4 +14,4 @@ before_script:
   - npm i
 script:
   - npm run build
-  - bash deploy.sh
+  - lftp -u $FTP_USER,$FTP_PASSWORD $FTP_HOST -e "mirror -R -p ./dist/ public_html ; quit"
