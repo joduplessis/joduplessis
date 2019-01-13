@@ -165,6 +165,7 @@ export default {
 
     .item.full .title {
         color: black;
+        width: 100%;
         font-weight: 300;
         font-size: 50px;
         font-family: 'Roboto Mono';
@@ -251,6 +252,7 @@ export default {
     .item.full .title {
         color: black;
         font-weight: 300;
+        width: 100%;
         font-size: 25px;
         font-family: 'Roboto Mono';
 		font-family: utopia-std-headline,serif;
@@ -323,6 +325,7 @@ export default {
     .item.full .title {
         color: black;
         font-weight: 300;
+        width: 100%;
         font-size: 25px;
         font-family: 'Roboto Mono';
 		font-family: utopia-std-headline,serif;
