@@ -1,361 +1,135 @@
 <template>
     <div class="home">
-        <div class="item full">
-            <section class="section">
-				<div class="avatar">
-					<div class="photo"></div>
-				</div>
-                <div class="container">
-                 	<div class="title">
-						Developer. Occasional designer. <br />
-						All round swell homo sapien(s), sometimes.
-                    </div>
-                    <div class="subtitle">
-                        Below you'll find some of the projects I've been involved with over the last few years.
-                    </div>
-                </div>
-            </section>
-        </div>
-        <div class="item" v-bind:style="{ 'background-image': 'url('+getFirstImage(item.images)+')' }" v-for="(item, index) in items">
-            <span>
-                {{item.year}}
-                <br/>
-                <strong>
-                    {{item.project}}
-                </strong>
-            </span>
-            <router-link :to="{ name: 'Project', params: { slug: item.slug }}">
-            </router-link>
-        </div>
+		<div class="main">
+			<div class="inner">
+				<h1>
+					We have normality, I repeat, we have normality.
+				</h1>
+				<h2>
+					My name is Jo du Plessis. I am a full-stack developer, currently residing in the greater Durban area, South Africa.
+					I currently serve as the tech lead at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>.
+				</h2>
+			</div>
+		</div>
+		<div class="footer">
+			<a href="https://yack.app" target="_blank" class="link underline">Yack</a>
+			<a href="https://weekday.sh" target="_blank" class="link underline">Weekday</a>
+			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
+			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
+			<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" height="20" /></a>
+			<a href="https://twitter.com/jo_duplessis" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" height="20" /></a>
+			<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/twitter.png" height="20" /></a>
+		</div>
     </div>
 </template>
 
 <script>
-    function compare(a,b) {
-	if (a.year < b.year)
-		return -1;
-
-	if (a.year > b.year)
-		return 1;
-
-	return 0;
-}
-
-const projects = require('../work.json');
-const items = projects.project.sort(compare).reverse();
-
-export default {
-	name: 'work',
-	data: function() {
-		return {
-			items
-		}
+	export default {
+		name: 'home',
 	}
-}
 </script>
 
 <style scoped="">
-
-.home {
-	height: 80vh;
-}
-
-.item a {
-    width: 100%;
-    height: 100%;
-    background: black;
-    display: block;
-    opacity: 0.6;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    z-index: 1;
-}
-
-.item a:hover {
-    opacity: 0;
-    -webkit-transition: all 280ms ease-in-out;
-    transition: all 280ms ease-in-out;
-}
-
-.item span {
-    color: white;
-    z-index: 2;
-    font-family: 'Roboto Mono', monospace;
-    font-size: 8px;
-    padding: 5px;
-    background: black;
-    color: #666;
-    font-weight: 800;
-    height: -moz-fit-content;
-    height: fit-content;
-    display: table;
-}
-
-.item span strong {
-    font-weight: 500;
-    text-transform: capitalize;
-    font-family: 'Roboto Mono', monospace;
-    color: white;
-    font-size: 10px;
-    color: white;
-}
-
-@media (min-width: 1024px) {
-    .item {
-        width: 20%;
-        height: 200px;
-        background-color: white;
-        position: relative;
-        float: left;
-        overflow: hidden;
-        background-size: cover;
-        background-position: center;
-        display: flex;
-        align-items: left;
-        justify-content: left;
-    }
-
-    .item.full {
-        height: 100%;
-        width: 100%;
-        margin: 0px;
-        padding: 0px;
-        position: relative;
-        padding: 0px;
-    }
-
-	.item.full .section {
-		background-size: contain;
-		display: flex;
-		flex-direction: row;
-		justify-content: center;
-		align-content: center;
-		align-items: center;
+	.home {
+		height: 100%;
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
 	}
 
-	.item.full .avatar {
-		flex: 1;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-content: center;
-        align-items: center;
-	}
-
-	.item.full .avatar .photo {
-		background: url('../assets/profile.jpg') no-repeat center center;
-		border: 3px solid white;
-		box-shadow: 0px 0px 0px 3px black;
-		background-size: cover;
-		background-color: transparent;
-		width: 200px;
-		height: 200px;
-		border-radius: 100px;
-	}
-
-    .item.full .container {
-        flex: 3;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-content: center;
-        align-items: center;
-    }
-
-    .item.full .title {
-        color: black;
-        width: 100%;
-        font-weight: 300;
-        font-size: 50px;
-        font-family: 'Roboto Mono';
-		font-family: utopia-std-headline,serif;
-		font-weight: 400;
-		font-style: normal;
-		padding-right: 50px;
-    }
-
-	.item.full .title a {
-		width: auto;
-		height: auto;
-		background: transparent;
-		display: inline;
-		color: #FF3267;
-		opacity: 1;
-		position: relative;
-		top: 0px;
+	.main {
+		position: fixed;
+		width: 100%;
+		height: 100%;
 		left: 0px;
-		z-index: 1;
-	}
-
-    .item.full .subtitle {
-		padding-top: 30px;
-        color: black;
-        text-align: left;
-        width: 100%;
-        font-weight: 300;
-        font-size: 24px;
-        font-family: 'Source Sans Pro';
-		padding-right: 50px;
-    }
-}
-@media (max-width: 1024px) {
-    .item {
-        width: 20%;
-        height: 200px;
-        background-color: white;
-        position: relative;
-        float: left;
-        overflow: hidden;
-        background-size: cover;
-        background-position: center;
-        display: flex;
-        align-items: left;
-        justify-content: left;
-    }
-
-    .item.full {
-        height: 400px;
-        width: 60%;
-        background-color: black;
-        margin: 0px;
-        padding: 0px;
-        position: relative;
-        padding: 0px;
-        background: white;
-        background-size: contain;
-    }
-
-	.item.full .section {
-		background-size: contain;
-		display: flex;
-		flex-direction: row;
-		justify-content: center;
-		align-content: center;
-		align-items: center;
-	}
-
-	.item.full .avatar {
-		display: none;
-	}
-
-    .item.full .container {
-        height: 100%;
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-content: center;
-        align-items: center;
-    }
-
-    .item.full .title {
-        color: black;
-        font-weight: 300;
-        width: 100%;
-        font-size: 25px;
-        font-family: 'Roboto Mono';
-		font-family: utopia-std-headline,serif;
-		font-weight: 400;
-		font-style: normal;
-		padding-right: 30px;
-    }
-
-	.item.full .title a {
-		width: auto;
-		height: auto;
-		background: transparent;
-		display: inline;
-		color: #FF3267;
-		opacity: 1;
-		position: relative;
 		top: 0px;
-		left: 0px;
 		z-index: 1;
-	}
-
-    .item.full .subtitle {
-		padding-top: 30px;
-        color: black;
-        text-align: left;
-        width: 100%;
-        font-weight: 300;
-        font-size: 20px;
-        font-family: 'Source Sans Pro';
-		padding-right: 50px;
-    }
-}
-@media (max-width: 480px) {
-    .item {
-        width: 50%;
-        height: 200px;
-        background-color: white;
-        position: relative;
-        float: left;
-        overflow: hidden;
-        background-size: cover;
-        background-position: center;
-        display: flex;
-        align-items: left;
-        justify-content: left;
-    }
-
-	.item.full .section {
-		background-size: contain;
-		display: flex;
 		flex-direction: row;
+		align-items: stretch;
+		align-content: stretch;
 		justify-content: center;
-		align-content: center;
-		align-items: center;
+		display: flex;
 	}
 
-	.item.full .avatar {
-		display: none;
+		.main .inner {
+			flex: 1;
+			background: #FAFAFA;
+			flex-grow: 1;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			align-content: center;
+			justify-content: center;
+			margin: 100px 100px 120px 100px;
+		}
+
+		.main .inner  h1 {
+			margin: 0px;
+			font-family: 'hk_grotesksemibold', sans-serif;
+			padding: 0px 100px 0px 100px;
+			font-size: 85px;
+			line-height: 90px;
+			color: #343A40;
+		}
+
+		.main .inner  h2 {
+			margin: 30px 0px 0px 0px;
+			font-family: 'hk_grotesklight', sans-serif;
+			padding: 0px 100px 0px 100px;
+			font-size: 30px;
+			line-height: 50px;
+			color: #343A40;
+		}
+
+	.highlight {
+		box-shadow: inset 0px -12px 0 #FCDD35, inset 0 -35px 0 #FAFAFA;
+		text-decoration: none;
 	}
 
-    .item.full {
-        height: 400px;
-        width: 100%;
-        background-color: white;
-        margin: 0px;
-        padding: 0px;
-        position: relative;
-    }
-
-    .item.full .title {
-        color: black;
-        font-weight: 300;
-        width: 100%;
-        font-size: 25px;
-        font-family: 'Roboto Mono';
-		font-family: utopia-std-headline,serif;
-		font-weight: 400;
-		font-style: normal;
-		padding-right: 30px;
-    }
-
-	.item.full .title a {
-		width: auto;
-		height: auto;
-		background: transparent;
-		display: inline;
-		color: #FF3267;
-		opacity: 1;
-		position: relative;
-		top: 0px;
+	.footer {
+		z-index: 2;
+		position: fixed;
+		bottom: 0px;
 		left: 0px;
-		z-index: 1;
+		width: 100%;
+		display: flex;
+		padding: 0px;
+		flex-direction: row;
+		align-items: center;
+		align-content: center;
+		justify-content: flex-end;
 	}
 
-    .item.full .subtitle {
-		padding-top: 30px;
-        color: black;
-        text-align: left;
-        width: 100%;
-        font-weight: 300;
-        font-size: 24px;
-        font-family: 'Source Sans Pro';
-		padding-right: 50px;
-    }
-}
+	.footer .link {
+		font-family: 'hk_groteskbold', sans-serif;
+		text-decoration: none;
+		font-size: 18px;
+		margin-left: 30px;
+		margin-bottom: 50px;
+		color: black;
+		transition: opacity 0.5s;
+		opacity: 1;
+	}
+
+		.footer .link.underline {
+			box-shadow: inset 0px -8px 0 #FCDD35, inset 0 -15px 0 white;
+			text-decoration: none;
+		}
+
+	.footer .link:hover {
+		opacity: 0.5;
+	}
+
+	.footer .link:last-child {
+		margin-right: 100px;
+	}
+
+	@media (min-width: 1024px) {
+	}
+
+	@media (max-width: 1024px) {
+	}
+
+	@media (max-width: 480px) {
+	}
 </style>

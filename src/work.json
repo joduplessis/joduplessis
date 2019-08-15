@@ -13,10 +13,10 @@
     }, {
         "author": "Jo du Plessis",
         "images": ["store-images/ChowNew/01.png", "store-images/ChowNew/02.png", "store-images/ChowNew/03.png", "store-images/ChowNew/04.png"],
-        "links": ["https://chow.solutions"],
+        "links": ["http://joduplessis.com/store/CHOW/Concept/"],
         "notes": "Find Nutrition & Allergen Info Easily. It's peace of mind nutrition. ",
         "partner": "Chow",
-        "project": "Chow (planned)",
+        "project": "Chow (concept)",
         "roles": ["DevOps", "Design", "Development", "Technical Direction"],
         "slug": "chow-new",
         "tags": ["AWS Cognito", "AWS S3", "AWS SNS", "Django", "Graphene", "GraphQL", "PostgreSQL", "SQLAlchemy", "Jinja", "Passenger", "Netlify", "ES6", "React Native", "React", "Redux", "Android", "iOS", "Development", "CD", "Expo", "Sentry", "Reverse geo location", "Google Cloud", "REST API"],
@@ -34,11 +34,11 @@
         "year": 2019
     }, {
         "author": "Jo du Plessis",
-        "images": ["store-images/Yack/00.png", "store-images/Yack/01.png", "store-images/Yack/02.png", "store-images/Yack/03.png", "store-images/Yack/04.png", "store-images/Yack/05.png", "store-images/Yack/06.png", "store-images/Yack/07.png", "store-images/Yack/08.png", "store-images/Yack/09.png", "store-images/Yack/10.png", "store-images/Yack/11.png"],
+        "images": ["store-images/Yack/00.png", "store-images/Yack/01.png", "store-images/Yack/02.png", "store-images/Yack/03.png", "store-images/Yack/04.png", "store-images/Yack/05.png", "store-images/Yack/06.png", "store-images/Yack/07.png", "store-images/Yack/08.png", "store-images/Yack/09.png"],
         "links": ["https://yack.app"],
         "notes": "Yack connects you to wellness experts, as well as a wider community of people passionate about health, fitness and wholeness.",
         "partner": "Yack",
-        "project": "Yack (in development)",
+        "project": "Yack (in alpha)",
         "roles": ["DevOps", "Design", "Development", "Technical Direction"],
         "slug": "yack",
         "tags": ["AWS Cognito", "AWS S3", "AWS SNS", "ES6", "TypeScript (web)", "HapiJS", "GraphQL", "Mongo", "Mongoose", "Nginx", "HAProxy", "NodeJS", "React Native", "React", "Redux", "Apollo", "GraphQL", "Android", "iOS", "Development", "CD", "Sentry", "Reverse geo location", "Google Cloud", "MQTT", "EQS", "Realm", "REST API", "PODs (iOS)", "WebRTC", "Peach Payments", "Tokenization", "Instant Messaging"],
