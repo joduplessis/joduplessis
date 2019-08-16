@@ -148,5 +148,16 @@ export default {
 }
 
 @media (max-width: 480px) {
+	.notice p {
+		padding: 70px 30px 30px 30px;
+		margin: 0px;
+		font-size: 16px;
+	}
+
+	.item {
+		width: 50%;
+		position: relative;
+		height: 200px;
+	}
 }
 </style>

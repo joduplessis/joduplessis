@@ -173,5 +173,33 @@
 }
 
 @media (max-width: 480px) {
+	.sections {
+		width: 100%;
+
+		flex-direction: column-reverse;
+	}
+
+	.sections .images img {
+		width: 80%;
+	}
+
+	.sections .details {
+		flex: 1;
+		padding: 10%;
+	}
+
+	.sections .details .title {
+		font-size: 2em;
+		padding-bottom: 20px;
+	}
+
+	.sections .details .tag.solid {
+		background: #F2C40F;
+		font-size: 13px;
+		padding: 2px;
+		margin-bottom: 2px;
+		box-sizing: border-box;
+		display: inline-block;
+	}
 }
 </style>

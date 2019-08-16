@@ -3,11 +3,12 @@
 		<div class="main">
 			<div class="inner">
 				<h1>
-					We have normality, I repeat, we have normality.
+					We have normality. I repeat, we have normality.
 				</h1>
 				<h2>
-					My name is Jo du Plessis. I am a full-stack developer, currently residing in the greater Durban area, South Africa.
-					I currently serve as the tech lead at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>.
+					My name is Jo du Plessis.
+					I am a full-stack developer, currently residing in <a href="https://goo.gl/maps/ggcR426AfzC77naj6" target="_blank" class="highlight">South Africa</a>.
+					During the day I work as the lead developer at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>.
 				</h2>
 			</div>
 		</div>
@@ -16,9 +17,11 @@
 			<a href="https://weekday.sh" target="_blank" class="link underline">Weekday</a>
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
-			<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" height="20" /></a>
-			<a href="https://twitter.com/jo_duplessis" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" height="20" /></a>
-			<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/twitter.png" height="20" /></a>
+			<div class="social">
+				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
+				<a href="https://twitter.com/jo_duplessis" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" /></a>
+				<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/twitter.png" /></a>
+			</div>
 		</div>
     </div>
 </template>
@@ -92,12 +95,21 @@
 		bottom: 0px;
 		left: 0px;
 		width: 100%;
-		display: flex;
 		padding: 0px;
+		display: flex;
 		flex-direction: row;
 		align-items: center;
 		align-content: center;
 		justify-content: flex-end;
+	}
+
+	.footer .social {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		align-content: center;
+		justify-content: flex-end;
+		padding-left: 20px;
 	}
 
 	.footer .link {
@@ -120,6 +132,10 @@
 		opacity: 0.5;
 	}
 
+	.footer .social-icon img {
+		height: 20px;
+	}
+
 	.footer .link:last-child {
 		margin-right: 100px;
 	}
@@ -131,5 +147,64 @@
 	}
 
 	@media (max-width: 480px) {
+		.main .inner  h1 {
+			font-size: 2em;
+			line-height: normal;
+			padding: 20px 20px 0px 20px;
+		}
+
+		.highlight {
+			box-shadow: inset 0px -6px 0 #FCDD35, inset 0 -35px 0 #FAFAFA;
+			text-decoration: none;
+		}
+
+		.main .inner  h2 {
+			font-size: 1em;
+			line-height: normal;
+			padding: 0px 20px 20px 20px;
+		}
+
+		.main .inner {
+			margin: 20px 20px 170px 20px;
+		}
+
+		.footer .link {
+			margin-left: 20px;
+			margin-bottom: 10px;
+			font-size: 12px;
+		}
+
+		.footer {
+			flex-direction: column;
+			align-items: flex-start;
+			align-content: flex-start;
+			justify-content: flex-start;
+		}
+
+			.footer .link.underline {
+				box-shadow: inset 0px -4px 0 #FCDD35, inset 0 -15px 0 white;
+				text-decoration: none;
+			}
+
+		.footer .social {
+			margin-bottom: 20px;
+			padding-left: 0px;
+		}
+
+		.footer .link.social-icon {
+			margin-left: 10px;
+		}
+
+		.footer .social-icon img {
+			height: 15px;
+		}
+
+		.footer .link:first-child {
+			margin-left: 20px;
+		}
+
+		.footer .link:last-child {
+			margin-right: 0px;
+		}
 	}
 </style>
