@@ -5,18 +5,19 @@
 		</a>
 		<div class="sections">
 			<div class="images">
-				<img
-					:src="getImageUrl(item)"
-					v-for="(item, index) in getFirstElement(item).images"
+				<a
 					v-if="index!=0"
-				/>
+					v-for="(item, index) in getFirstElement(item).images"
+					v-bind:href="getImageUrl(item)" target="_blank">
+					<img :src="getImageUrl(item)" />
+				</a>
 			</div>
 			<div class="details">
 				<div class="padding">
 					<div class="year">
 						{{getFirstElement(item).year}}
 						<span v-if="getFirstElement(item).partner!=''">
-							• {{getFirstElement(item).partner}}
+							- for {{getFirstElement(item).partner}}
 						</span>
 					</div>
 					<div class="title">
@@ -35,8 +36,9 @@
 					<br class="clearfix" />
 					<span v-for="(link, index) in getFirstElement(item).links" v-if="getFirstElement(item).links[0]">
 						<a class="link" target="_blank" v-bind:href="link">
-							{{link}}
+							Link {{index + 1}}
 						</a>
+						</br>
 					</span>
 				</div>
 			</div>
@@ -79,6 +81,11 @@
 		margin-left: auto;
 	}
 
+	.sections .images a {
+		width: 80%;
+		display: block;
+	}
+
 	.sections .images {
 		flex: 1;
 		display: flex;
@@ -89,10 +96,11 @@
 	}
 
 	.sections .images img {
-		width: 60%;
+		width: 100%;
 		margin-bottom: 5px;
 		border-radius: 5px;
 		display: block;
+		border: none;
 	}
 
 	.sections .details {
@@ -145,8 +153,7 @@
 		font-family: 'hk_groteskbold', sans-serif;
 		text-decoration: none;
 		font-size: 18px;
-
-		color: black;
+		color: #F0C410;
 		transition: opacity 0.5s;
 		opacity: 1;
 	}
@@ -179,8 +186,12 @@
 		flex-direction: column-reverse;
 	}
 
-	.sections .images img {
+	.sections .images a {
 		width: 80%;
+	}
+
+	.sections .images img {
+		width: 100%;
 	}
 
 	.sections .details {
