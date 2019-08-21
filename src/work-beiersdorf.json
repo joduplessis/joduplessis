@@ -1,0 +1,39 @@
+
+  {
+     "author": "Jo du Plessis",
+     "images": [
+        "store-images/Beiersdorf/00.png",
+        "store-images/Beiersdorf/01.png",
+        "store-images/Beiersdorf/02.png",
+        "store-images/Beiersdorf/03.png",
+        "store-images/Beiersdorf/04.png",
+        "store-images/Beiersdorf/05.png",
+        "store-images/Beiersdorf/06.png",
+        "store-images/Beiersdorf/07.png",
+        "store-images/Beiersdorf/08.png",
+        "store-images/Beiersdorf/09.png",
+        "store-images/Beiersdorf/10.png",
+        "store-images/Beiersdorf/11.png",
+        "store-images/Beiersdorf/12.png",
+        "store-images/Beiersdorf/13.png",
+        "store-images/Beiersdorf/14.png",
+        "store-images/Beiersdorf/15.png"
+     ],
+     "links": null,
+     "notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
+     "partner": "",
+     "project": "Beiersdorf Consumer Insights platform concept pitch",
+     "roles": [
+        "Design",
+        "Strategy"
+     ],
+     "slug": "beiersdorf",
+     "tags": [
+        "UX",
+        "UI",
+  "HTML",
+  "CSS",
+        "Affinity"
+     ],
+     "year": 2019
+  },
