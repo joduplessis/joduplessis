@@ -221,7 +221,16 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/Weekday/00.png",
-        "store-images/Weekday/01.png"
+        "store-images/Weekday/01.png",
+        "store-images/Weekday/02.png",
+        "store-images/Weekday/03.png",
+        "store-images/Weekday/04.png",
+        "store-images/Weekday/05.png",
+        "store-images/Weekday/06.png",
+        "store-images/Weekday/07.png",
+        "store-images/Weekday/08.png",
+        "store-images/Weekday/09.png",
+        "store-images/Weekday/10.png",
       ],
       "links": [
         "https://app.weekday.sh",
