@@ -18,6 +18,7 @@
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
 			<div class="social">
+				<a href="https://www.npmjs.com/~joduplessis" target="_blank" class="link social-icon"><img src="../assets/npm.png" /></a>
 				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
 				<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" /></a>
 			</div>
