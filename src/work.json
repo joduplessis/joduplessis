@@ -1,5 +1,29 @@
 {
   "project": [
+		{
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/github.jpg",
+        "store-images/github.jpg"
+      ],
+      "links": [
+        "https://github.com/joduplessis/zero"
+      ],
+      "notes": "Zero is a zero fuss dependancy injection container.",
+      "partner": "",
+      "project": "Zero",
+      "roles": [
+        "Development"
+      ],
+      "slug": "joduplessis-zero",
+      "tags": [
+        "Javascript",
+        "Typescript",
+        "NPM",
+        "SemVer"
+      ],
+      "year": 2020
+    },
     {
       "author": "Jo du Plessis",
       "images": [
@@ -150,39 +174,6 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/Weekday/00.png",
-        "store-images/Weekday/01.png"
-      ],
-      "links": [
-        "https://weekday.sh",
-        "https://github.com/getweekday/website"
-      ],
-      "notes": "NextJS build for Weekday. A hackable team collaboration platform",
-      "partner": "Weekday",
-      "project": "Weekday Website",
-      "roles": [
-        "Architecture",
-        "Design",
-        "Strategy",
-        "Development",
-        "DevOps"
-      ],
-      "slug": "weekday-website",
-      "tags": [
-        "SSR",
-        "React",
-        "HTML5",
-        "Javascript",
-        "Web Fonts",
-        "Figma",
-        "NextJS",
-        "Netlify"
-      ],
-      "year": 2020
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/Weekday/00.png",
         "store-images/Weekday/01.png",
         "store-images/Weekday/02.png",
         "store-images/Weekday/03.png",
@@ -195,27 +186,26 @@
         "store-images/Weekday/10.png"
       ],
       "links": [
-        "https://app.weekday.sh",
         "https://weekday.sh",
-        "https://github.com/getweekday/app",
         "https://github.com/getweekday/"
       ],
-      "notes": "Platform build & architecture for Weekday. A hackable team collaboration platform.",
+      "notes": "Platform build & architecture for Weekday. A hackable team collaboration platform. Weekday is launching around April 2020 and will include the dev toolkit / app store.",
       "partner": "Weekday",
-      "project": "Weekday",
+      "project": "Weekday (platform)",
       "roles": [
         "Architecture",
         "Design",
         "Strategy",
         "Development",
-        "DevOps"
+        "DevOps",
+				"Platform architecture"
       ],
       "slug": "weekday",
       "tags": [
         "React",
         "Babel",
         "Redux",
-        "Custom middleware",
+        "Middleware",
         "Express",
         "Swagger",
         "Node Child Processes",
@@ -231,6 +221,11 @@
         "REST",
         "Jest",
         "Enzyme",
+				"App store",
+				"Dev platform",
+				"Electron",
+				"Cordova",
+				"Responsive",
         "TravisCI",
         "GitFlow",
         "Styled Components",
@@ -253,51 +248,15 @@
         "Web Workers / Service Workers",
         "Offline caching",
         "Lazy loading (React suspense)",
+				"NextJS",
+				"Storybook",
+				"Typescript",
         "React Hooks",
         "Bundle Splitting",
+				"MQTT",
+				"RabbitMQ",
+				"Event Sourced Architecture",
         "Lots of other things - see project on Github"
-      ],
-      "year": 2020
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/Elements/00.png",
-        "store-images/Elements/01.png"
-      ],
-      "links": [
-        "https://github.com/getweekday/elements",
-        "https://elements.weekday.sh"
-      ],
-      "notes": "UI component library for Weekday",
-      "partner": "Weekday",
-      "project": "Weekday Elements",
-      "roles": [
-        "Architecture",
-        "Design",
-        "Strategy",
-        "Development",
-        "DevOps"
-      ],
-      "slug": "elements",
-      "tags": [
-        "React",
-        "Typescript",
-        "Jest",
-        "Enzyme",
-        "Netlify",
-        "TravisCI",
-        "GitFlow",
-        "Storybook",
-        "Styled Components",
-        "Prop Types",
-        "Markdown",
-        "TSLint",
-        "Webpack",
-        "Chroma-js",
-        "Moment",
-        "RxJS",
-        "NPM bundling"
       ],
       "year": 2020
     },
