@@ -7,14 +7,13 @@
 				</h1>
 				<h2>
 					My name is Jo du Plessis.
-					I am a full-stack developer & DevOps enthusiast, currently residing in <a href="https://goo.gl/maps/ggcR426AfzC77naj6" target="_blank" class="highlight">South Africa</a>.
-					During the day I work as the lead dev / tech lead at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>. <br/>
-					During the night <a href="https://github.com/joduplessis" target="_blank" class="highlight">I build things</a>.
+					I am a full-stack developer & occasional designer, currently residing in sunny <a href="https://goo.gl/maps/ggcR426AfzC77naj6" target="_blank" class="highlight">South Africa</a>.
+					Oh, I also <a href="https://github.com/joduplessis" target="_blank" class="highlight">build things</a>.
 				</h2>
 			</div>
 		</div>
 		<div class="footer">
-			<a href="https://weekday.sh" target="_blank" class="link underline">Weekday</a>
+			<!-- <a href="https://weekday.sh" target="_blank" class="hide link underline">Weekday</a> -->
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
 			<div class="social">

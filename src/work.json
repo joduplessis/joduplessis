@@ -186,12 +186,12 @@
         "store-images/Weekday/10.png"
       ],
       "links": [
-        "https://weekday.sh",
-        "https://github.com/getweekday/"
+        "https://yack.co",
+        "https://github.com/YackLabs/"
       ],
       "notes": "Platform build & architecture for Weekday. A hackable team collaboration platform. Weekday is launching around April 2020 and will include the dev toolkit / app store.",
-      "partner": "Weekday",
-      "project": "Weekday (platform)",
+      "partner": "Weekday (TBC)",
+      "project": "Weekday (TBC) platform",
       "roles": [
         "Architecture",
         "Design",
