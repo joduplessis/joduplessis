@@ -8,7 +8,7 @@
 				<h2>
 					My name is Jo du Plessis.
 					I am a full-stack developer & occasional designer, currently residing in sunny <a href="https://goo.gl/maps/ggcR426AfzC77naj6" target="_blank" class="highlight">South Africa</a>.
-					Oh, I also <a href="https://github.com/joduplessis" target="_blank" class="highlight">build things</a>.
+					I also <a href="https://github.com/joduplessis" target="_blank" class="highlight">build things</a>.
 				</h2>
 			</div>
 		</div>
