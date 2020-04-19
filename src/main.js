@@ -6,13 +6,11 @@ import VueProgressBar from 'vue-progressbar'
 import moment from 'moment'
 import { markdown } from 'markdown'
 import { VueMasonryPlugin } from 'vue-masonry'
-import VTooltip from 'v-tooltip'
 
 Vue.config.productionTip = false
 
 Vue.use(VueMasonryPlugin)
 Vue.use(VueCarousel)
-Vue.use(VTooltip)
 Vue.use(VueProgressBar, {
     color: '#bffaf3',
     failedColor: '#874b4b',
