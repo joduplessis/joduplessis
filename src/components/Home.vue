@@ -21,6 +21,7 @@
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
 			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
 			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
+			<a href="https://joduplessis.com/resume" target="_blank" class="link"><span>CV</span></a>
 			<div class="social">
 				<a href="https://www.npmjs.com/~joduplessis" target="_blank" class="link social-icon"><img src="../assets/npm.png" /></a>
 				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
