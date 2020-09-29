@@ -7,6 +7,30 @@
         "store-images/github.jpg"
       ],
       "links": [
+        "https://github.com/joduplessis",
+				"https://gist.github.com/joduplessis"
+      ],
+      "notes": "Various Github libraries & snippets",
+      "partner": "",
+      "project": "Various GitHub",
+      "roles": [
+        "Development"
+      ],
+      "slug": "joduplessis-github",
+      "tags": [
+        "Javascript",
+        "Typescript",
+        "GitHub"
+      ],
+      "year": 2020
+    },
+		{
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/github.jpg",
+        "store-images/github.jpg"
+      ],
+      "links": [
         "https://github.com/joduplessis/zero"
       ],
       "notes": "Zero is a zero fuss dependancy injection container.",
@@ -77,6 +101,48 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/PDFasaurus/00.png",
+        "store-images/PDFasaurus/01.png",
+        "store-images/PDFasaurus/02.png",
+        "store-images/PDFasaurus/03.png",
+        "store-images/PDFasaurus/04.png",
+        "store-images/PDFasaurus/05.png"
+      ],
+      "links": [
+        "https://pdfasaurus.com",
+				"https://github.com/MadeByHyper"
+      ],
+      "notes": "PDFasaurus let's you create PDF's using familiar HTML & an easy to use API. ",
+      "partner": "",
+      "project": "PDFasaurus",
+      "roles": [
+        "Design",
+        "Development",
+        "DevOps"
+      ],
+      "slug": "pdfasaurus",
+      "tags": [
+				"Dokku",
+				"Angular",
+				"NestJS",
+				"PostgreSQL",
+				"SendGrid",
+				"JWT",
+				"Passport",
+				"TypeORM",
+				"Jest",
+				"ChartJS",
+				"CodeMirror",
+				"TSLib",
+				"Karma",
+				"Protractor",
+				"Typescript"
+      ],
+      "year": 2020
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/Teachfolk/00.png",
         "store-images/Teachfolk/01.png",
         "store-images/Teachfolk/02.png",
@@ -86,40 +152,22 @@
         "store-images/Teachfolk/06.png",
         "store-images/Teachfolk/07.png",
         "store-images/Teachfolk/08.png",
-        "store-images/Teachfolk/09.png",
-        "store-images/Teachfolk/10.png",
-        "store-images/Teachfolk/11.png",
-        "store-images/Teachfolk/12.png",
-        "store-images/Teachfolk/13.png",
-        "store-images/Teachfolk/14.png",
-        "store-images/Teachfolk/15.png",
-        "store-images/Teachfolk/16.png",
-        "store-images/Teachfolk/17.png",
-        "store-images/Teachfolk/18.png"
+        "store-images/Teachfolk/09.png"
       ],
       "links": [
         "https://teachfolk.com"
       ],
-      "notes": "Platform architecture & development for Yreeka. Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
+      "notes": "Platform architecture, design & development for Yreeka. Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
       "partner": "Yreeka",
       "project": "Teachfolk",
-      "roles": [
-        "Architecture",
-        "Development",
-        "DevOps",
-        "Strategy"
-      ],
+			"roles": [
+				"Design",
+				"Development",
+				"DevOps"
+			],
       "slug": "teachfolk",
       "tags": [
-        "Javascript",
-        "NodeJS",
-        "PostgreSQL",
-        "GitFlow",
-        "Ansible",
-        "MQTT",
-        "Messagingf",
         "Sequelize.js",
-        "Heroku",
         "Angular 7",
         "Typescript",
         "Observables",
@@ -128,17 +176,29 @@
         "NgRx",
         "EMQ",
         "Digital Ocean",
+				"DO Spaces",
+				"DO Postgres",
         "S3 API",
         "Swagger",
         "Continuous Deployment",
         "GitLab CI",
         "Bootstrap",
+        "Heroku",
         "Docker",
         "ExpressJS",
         "JSDoc",
         "Passport.js",
         "NGX Charts",
-        "D3"
+        "D3",
+				"Chat messaging",
+				"Surveys",
+        "Javascript",
+        "NodeJS",
+        "PostgreSQL",
+        "GitFlow",
+        "Ansible",
+        "MQTT",
+        "Messaging driven architecture"
       ],
       "year": 2020
     },
@@ -182,23 +242,21 @@
         "store-images/Weekday/06.png",
         "store-images/Weekday/07.png",
         "store-images/Weekday/08.png",
-        "store-images/Weekday/09.png",
-        "store-images/Weekday/10.png"
+        "store-images/Weekday/09.png"
       ],
       "links": [
-        "https://yack.co",
-        "https://github.com/YackLabs/"
+        "https://weekdayapp.com/",
+				"https://github.com/WeekdayApp"
       ],
-      "notes": "Platform build & architecture for Weekday. A hackable team collaboration platform. Weekday is launching around April 2020 and will include the dev toolkit / app store.",
-      "partner": "Weekday (TBC)",
-      "project": "Weekday (TBC) platform",
+      "notes": "Product & platform build for Weekday. Give your team superpowers. Weekday is a messaging & collaboration platform that brings your team together.",
+      "partner": "",
+      "project": "Weekday (alpha)",
       "roles": [
         "Architecture",
         "Design",
         "Strategy",
         "Development",
-        "DevOps",
-				"Platform architecture"
+        "DevOps"
       ],
       "slug": "weekday",
       "tags": [
@@ -222,6 +280,7 @@
         "Jest",
         "Enzyme",
 				"App store",
+				"OAuth",
 				"Dev platform",
 				"Electron",
 				"Cordova",
@@ -238,6 +297,8 @@
         "Docker",
         "Docker Compose",
         "S3",
+				"Lambda",
+				"Jimp",
         "AWS ECS/ECR",
         "AWS Route53",
         "Digital Ocean",
@@ -253,9 +314,12 @@
 				"Typescript",
         "React Hooks",
         "Bundle Splitting",
+				"OneSignal",
 				"MQTT",
 				"RabbitMQ",
 				"Event Sourced Architecture",
+				"Google Drive integration",
+				"Zapier integration",
         "Lots of other things - see project on Github"
       ],
       "year": 2020
@@ -355,32 +419,43 @@
     {
       "author": "Jo du Plessis",
       "images": [
-        "store-images/Yack/00.png",
-        "store-images/Yack/01.png",
-        "store-images/Yack/02.png",
-        "store-images/Yack/03.png",
-        "store-images/Yack/04.png",
-        "store-images/Yack/05.png",
-        "store-images/Yack/06.png",
-        "store-images/Yack/07.png",
-        "store-images/Yack/08.png",
-        "store-images/Yack/09.png"
+        "store-images/Wami/00.png",
+        "store-images/Wami/01.png",
+        "store-images/Wami/02.png",
+        "store-images/Wami/03.png",
+        "store-images/Wami/04.png",
+        "store-images/Wami/05.png",
+        "store-images/Wami/06.png",
+        "store-images/Wami/07.png",
+        "store-images/Wami/08.png",
+        "store-images/Wami/09.png",
+				"store-images/Wami/10.png",
+				"store-images/Wami/web01.png",
+				"store-images/Wami/web02.png",
+				"store-images/Wami/web03.png",
+				"store-images/Wami/web04.png",
+				"store-images/Wami/web05.png",
+				"store-images/Wami/web06.png",
+				"store-images/Wami/web07.png",
+				"store-images/Wami/web08.png",
+				"store-images/Wami/web09.png"
       ],
       "links": [
-        "https://yack.app"
+        "https://wami.app",
+				"https://gitlab.com/groups/WamiApp"
       ],
-      "notes": "Yack connects you to wellness experts, as well as a wider community of people passionate about health, fitness and wholeness.",
-      "partner": "Yack",
-      "project": "Yack",
+      "notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. ",
+      "partner": "Wami",
+      "project": "Wami",
       "roles": [
         "DevOps",
         "Design",
-        "Development",
-        "Technical Direction"
+        "Development"
       ],
-      "slug": "yack",
+      "slug": "wami",
       "tags": [
-        "AWS Cognito",
+				"Open Source",
+        "AWS Cognito (migrated off of)",
         "AWS S3",
         "AWS SNS",
         "ES6",
@@ -405,7 +480,7 @@
         "CD",
         "Sentry",
         "Reverse geo location",
-        "Google Cloud",
+        "Google Cloud API",
         "MQTT",
         "EMQ",
         "Realm",
@@ -418,6 +493,45 @@
       ],
       "year": 2019
     },
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Beiersdorf/00.png",
+				"store-images/Beiersdorf/01.png",
+				"store-images/Beiersdorf/02.png",
+				"store-images/Beiersdorf/03.png",
+				"store-images/Beiersdorf/04.png",
+				"store-images/Beiersdorf/05.png",
+				"store-images/Beiersdorf/06.png",
+				"store-images/Beiersdorf/07.png",
+				"store-images/Beiersdorf/08.png",
+				"store-images/Beiersdorf/09.png",
+				"store-images/Beiersdorf/10.png",
+				"store-images/Beiersdorf/11.png",
+				"store-images/Beiersdorf/12.png",
+				"store-images/Beiersdorf/13.png",
+				"store-images/Beiersdorf/14.png",
+				"store-images/Beiersdorf/15.png"
+			],
+			"links": null,
+			"notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
+			"partner": "",
+			"project": "Beiersdorf Consumer Insights platform concept pitch",
+			"roles": [
+				"Design",
+				"Strategy"
+			],
+			"hidden": true,
+			"slug": "beiersdorf",
+			"tags": [
+				"UX",
+				"UI",
+				"HTML",
+				"CSS",
+				"Affinity"
+			],
+			"year": 2018
+		},
     {
       "author": "Jo du Plessis",
       "images": [

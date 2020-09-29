@@ -110,13 +110,11 @@
     .sections .details .year {
         font-size: 18px;
         font-weight: 600;
-		font-family: 'hk_grotesksemibold', sans-serif;
         color: black;
         padding-bottom: 20px;
     }
 
     .sections .details .title {
-		font-family: 'hk_groteskbold', sans-serif;
         font-weight: 700;
         color: black;
         font-size: 70px;
@@ -125,7 +123,6 @@
 
     .sections .details .notes {
         color: #333;
-		font-family: 'hk_grotesksemibold', sans-serif;
         font-weight: 300;
         font-size: 24px;
         padding-bottom: 20px;
@@ -134,7 +131,6 @@
 
     .sections .details .subtitle {
         color: #AAA;
-		font-family: 'hk_grotesksemibold', sans-serif;
         font-size: 16px;
         margin: 0px;
         padding-bottom: 10px;
@@ -142,15 +138,13 @@
 
     .sections .details .tag {
         margin-right: 2px;
-		font-family: 'hk_grotesksemibold', sans-serif;
         color: #aaa;
         font-size: 14px;
-		border-radius: 5px;
-		padding: 5px;
+				border-radius: 5px;
+				padding: 5px;
     }
 
 	.sections .details .link {
-		font-family: 'hk_groteskbold', sans-serif;
 		text-decoration: none;
 		font-size: 18px;
 		color: #F0C410;

@@ -80,7 +80,6 @@ export default {
 		padding: 80px;
 		margin: 0px;
 		font-size: 20px;
-		font-family: 'hk_grotesksemibold', sans-serif;
 	}
 
 	.notice p a {
@@ -123,7 +122,6 @@ export default {
 .item span {
     color: white;
     z-index: 2;
-	font-family: 'hk_groteskbold', sans-serif;
     font-size: 12px;
     padding: 5px;
     background: black;
@@ -137,7 +135,6 @@ export default {
 .item span strong {
     font-weight: 500;
     text-transform: capitalize;
-	font-family: 'hk_groteskbold', sans-serif;
     color: white;
     font-size: 16px;
     color: white;
