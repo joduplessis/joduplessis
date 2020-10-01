@@ -48,8 +48,6 @@ function compare(a,b) {
 const projects = require('../work.json');
 const items = projects.project.sort(compare).reverse();
 
-console.log(items.length)
-
 export default {
 	name: 'work',
 	data: function() {
