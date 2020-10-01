@@ -21,7 +21,9 @@
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
 			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
 			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
+			<!--
 			<a href="https://joduplessis.com/resume" target="_blank" class="link"><span>CV</span></a>
+			-->
 			<div class="social">
 				<a href="https://www.npmjs.com/~joduplessis" target="_blank" class="link social-icon"><img src="../assets/npm.png" /></a>
 				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
@@ -34,6 +36,11 @@
 </template>
 
 <script>
+	console.log('%c Hi! 👋🏻', 'background: #222; color: #bada55');
+	console.log('%c My resume is here → https://joduplessis.com/resume', 'background: #222; color: #bada55');
+	console.log('%c And my mobile is → +49 174 870 6065', 'background: #222; color: #bada55');
+
+
 	export default {
 		name: 'home',
 	}
