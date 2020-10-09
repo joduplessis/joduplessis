@@ -16,11 +16,14 @@
 			</div>
 		</div>
 		<div class="footer">
-			<!-- <a href="https://weekday.sh" target="_blank" class="hide link underline">Weekday</a> -->
+			<!--
+			<a href="https://weekday.sh" target="_blank" class="hide link underline">Weekday</a>
+			-->
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
 			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
 			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
+			<a href="https://carbonated.app" target="_blank" class="link"><span>Carbonated</span></a>
 			<!--
 			<a href="https://joduplessis.com/resume" target="_blank" class="link"><span>CV</span></a>
 			-->
