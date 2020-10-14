@@ -30,9 +30,8 @@
 			<div class="social">
 				<a href="https://www.npmjs.com/~joduplessis" target="_blank" class="link social-icon"><img src="../assets/npm.png" /></a>
 				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
-				<!--
-					<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" /></a>
-				-->
+				<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" /></a>
+				<a href="https://twitter.com/jo_duplessis" target="_blank" class="link social-icon"><img src="../assets/twitter.png" /></a>
 			</div>
 		</div>
     </div>
