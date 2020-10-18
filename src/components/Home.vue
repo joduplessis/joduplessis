@@ -21,9 +21,11 @@
 			-->
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
 			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
+			<a href="https://yack.app" target="_blank" class="link"><span>Yack</span></a>
 			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
 			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
-			<a href="https://carbonated.app" target="_blank" class="link"><span>Carbonated</span></a>
+			<a href="https://wami.app" target="_blank" class="link"><span>Wami</span></a>
+			<a href="https://hatch.studio" target="_blank" class="link"><span>Hatch</span></a>
 			<!--
 			<a href="https://joduplessis.com/resume" target="_blank" class="link"><span>CV</span></a>
 			-->
