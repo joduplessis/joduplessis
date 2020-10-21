@@ -36,7 +36,7 @@
 					<br class="clearfix" />
 					<span v-for="(link, index) in getFirstElement(item).links" v-if="getFirstElement(item).links[0]">
 						<a class="link" target="_blank" v-bind:href="link">
-							Link {{index + 1}}
+							→ {{link.replace("http://","").replace("https://","")}}
 						</a>
 						</br>
 					</span>

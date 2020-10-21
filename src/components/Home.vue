@@ -4,13 +4,12 @@
 			<div class="inner">
 				<h1>
 					We have normality. </br>
-					I repeat, we have </br>
+					I repeat, we have
 					normality.
 				</h1>
 				<h2>
-					My name is Jo du Plessis. </br>
-					I am a full-stack developer & occasional designer.</br>
-					Currently lead developer @ <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>, working on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>. </br>
+					My name is Jo du Plessis. I am a full-stack developer & occasional designer.</br>
+					Currently lead developer @ <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>, working on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>.
 					I also <a href="https://github.com/joduplessis" target="_blank" class="highlight">build things</a>.
 				</h2>
 			</div>
@@ -19,14 +18,14 @@
 			<!--
 			<a href="https://weekday.sh" target="_blank" class="hide link underline">Weekday</a>
 			-->
+
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
-			<router-link :to="{ name: 'Work'}" class="link"><span>Work Archives</span></router-link>
+			<router-link :to="{ name: 'Work'}" class="link"><span>Projects</span></router-link>
+
+			<!--
 			<a href="https://yack.app" target="_blank" class="link"><span>Yack</span></a>
 			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
 			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
-			<a href="https://wami.app" target="_blank" class="link"><span>Wami</span></a>
-			<a href="https://hatch.studio" target="_blank" class="link"><span>Hatch</span></a>
-			<!--
 			<a href="https://joduplessis.com/resume" target="_blank" class="link"><span>CV</span></a>
 			-->
 			<div class="social">
@@ -41,9 +40,10 @@
 
 <script>
 	console.log('%c Hi! 👋🏻', 'background: #222; color: #bada55');
-	console.log('%c My resume is here → https://joduplessis.com/resume', 'background: #222; color: #bada55');
-	console.log('%c And my mobile is → +49 174 870 6065', 'background: #222; color: #bada55');
-
+	console.log('%c Resume → https://joduplessis.com/resume', 'background: #222; color: #bada55');
+	console.log('%c Projects JSON → https://joduplessis.com/work.json', 'background: #222; color: #bada55');
+	console.log('%c Mobile → +49 174 870 6065', 'background: #222; color: #bada55');
+	console.log('%c Email → hello@joduplessis.com', 'background: #222; color: #bada55');
 
 	export default {
 		name: 'home',
@@ -87,8 +87,8 @@
 		.main .inner  h1 {
 			margin: 0px;
 			padding: 0px 100px 0px 120px;
-			font-size: 100px;
-			line-height: 110px;
+			font-size: 75px;
+			line-height: 95px;
 			font-weight: 800;
 			color: #E1E7EC;
 		}
@@ -97,8 +97,8 @@
 			margin: 30px 0px 0px 0px;
 			font-weight: 300;
 			padding: 0px 100px 0px 120px;
-			font-size: 30px;
-			line-height: 50px;
+			font-size: 24px;
+			line-height: 38px;
 			color: #E1E7EC;
 		}
 
@@ -132,7 +132,6 @@
 	}
 
 	.footer .link {
-		font-family: 'hk_groteskbold', sans-serif;
 		text-decoration: none;
 		font-size: 18px;
 		margin-left: 30px;

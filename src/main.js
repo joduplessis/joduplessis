@@ -33,7 +33,7 @@ Vue.mixin({
         getFirstImage: (images) => images ? 'https://joduplessis.com/' + images[0] : '',
         getFirstElement: (arr) => arr[0] ? arr[0] : {},
         getRandomWidth: () => Math.floor(Math.random() * 2),
-        getImageUrl: (image) => 'http://joduplessis.com/' + image
+        getImageUrl: (image) => 'https://joduplessis.com/' + image
     }
 })
 
