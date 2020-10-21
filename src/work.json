@@ -101,6 +101,48 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/PDFasaurus/00.png",
+        "store-images/PDFasaurus/01.png",
+        "store-images/PDFasaurus/02.png",
+        "store-images/PDFasaurus/03.png",
+        "store-images/PDFasaurus/04.png",
+        "store-images/PDFasaurus/05.png"
+      ],
+      "links": [
+        "https://pdfasaurus.com",
+				"https://github.com/HatchStudio"
+      ],
+      "notes": "PDFasaurus let's you create PDF's using familiar HTML & an easy to use API. ",
+      "partner": "",
+      "project": "PDFasaurus",
+      "roles": [
+        "Design",
+        "Development",
+        "DevOps"
+      ],
+      "slug": "pdfasaurus",
+      "tags": [
+				"Dokku",
+				"Angular",
+				"NestJS",
+				"PostgreSQL",
+				"SendGrid",
+				"JWT",
+				"Passport",
+				"TypeORM",
+				"Jest",
+				"ChartJS",
+				"CodeMirror",
+				"TSLib",
+				"Karma",
+				"Protractor",
+				"Typescript"
+      ],
+      "year": 2020
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/YackNew/00.png",
         "store-images/YackNew/01.png",
         "store-images/YackNew/02.png",
@@ -119,7 +161,7 @@
         "Development",
         "DevOps"
       ],
-      "slug": "pdfasaurus",
+      "slug": "yack",
       "tags": [
 				"Ansible",
 				"Angular",
