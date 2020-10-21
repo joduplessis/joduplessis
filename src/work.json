@@ -1045,7 +1045,7 @@
         "store-images/Hive/Twitter/01.jpg"
       ],
       "links": [
-        ""
+        "https://github.com/HatchStudio/hive-twitter"
       ],
       "notes": "Sales conference Twitter feed for Hive Connect.",
       "partner": "Hive",
