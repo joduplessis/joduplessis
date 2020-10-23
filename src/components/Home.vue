@@ -2,32 +2,26 @@
     <div class="home">
 		<div class="main">
 			<div class="inner">
+				<img src="../assets/profile-photo.jpg" />
+
 				<h1>
-					We have normality. </br>
-					I repeat, we have
-					normality.
+					Hello!
+
 				</h1>
 				<h2>
-					My name is Jo du Plessis. I am a full-stack developer & occasional designer.</br>
-					Currently lead developer @ <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>, working on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>.
+					 I am a full-stack developer & occasional designer.</br>
+					Currently lead developer @ <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>, working on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>. </br>
 					I also <a href="https://github.com/joduplessis" target="_blank" class="highlight">build things</a>.
 				</h2>
 			</div>
 		</div>
 		<div class="footer">
-			<!--
-			<a href="https://weekday.sh" target="_blank" class="hide link underline">Weekday</a>
-			-->
-
 			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
-			<router-link :to="{ name: 'Work'}" class="link"><span>Projects</span></router-link>
-
-			<!--
+			<router-link :to="{ name: 'Work'}" class="link underline"><span>Projects</span></router-link>
 			<a href="https://yack.app" target="_blank" class="link"><span>Yack</span></a>
 			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
 			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
-			<a href="https://joduplessis.com/resume" target="_blank" class="link"><span>CV</span></a>
-			-->
+
 			<div class="social">
 				<a href="https://www.npmjs.com/~joduplessis" target="_blank" class="link social-icon"><img src="../assets/npm.png" /></a>
 				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
@@ -74,7 +68,8 @@
 
 		.main .inner {
 			flex: 1;
-			background: #1F2833;
+			background: #00a78e url(../assets/wallpaper.svg);
+		  background-size: auto 1px;
 			flex-grow: 1;
 			display: flex;
 			flex-direction: column;
@@ -84,27 +79,45 @@
 			margin: 100px 100px 120px 100px;
 		}
 
+		.main .inner img {
+			width: 150px;
+			height: 150px;
+			border-radius: 50%;
+			margin-right: auto;
+			margin-left: auto;
+			margin-bottom: 20px;
+			-webkit-box-shadow: 0px 0px 71px 0px rgba(0,0,0,0.25);
+			-moz-box-shadow: 0px 0px 71px 0px rgba(0,0,0,0.25);
+			box-shadow: 0px 0px 71px 0px rgba(0,0,0,0.25);
+		}
+
 		.main .inner  h1 {
 			margin: 0px;
 			padding: 0px 100px 0px 120px;
-			font-size: 75px;
-			line-height: 95px;
-			font-weight: 800;
-			color: #E1E7EC;
+			font-size: 60px;
+			line-height: 75px;
+			font-weight: 900;
+			text-align: center;
+			box-sizing: border-box;
+			width: 100%;
+			color: white;
 		}
 
 		.main .inner  h2 {
 			margin: 30px 0px 0px 0px;
 			font-weight: 300;
 			padding: 0px 100px 0px 120px;
-			font-size: 24px;
+			font-size: 20px;
 			line-height: 38px;
-			color: #E1E7EC;
+			color: white;
+			text-align: center;
+			box-sizing: border-box;
+			width: 100%;
 		}
 
 	.highlight {
-		color: #E1E7EC;
-		box-shadow: inset 0px -2px 0 #1F2833, inset 0 -15px 0 #404B5A;
+		color: white;
+		font-weight: 700;
 		text-decoration: none;
 	}
 
@@ -133,7 +146,9 @@
 
 	.footer .link {
 		text-decoration: none;
-		font-size: 18px;
+		font-size: 14px;
+		text-transform: uppercase;
+		font-weight: 600;
 		margin-left: 30px;
 		margin-bottom: 50px;
 		color: black;
@@ -141,9 +156,10 @@
 		opacity: 1;
 	}
 
+
 		.footer .link.underline {
-			box-shadow: inset 0px -8px 0 #FCDD35, inset 0 -15px 0 white;
-			text-decoration: none;
+			box-shadow: inset 0px 18px 0 white, inset 0 -20px 0 black;
+
 		}
 
 	.footer .link:hover {
@@ -172,7 +188,6 @@
 		}
 
 		.highlight {
-			box-shadow: inset 0px -6px 0 #FCDD35, inset 0 -35px 0 #FAFAFA;
 			text-decoration: none;
 		}
 
