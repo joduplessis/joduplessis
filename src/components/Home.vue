@@ -5,8 +5,8 @@
   				<img src="../assets/profile-photo.png" />
 
   				<h2>
-  					Full-stack developer & occasional designer,</br>
-  					working as lead developer  on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>. </br>
+  					Full-stack developer & occasional designer. ♥️ JS.</br>
+  					Working as lead developer at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a> on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>.</br>
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with &<br/>
             also busy with
       			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
@@ -93,22 +93,28 @@
 			justify-content: center;
 			width: 100%;
 			box-sizing: border-box;
-			padding: 10px;
+			padding: 30px;
+			padding-bottom: 0px;
 			color: white;
 		}
 
 			.main .inner .icons img {
 				height: 25px;
-				padding: 10px;
+				padding: 15px;
+				padding-bottom: 0px;
 				width: auto;
 			}
+
+				.main .inner .icons img:hover {
+					opacity: 0.9;
+				}
 
 		.main .inner  h2 {
 			margin: 30px 0px 0px 0px;
 			font-weight: 400;
 			padding: 0px 100px 0px 120px;
 			font-size: 18px;
-			line-height: 30px;
+			line-height: 34px;
 			color: white;
 			text-align: center;
 			box-sizing: border-box;
