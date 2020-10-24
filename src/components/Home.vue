@@ -18,8 +18,8 @@
             <a href="mailto:hello@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
   					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
             <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
-  					<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
-  					<a href="https://twitter.com/jo_duplessis"><img src="../assets/icons/twitter-fill.svg" /></a>
+  					<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
+  					<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
   				</div>
   			</div>
   		</div>
