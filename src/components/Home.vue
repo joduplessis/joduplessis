@@ -68,7 +68,7 @@
 
 		.main .inner {
 			flex: 1;
-			background: #00a78e url(../assets/wallpaper.svg);
+			background: #272C36;
 		  background-size: auto 1px;
 			flex-grow: 1;
 			display: flex;
@@ -158,8 +158,10 @@
 
 
 		.footer .link.underline {
-			box-shadow: inset 0px 18px 0 white, inset 0 -20px 0 black;
-
+			box-shadow: inset 0px 18px 0 #272C36, inset 0 -20px 0 #272C36;
+			color: white;
+			padding-left: 3px;
+			padding-right: 3px;
 		}
 
 	.footer .link:hover {
