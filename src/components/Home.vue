@@ -2,11 +2,10 @@
     <div class="home">
 		<div class="main">
 			<div class="inner">
-				<img src="../assets/profile-photo.jpg" />
+				<img src="../assets/profile-photo.png" />
 
 				<h1>
 					Hello!
-
 				</h1>
 				<h2>
 					 I am a full-stack developer & occasional designer.</br>
