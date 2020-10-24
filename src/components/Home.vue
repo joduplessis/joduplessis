@@ -1,33 +1,28 @@
 <template>
     <div class="home">
-		<div class="main">
-			<div class="inner">
-				<img src="../assets/profile-photo.png" />
+  		<div class="main">
+  			<div class="inner">
+  				<img src="../assets/profile-photo.png" />
 
-				<h1>
-					Hello!
-				</h1>
-				<h2>
-					 I am a full-stack developer & occasional designer.</br>
-					Currently lead developer @ <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a>, working on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>. </br>
-					I also <a href="https://github.com/joduplessis" target="_blank" class="highlight">build things</a>.
-				</h2>
-			</div>
-		</div>
-		<div class="footer">
-			<a href="mailto:hello@joduplessis.com" target="_blank" class="link"><span>hello@joduplessis.com</span></a>
-			<router-link :to="{ name: 'Work'}" class="link underline"><span>Projects</span></router-link>
-			<a href="https://yack.app" target="_blank" class="link"><span>Yack</span></a>
-			<a href="https://weekdayapp.com" target="_blank" class="link"><span>Weekday</span></a>
-			<a href="https://pdfasaurus.com" target="_blank" class="link"><span>PDFasaurus</span></a>
-
-			<div class="social">
-				<a href="https://www.npmjs.com/~joduplessis" target="_blank" class="link social-icon"><img src="../assets/npm.png" /></a>
-				<a href="https://github.com/joduplessis" target="_blank" class="link social-icon"><img src="../assets/github.png" /></a>
-				<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank" class="link social-icon"><img src="../assets/linkedin-logo.png" /></a>
-				<a href="https://twitter.com/jo_duplessis" target="_blank" class="link social-icon"><img src="../assets/twitter.png" /></a>
-			</div>
-		</div>
+  				<h2>
+  					Full-stack developer & occasional designer,</br>
+  					working as lead developer  on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>. </br>
+  					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with &<br/>
+            also busy with
+      			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
+      			<a href="https://weekdayapp.com" target="_blank" class="highlight"><span>Weekday</span></a>,
+      			<a href="https://pdfasaurus.com" target="_blank" class="highlight"><span>PDFasaurus</span></a> &
+            <a href="https://github.com/joduplessis" target="_blank" class="highlight">doodling</a>
+  				</h2>
+  				<div class="icons">
+            <a href="mailto:hello@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
+  					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
+            <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
+  					<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
+  					<a href="https://twitter.com/jo_duplessis"><img src="../assets/icons/twitter-fill.svg" /></a>
+  				</div>
+  			</div>
+  		</div>
     </div>
 </template>
 
@@ -67,8 +62,8 @@
 
 		.main .inner {
 			flex: 1;
-			background: #272C36;
-		  background-size: auto 1px;
+			background: #272C36 url('../assets/wallpaper.png');
+		  background-size: auto 1000px;
 			flex-grow: 1;
 			display: flex;
 			flex-direction: column;
@@ -90,90 +85,48 @@
 			box-shadow: 0px 0px 71px 0px rgba(0,0,0,0.25);
 		}
 
-		.main .inner  h1 {
-			margin: 0px;
-			padding: 0px 100px 0px 120px;
-			font-size: 60px;
-			line-height: 75px;
-			font-weight: 900;
-			text-align: center;
-			box-sizing: border-box;
+		.main .inner .icons {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			align-content: center;
+			justify-content: center;
 			width: 100%;
+			box-sizing: border-box;
+			padding: 10px;
 			color: white;
 		}
 
+			.main .inner .icons img {
+				height: 25px;
+				padding: 10px;
+				width: auto;
+			}
+
 		.main .inner  h2 {
 			margin: 30px 0px 0px 0px;
-			font-weight: 300;
+			font-weight: 400;
 			padding: 0px 100px 0px 120px;
-			font-size: 20px;
-			line-height: 38px;
+			font-size: 18px;
+			line-height: 30px;
 			color: white;
 			text-align: center;
 			box-sizing: border-box;
 			width: 100%;
+			font-family: source-code-pro, sans-serif;
 		}
 
 	.highlight {
 		color: white;
 		font-weight: 700;
 		text-decoration: none;
+		font-family: source-code-pro, sans-serif;
+		text-decoration: underline;
 	}
 
-	.footer {
-		z-index: 2;
-		position: fixed;
-		bottom: 0px;
-		left: 0px;
-		width: 100%;
-		padding: 0px;
-		display: flex;
-		flex-direction: row;
-		align-items: center;
-		align-content: center;
-		justify-content: flex-end;
-	}
-
-	.footer .social {
-		display: flex;
-		flex-direction: row;
-		align-items: center;
-		align-content: center;
-		justify-content: flex-end;
-		padding-left: 20px;
-	}
-
-	.footer .link {
-		text-decoration: none;
-		font-size: 14px;
-		text-transform: uppercase;
-		font-weight: 600;
-		margin-left: 30px;
-		margin-bottom: 50px;
-		color: black;
-		transition: opacity 0.5s;
-		opacity: 1;
-	}
-
-
-		.footer .link.underline {
-			box-shadow: inset 0px 18px 0 #272C36, inset 0 -20px 0 #272C36;
-			color: white;
-			padding-left: 3px;
-			padding-right: 3px;
+		.highlight:hover {
+			opacity: 0.9;
 		}
-
-	.footer .link:hover {
-		opacity: 0.5;
-	}
-
-	.footer .social-icon img {
-		height: 20px;
-	}
-
-	.footer .link:last-child {
-		margin-right: 100px;
-	}
 
 	@media (min-width: 1024px) {
 	}
@@ -182,18 +135,12 @@
 	}
 
 	@media (max-width: 480px) {
-		.main .inner  h1 {
-			font-size: 2em;
-			line-height: normal;
-			padding: 20px 20px 0px 20px;
-		}
-
 		.highlight {
 			text-decoration: none;
 		}
 
 		.main .inner  h2 {
-			font-size: 1em;
+			font-size: 0.75em;
 			line-height: normal;
 			padding: 0px 20px 20px 20px;
 		}
@@ -202,43 +149,5 @@
 			margin: 20px 20px 170px 20px;
 		}
 
-		.footer .link {
-			margin-left: 20px;
-			margin-bottom: 10px;
-			font-size: 12px;
-		}
-
-		.footer {
-			flex-direction: column;
-			align-items: flex-start;
-			align-content: flex-start;
-			justify-content: flex-start;
-		}
-
-			.footer .link.underline {
-				box-shadow: inset 0px -4px 0 #FCDD35, inset 0 -15px 0 white;
-				text-decoration: none;
-			}
-
-		.footer .social {
-			margin-bottom: 20px;
-			padding-left: 0px;
-		}
-
-		.footer .link.social-icon {
-			margin-left: 10px;
-		}
-
-		.footer .social-icon img {
-			height: 15px;
-		}
-
-		.footer .link:first-child {
-			margin-left: 20px;
-		}
-
-		.footer .link:last-child {
-			margin-right: 0px;
-		}
 	}
 </style>
