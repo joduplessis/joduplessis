@@ -5,7 +5,7 @@
   				<img src="../assets/profile-photo.png" />
 
   				<h2>
-  					Full-stack developer & occasional designer. ♥️ JS.</br>
+  					Full stack developer & occasional designer. ♥️ JS.</br>
   					Working as lead developer at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a> on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>.</br>
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
             Also working on
@@ -15,10 +15,12 @@
   				</h2>
   				<div class="icons">
             <a href="mailto:hello@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
+						<a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a>
   					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
             <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
-  					<a href="https://www.linkedin.com/in/jo-du-plessis-a03b0110/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
+  					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
   					<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
+						<a href="https://joduplessis.com/resume" target="_blank"><img src="../assets/icons/file-text-fill.svg" /></a>
   				</div>
   			</div>
   		</div>
