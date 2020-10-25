@@ -7,7 +7,7 @@
   				<h2>
   					Full-stack developer & occasional designer. ♥️ JS.</br>
   					Working as lead developer at <a href="https://yreeka.com" target="_blank" class="highlight">Yreeka</a> on <a href="https://teachfolk.com" target="_blank" class="highlight">Teachfolk</a>.</br>
-  					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with &<br/>
+  					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
             Also working on
       			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
       			<a href="https://weekdayapp.com" target="_blank" class="highlight"><span>Weekday</span></a> &
