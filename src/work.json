@@ -1052,7 +1052,7 @@
       "links": [
         "https://joduplessis.com/playfirst"
       ],
-      "notes": "Deliver intuitive learning experiences wrapped in an immersive game world. You can focus on the content, instead of jumping over the technical hurdles.",
+      "notes": "Deliver intuitive learning experiences wrapped in an immersive game world. You can focus on the content, instead of jumping over the technical hurdles. This was intended to be a framework for quickly building educational games for companies. Some of the features included: city building with drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
       "partner": "",
       "project": "Playfirst",
       "roles": [
