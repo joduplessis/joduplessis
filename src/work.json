@@ -151,9 +151,10 @@
       ],
       "links": [
         "https://yack.app",
+				"https://yack.app/auth",
 				"https://github.com/Yack"
       ],
-      "notes": "Love user  feedback again (launching soon).",
+      "notes": "Love user  feedback again (launching soon). This is pre-release so please expect things to break when signing up.",
       "partner": "",
       "project": "Yack",
       "roles": [
