@@ -117,6 +117,8 @@
 
 			.main .inner .icons a.yack img{
 				height: 20px;
+				position:relative;
+				top: 1px;
 			}
 
 				.main .inner .icons img:hover {
