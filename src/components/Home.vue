@@ -20,7 +20,7 @@
             <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
   					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
   					<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
-						<a href="javascript:void(0)" id="yack.app" data-inbox="joduplessis" class="yack"><img src="../assets/icons/yack.svg" /></a>
+						<a href="javascript:void(0)" id="yack" data-inbox="joduplessis" class="yack"><img src="../assets/icons/yack.svg" /></a>
   				</div>
   			</div>
   		</div>
