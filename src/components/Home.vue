@@ -20,7 +20,7 @@
             <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
   					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
   					<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
-						<!-- <a href="https://joduplessis.com/resume" target="_blank"><img src="../assets/icons/file-text-fill.svg" /></a> -->
+						<a href="javascript:void(0)" id="yack.app" data-inbox="joduplessis" class="yack"><img src="../assets/icons/yack.svg" /></a>
   				</div>
   			</div>
   		</div>
@@ -106,6 +106,19 @@
 				width: auto;
 			}
 
+			.main .inner .icons	a {
+				opacity: 1;
+				transition: 0.2s opacity;
+			}
+
+				.main .inner .icons a:hover {
+					opacity: 0.75;
+				}
+
+			.main .inner .icons a.yack img{
+				height: 20px;
+			}
+
 				.main .inner .icons img:hover {
 					opacity: 0.9;
 				}
@@ -134,6 +147,27 @@
 		.highlight:hover {
 			opacity: 0.9;
 		}
+
+	@media only screen and (max-device-height : 700px) {
+		.main .inner {
+			margin: 5px;
+		}
+
+    .main .inner img {
+			width: 100px;
+			height: 100px;
+			margin-bottom: 0px;
+		}
+
+		.main .inner  h2 {
+			margin: 30px;
+		}
+
+		.main .inner .icons {
+			padding: 0px;
+		}
+  }
+
 
 	@media (min-width: 1024px) {
 	}
