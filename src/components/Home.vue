@@ -14,7 +14,7 @@
       			<a href="https://pdfasaurus.com" target="_blank" class="highlight"><span>PDFasaurus</span></a>.
   				</h2>
   				<div class="icons">
-            <a href="mailto:hello@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
+            <a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
 						<a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a>
   					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
             <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
@@ -32,7 +32,7 @@
 	console.log('%c Resume → https://joduplessis.com/resume', 'background: #222; color: #bada55');
 	console.log('%c Projects JSON → https://joduplessis.com/work.json', 'background: #222; color: #bada55');
 	console.log('%c Mobile → +49 174 870 6065', 'background: #222; color: #bada55');
-	console.log('%c Email → hello@joduplessis.com', 'background: #222; color: #bada55');
+	console.log('%c Email → jo@joduplessis.com', 'background: #222; color: #bada55');
 
 	export default {
 		name: 'home',

@@ -9,7 +9,7 @@
 				Disclaimer! Some of the work here have been collaborations with agencies & others while working full-time somewhere.
 				Others have been removed due to the nature of the work or an NDA - but I've tried to be clear wherever possible.
 				Most projects here are also archived, so if a link does not work (specifically old Wordpress sites), or if you have any questions -
-				<a href="mailto:hello@joduplessis.com">please let me know</a>.
+				<a href="mailto:jo@joduplessis.com">please let me know</a>.
 			</p>
 		</div>
 		<div class="items">
