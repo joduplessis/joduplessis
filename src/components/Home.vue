@@ -5,8 +5,8 @@
   				<img src="../assets/profile-photo.png" />
 
   				<h2>
-  					Full stack developer & occasional designer. ♥️ JS.</br>
-  					Working as lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
+  					Purveyor of code & pixels. ♥️ JS.</br>
+  					Lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
             Also working on
       			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
