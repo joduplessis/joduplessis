@@ -7,8 +7,10 @@
   				<h2>
   					Purveyor of code & pixels. ♥️ JS.</br>
   					Lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
+						<!--
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
-            Also working on
+						-->
+            Maker of
       			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
       			<a href="https://weekdayapp.com" target="_blank" class="highlight"><span>Weekday</span></a> &
       			<a href="https://pdfasaurus.com" target="_blank" class="highlight"><span>PDFasaurus</span></a>.
