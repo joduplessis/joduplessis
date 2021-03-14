@@ -5,7 +5,7 @@
   				<img src="../assets/profile-photo.png" />
 
   				<h2>
-  					Purveyor of code & pixels. ♥️ JS.</br>
+  					Purveyor of code & pixels.</br>
   					Lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
 						<!--
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
