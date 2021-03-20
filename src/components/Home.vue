@@ -12,7 +12,7 @@
 						-->
             Maker of
       			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
-      			<a href="https://weekdayapp.com" target="_blank" class="highlight"><span>Weekday</span></a> &
+      			<a href="https://deskbear.app" target="_blank" class="highlight"><span>Deskbear</span></a> &
       			<a href="https://pdfasaurus.com" target="_blank" class="highlight"><span>PDFasaurus</span></a>.
   				</h2>
   				<div class="icons">
