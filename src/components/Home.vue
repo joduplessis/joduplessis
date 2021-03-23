@@ -9,17 +9,17 @@
   					Lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
 						<!--
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
-						-->
             Maker of
       			<a href="https://yack.app" target="_blank" class="highlight"><span>Yack</span></a>,
       			<a href="https://deskbear.app" target="_blank" class="highlight"><span>Deskbear</span></a> &
       			<a href="https://pdfasaurus.com" target="_blank" class="highlight"><span>PDFasaurus</span></a>.
+						-->
   				</h2>
   				<div class="icons">
             <a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
 						<!-- <a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a> -->
   					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
-            <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
+            <!-- <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a> -->
   					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
   					<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
   				</div>
