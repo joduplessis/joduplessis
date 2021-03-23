@@ -7,6 +7,7 @@
   				<h2>
   					Purveyor of code & pixels.</br>
   					Lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
+						Maker of <a href="https://pdfasaurus.com" target="_blank" class="highlight">PDFasaurus</a>.
 						<!--
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
             Maker of
