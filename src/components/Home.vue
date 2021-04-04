@@ -17,7 +17,7 @@
 						-->
   				</h2>
   				<div class="icons">
-            <a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
+            <!-- <a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a> -->
 						<!-- <a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a> -->
   					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
             <!-- <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a> -->
