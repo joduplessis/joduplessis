@@ -6,7 +6,6 @@
 
   				<h2>
   					Purveyor of code & pixels.</br>
-  					Lead UI/UX engineer at <a href="https://adtriba.com" target="_blank" class="highlight">Adtriba</a>.</br>
 						Maker of <a href="https://pdfasaurus.com" target="_blank" class="highlight">PDFasaurus</a>.
 						<!--
   					<router-link :to="{ name: 'Work'}" class="highlight">Some</router-link> of the previous work I've been involved with.<br/>
@@ -22,7 +21,7 @@
   					<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
             <!-- <a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a> -->
   					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
-  					<!-- <a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a> -->
+  					<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
   				</div>
   			</div>
   		</div>
