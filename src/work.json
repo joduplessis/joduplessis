@@ -149,12 +149,15 @@
         "store-images/YackNew/03.png",
         "store-images/YackNew/04.png",
         "store-images/YackNew/05.png",
-				"store-images/YackNew/06.png"
+        "store-images/YackNew/06.png",
+        "store-images/YackNew/07.png",
+        "store-images/YackNew/08.png",
+        "store-images/YackNew/09.png",
+        "store-images/YackNew/10.png",
+        "store-images/YackNew/11.png",
       ],
       "links": [
         "https://yack.app",
-				"https://yack.app/auth",
-				"https://github.com/Yack"
       ],
       "notes": "Love user  feedback again (launching soon). This is pre-release so please expect things to break when signing up.",
       "partner": "",
@@ -4447,7 +4450,7 @@
       "links": [
         "http://joduplessis.com/store/Trainiac-DimensionDataCasino/"
       ],
-      "notes": "Lightweight presentation builder for the web that runs off of JS/Micron, with support for basic animations & embedding via iFrames.",
+      "notes": "Casino themed educational Flash game for Dimension Data. Artwork was mostly provided by Trainiac.",
       "partner": "Trainiac",
       "project": "Dimension Data Casino game",
       "roles": [
@@ -4852,7 +4855,7 @@
         "http://joduplessis.com/store/Mrphome/CatalogueHomewareWinter2014/engine.php?pages=15",
         "http://joduplessis.com/store/Mrphome/CatalogueSpring2014/engine.php?pages=13"
       ],
-      "notes": "Interactive campaign catalogues built with Micron/Paper",
+      "notes": "Lightweight presentation builder for the web that runs off of JS/Micron, with support for basic animations & embedding via iFrames.",
       "partner": "MRP Home",
       "project": "Mrphome interactive catalogues",
       "roles": [
