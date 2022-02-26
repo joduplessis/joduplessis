@@ -286,11 +286,27 @@
         "store-images/Weekday/06.png",
         "store-images/Weekday/07.png",
         "store-images/Weekday/08.png",
-        "store-images/Weekday/09.png"
+        "store-images/Weekday/09.png",
+        "store-images/Weekday/10.png",
+        "store-images/Weekday/11.png",
+        "store-images/Weekday/12.png",
+        "store-images/Weekday/13.png",
+        "store-images/Weekday/14.png",
+        "store-images/Weekday/15.png",
+        "store-images/Weekday/16.png",
+        "store-images/Weekday/17.png",
+        "store-images/Weekday/18.png",
+        "store-images/Weekday/19.png",
+        "store-images/Weekday/20.png",
+        "store-images/Weekday/21.png",
+        "store-images/Weekday/22.png",
+        "store-images/Weekday/23.png",
+        "store-images/Weekday/24.png",
+        "store-images/Weekday/25.png",
+        "store-images/Weekday/26.png"
       ],
       "links": [
-        "https://weekdayapp.com",
-				"https://github.com/WeekdayApp"
+        "https://weekday.work"
       ],
       "notes": "Product & platform build for Weekday. Give your team superpowers. Weekday is a messaging & collaboration platform that brings your team together. (alpha testing)",
       "partner": "",
