@@ -22,83 +22,14 @@
         "Typescript",
         "GitHub"
       ],
-      "year": 2020
+      "year": 2022
     },
+
+
+
+
+
 		{
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/github.jpg",
-        "store-images/github.jpg"
-      ],
-      "links": [
-        "https://github.com/joduplessis/zero"
-      ],
-      "notes": "Zero is a zero fuss dependancy injection container.",
-      "partner": "",
-      "project": "Zero",
-      "roles": [
-        "Development"
-      ],
-      "slug": "joduplessis-zero",
-      "tags": [
-        "Javascript",
-        "Typescript",
-        "NPM",
-        "SemVer"
-      ],
-      "year": 2020
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/github.jpg",
-        "store-images/github.jpg"
-      ],
-      "links": [
-        "https://github.com/joduplessis/keg"
-      ],
-      "notes": "Keg is a flexible messaging queue with middleware powers.",
-      "partner": "",
-      "project": "Keg",
-      "roles": [
-        "Development"
-      ],
-      "slug": "joduplessis-keg",
-      "tags": [
-        "Javascript",
-        "Typescript",
-        "NPM",
-        "SemVer"
-      ],
-      "year": 2020
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/github.jpg",
-        "store-images/github.jpg"
-      ],
-      "links": [
-        "https://github.com/joduplessis/conductor",
-        "https://github.com/joduplessis/generator-joduplessis-conductor"
-      ],
-      "notes": "Conductor is a straightforward routing library for React using browser pushState, with type support too. ",
-      "partner": "",
-      "project": "Conductor",
-      "roles": [
-        "Development"
-      ],
-      "slug": "joduplessis-conductor",
-      "tags": [
-        "Javascript",
-        "Typescript",
-        "Yoeman",
-        "NPM",
-        "SemVer"
-      ],
-      "year": 2020
-    },
-    {
       "author": "Jo du Plessis",
       "images": [
         "store-images/PDFasaurus/00.png",
@@ -159,8 +90,8 @@
       "links": [
         "https://yack.app"
       ],
-      "notes": "Love user  feedback again (launching soon). This is pre-release so please expect things to break when signing up.",
-      "partner": "",
+      "notes": "Platform architecture, design & development for Yreeka. Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
+      "partner": "Yreeka",
       "project": "Yack",
       "roles": [
         "Design",
@@ -182,7 +113,7 @@
 				"WebSockets",
 				"Typescript"
       ],
-      "year": 2020
+      "year": 2019
     },
     {
       "author": "Jo du Plessis",
@@ -303,20 +234,27 @@
         "store-images/Weekday/23.png",
         "store-images/Weekday/24.png",
         "store-images/Weekday/25.png",
-        "store-images/Weekday/26.png"
+        "store-images/Weekday/26.png",
+        "store-images/Weekday/27.png",
+        "store-images/Weekday/28.png",
+        "store-images/Weekday/29.png",
+        "store-images/Weekday/30.png",
+        "store-images/Weekday/31.png",
+        "store-images/Weekday/32.png"
       ],
       "links": [
         "https://weekday.work"
       ],
-      "notes": "Product & platform build for Weekday. Give your team superpowers. Weekday is a messaging & collaboration platform that brings your team together. (alpha testing)",
-      "partner": "",
+      "notes": "Product & platform build for Weekday & Yreeka. Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
+      "partner": "Yreeka",
       "project": "Weekday",
       "roles": [
         "Architecture",
         "Design",
         "Strategy",
         "Development",
-        "DevOps"
+        "DevOps",
+				"Team Lead"
       ],
       "slug": "weekday",
       "tags": [
@@ -380,7 +318,7 @@
 				"Zapier integration",
         "Lots of other things - see project on Github"
       ],
-      "year": 2020
+      "year": 2019
     },
     {
       "author": "Jo du Plessis",
@@ -502,8 +440,8 @@
         "https://wami.app",
 				"https://gitlab.com/groups/WamiApp"
       ],
-      "notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. ",
-      "partner": "Wami",
+      "notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. This project was a personal project of myself and a friend where attempted to get funding by building a workable MVP.",
+      "partner": "",
       "project": "Wami",
       "roles": [
         "DevOps",
@@ -549,7 +487,7 @@
         "Tokenization",
         "Instant Messaging"
       ],
-      "year": 2019
+      "year": 2018
     },
 		{
 			"author": "Jo du Plessis",
@@ -573,7 +511,7 @@
 			],
 			"links": null,
 			"notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
-			"partner": "",
+			"partner": "Yreeka",
 			"project": "Beiersdorf Consumer Insights platform concept pitch",
 			"roles": [
 				"Design",
@@ -696,34 +634,6 @@
         "API"
       ],
       "year": 2018
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/github.jpg",
-        "store-images/github.jpg"
-      ],
-      "links": [
-        "https://github.com/joduplessis/Relic"
-      ],
-      "notes": "Relic is a straightforward NodeJS/MongoDB framework for writing USSD enabled applications, managing users & basic API access to the data using JWTs. ",
-      "partner": "",
-      "project": "Relic",
-      "roles": [
-        "Development"
-      ],
-      "slug": "relic",
-      "tags": [
-        "API",
-        "NodeJS",
-        "MongoDB",
-        "Facebook Messenger",
-        "Bot",
-        "Express",
-        "NodeJS child process",
-        "API"
-      ],
-      "year": 2017
     },
     {
       "author": "Jo du Plessis",
@@ -1074,13 +984,14 @@
       "links": [
         "https://joduplessis.com/playfirst"
       ],
-      "notes": "Deliver intuitive learning experiences wrapped in an immersive game world. You can focus on the content, instead of jumping over the technical hurdles. This was intended to be a framework for quickly building educational games for companies. Some of the features included: city building with drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
-      "partner": "",
+      "notes": "City building educational game & LMS featuring drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
+      "partner": "Yreeka",
       "project": "Playfirst",
       "roles": [
+				"DevOps",
         "Development",
-        "design",
-        "strategy"
+        "Design",
+        "Strategy"
       ],
       "slug": "playfirst",
       "tags": [
@@ -1100,7 +1011,7 @@
         "Continuous Delivery",
         "Docker"
       ],
-      "year": 2018
+      "year": 2017
     },
     {
       "author": "Jo du Plessis",
