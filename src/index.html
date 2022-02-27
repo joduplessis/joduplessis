@@ -678,15 +678,12 @@
 
     <h1 id="experience">Notable Projects & Personal Work</h1><a name="projects"></a>
 
-    <blockquote>
-      I've also been responsible for all of the development, design & infrastructure for projects listed below
-    </blockquote>
     <ul>
       <li>
-        <a href="https://github.com/joduplessis/noom-tools" target="_blank">Noom Tools</a> <span class="current">current</span> - Noom Tools is an opinionated boilerplate for creating realtime & component driven JAMStack apps. Some of the features include:
+        <a href="https://github.com/joduplessis/noom-tools" target="_blank">Noom Tools</a> <span class="current">current</span> - Noom Tools is a work-in-progress opinionated boilerplate I've developed for building realtime/component driven JAMStack apps. I've created it from my experience building products, to try make common features easier. It's not exhaustive, but some of the features include:
         <ul>
 					<li>Typescript & linting</li>
-					<li>An API built with Fastify</li>
+					<li>A RESTful API built with Fastify</li>
 					<li>A component library & frontend built with React (already ingrated with the API)</li>
 					<li>Realtime communication using websockets, Socket.io & Redis (for scaling the service)</li>
 					<li>Custom JWT based authentication & claims</li>
@@ -701,6 +698,7 @@
 					<li>Sass everywhere for styles using BEM</li>
 					<li>A modular pattern for building a frontend application in a scalable way</li>
 					<li>Sentry integration for catching errors</li>
+					<li>React Query for cache & fetching data</li>
 					<li>A customizable webpack config geared for multi stage deployments</li>
 					<li>A set of easy to use React Hooks that makes integrating difficult tasks easy, listening for websocket events is as simple as:</li>
         </ul>
@@ -713,7 +711,16 @@
           <li>Self hosted depeloyment with Dokku on Hetzner.</li>
         </ul>
       </li>
-      <li><a href="https://wami.app" target="_blank">Wami</a> - a diabetes consulting &amp; community messaging app. Please see <a href="https://joduplessis.com/work/wami" target="_blank">this link</a> & <a href="https://gitlab.com/WamiApp" target="_blank">this link for the source</a>.  This was started with a friend, we attempted to get funding with having a functioning demo - unfortunately didn't succeed.
+    </ul>
+
+    <blockquote>
+      Other projects that are not actively maintained. Please see my <a href="https://joduplessis.com/work" target="_blank">website</a> &amp; <a href="https://github.com/joduplessis?tab=repositories" target="_blank">Github account</a> for the most up to date work. Below are some projects that I feel have been notable.
+    </blockquote>
+
+
+
+    <ul>
+      <li><a href="https://wami.app" target="_blank">Wami</a> - a diabetes consulting &amp; community messaging app. Please see <a href="https://joduplessis.com/work/wami" target="_blank">this link</a> & <a href="https://gitlab.com/WamiApp" target="_blank">this link for the source</a>. This was started with a friend, we attempted to get funding with having a functioning demo - unfortunately didn't succeed. I was responsible for all technical development & design.
         <ul>
           <li>Android & iOS app built with React Native, Redux, Apollo Client, Realm & WebRTC.</li>
           <li>Initial tech stack was AWS Amplify - but switched to a custom auth setup due to early Amplify & RN incompatibilities.</li>
@@ -722,24 +729,22 @@
           <li>WebRTC/MQTT/EMQX is used for realtime messaging features &amp; video calling.</li>
         </ul>
        </li>
-       <li>Keg - a flexible messaging queue with middleware capabilities - built with Typescript - used in Weekday &amp; Teachfolk (Yreeka)  - please see <a href="https://github.com/joduplessis/keg" target="_blank">this link</a>.</li>
-       <li>SourceX - Redux & Rx inspired state management library (in development) - please see <a href="https://github.com/joduplessis/sourcex" target="_blank">this link</a>.</li>
-       <li>Conductor - a router library for React built with Typescript (with a Yoeman generator) - please see <a href="https://github.com/joduplessis/conductor" target="_blank">this link</a>.</li>
-    </ul>
-
-    <blockquote>
-      Other projects that have been retired or archived for some reason. Please see my <a href="https://joduplessis.com/work" target="_blank">website</a> &amp; <a href="https://github.com/joduplessis?tab=repositories" target="_blank">Github account</a> for the most up to date work. Below are some projects that I feel have been notable.
-    </blockquote>
-    <ul>
-      <li><a href="https://joduplessis.com/work/playfirst" target="_blank">Playfirst</a> - a game building platform built with Unity3D (C#), Java (multiplayer server) &amp; CodeIgnitor/React for the web application. This was intended to be a framework for quickly building educational games for companies. Some of the features included: city building with drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game. Partner here was Yreeka, but mostly developed outside of my day-to-day responsibilities.</li>
+			<li><a href="https://joduplessis.com/work/playfirst" target="_blank">Playfirst</a> - a game building platform built with Unity3D (C#), Java (multiplayer server) &amp; CodeIgnitor/React for the web application. This was intended to be a framework for quickly building educational games for companies. Some of the features included: city building with drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game. Partner here was Yreeka, but mostly developed outside of my day-to-day responsibilities.</li>
+			<li><a href="https://github.com/joduplessis/geronimo" target="_blank">Geronimo</a> - a NodeJS Facebook Messenger app that translates audio to text using Google Speech & CloudConvert, and then searches a SQL Server database using the transcribed audio.</li>
+			<li><a href="https://github.com/joduplessis/paper" target="_blank">Paper</a> - a lightweight presentation builder for the web that runs off of JS/Micron, with support for basic animations & embedding via iFrames.</li>
+			<li><a href="https://github.com/joduplessis/zero" target="_blank">Zero</a> - a zero fuss dependancy injection container.</li>
+			<li><a href="https://github.com/joduplessis/keg" target="_blank">Keg</a> - a flexible messaging queue with middleware capabilities - built with Typescript - used in Weekday &amp; Teachfolk (Yreeka).</li>
+			<li><a href="https://github.com/joduplessis/sourcex" target="_blank">SourceX</a> - Redux & Rx inspired state management library (in development).</li>
+			<li><a href="https://github.com/joduplessis/conductor" target="_blank">Conductor</a> - a router library for React built with Typescript (with a Yoeman generator).</li>
       <li><a href="https://joduplessis.com/work/trainiac-dimensiondatasentinels" target="_blank">Dimension Data Sentinels HTML5 game</a> - an HTML5 canvas multiplayer game built for Dimension Data for product education. Some of the features included realtime in-game chat (socket.io), pathfinding & scoreboard</li>
       <li><a href="https://github.com/joduplessis/max" target="_blank">Max</a> - a Slack web bot (please see "Robojo" under Yreeka).</li>
-      <li><a href="https://joduplessis.com/work/hive-twitter" target="_blank">Twitter feed scree</a> for Hive Connect's launch event - hosted on Heroku &amp; Digital Ocean for the websocket server.</li>
+      <li><a href="https://joduplessis.com/work/hive-twitter" target="_blank">Twitter feed screen</a> for Hive Connect's launch event - hosted on Heroku &amp; Digital Ocean for the websocket server.</li>
       <li><a href="https://github.com/joduplessis/seymour" target="_blank">Seymour</a> - command line utility written in Go that exports a scaffolded CSS document based using it's own syntax.</li>
       <li><a href="https://joduplessis.com/work/hive-sab" target="_blank">SAB event prize drawer application</a> built with EmberJS, Firebase &amp; websocket server hosted on Digital Ocean.</li>
       <li><a href="https://joduplessis.com/work/micronmvc" target="_blank">Micron MVC</a> - MVC framework written in PHP using Laravel's Eloquent, implemented at MRPHome.</li>
-      <li>There have been other projects I've worked on in the past that (for me) have been notable - please see <a href="https://joduplessis.com/work" target="_blank">my website</a> for a more complete list & also my work under <a href="#experience">Hirt & Carter Software Solutions</a> & <a href="#experience">MRP Home</a> above.</li>
     </ul>
+
+		There have been other projects (not listed here) I've worked on in the past that have been notable - please see <a href="https://joduplessis.com/work" target="_blank">my website</a> for a more complete list & also my work under <a href="#experience">Hirt & Carter Software Solutions</a> & <a href="#experience">MRP Home</a> above.
 
 
     <hr />
@@ -793,6 +798,11 @@
 
     <hr />
     <h1 id="references">References</h1><a name="references"></a>
+
+		<h3 id="marcus-denison">Marcus Denison (former Head of Software Engineering @ Adtriba)</h3>
+    <p>+27 83 448 6623 - mathew@yreeka.com</p>
+		<h3 id="ariel-barra">Ariel Barra (Senior Backend Engineer @ ADtriba)</h3>
+    <p>+27 83 448 6623 - mathew@yreeka.com</p>
 
     <h3 id="mat-haswell-yreeka-director">Mat Haswell (Yreeka Director, current employer)</h3>
     <p>+27 83 448 6623 - mathew@yreeka.com</p>
