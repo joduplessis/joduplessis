@@ -3,6 +3,74 @@
 		{
       "author": "Jo du Plessis",
       "images": [
+				"store-images/Adtriba/logo.png",
+				"store-images/Adtriba/logo.png"
+      ],
+      "links": [
+        "https://adtriba.com"
+      ],
+      "notes": "Adtriba is a marketing attribution & machine learning company.",
+      "partner": "Adtriba",
+      "project": "Adtriba",
+      "roles": [
+        "UI/UX Development",
+				"Design",
+				"DevOps",
+				"Branding",
+				"Strategic"
+      ],
+      "slug": "adtriba",
+      "tags": [
+        "React",
+        "Babel",
+        "Redux",
+        "Middleware",
+        "Figma",
+        "GitHub",
+        "Jest",
+        "Enzyme",
+        "Auth0",
+        "Adobe design products",
+        "Sentry",
+        "Gulp",
+        "GraphQL",
+        "REST",
+				"App store",
+				"OAuth",
+				"Electron",
+				"Cordova",
+				"Responsive",
+        "GitHub Actions",
+        "GitFlow",
+        "SASS",
+        "Prop Types",
+        "Markdown",
+        "Webpack",
+        "Chroma-js",
+        "Moment",
+				"DayJS",
+        "RxJS",
+        "Docker",
+        "Docker Compose",
+        "AWS",
+        "Web Workers / Service Workers",
+        "Offline caching",
+        "Lazy loading (React suspense)",
+				"NextJS",
+				"Storybook",
+				"Typescript",
+        "React Hooks",
+        "Bundle Splitting",
+				"OneSignal",
+				"Kanban"
+      ],
+      "year": 2022
+    },
+
+
+		{
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/github.jpg",
         "store-images/github.jpg"
       ],
@@ -14,7 +82,9 @@
       "partner": "",
       "project": "libraries, projects & snippets",
       "roles": [
-        "Development"
+        "Design",
+        "Development",
+        "DevOps"
       ],
       "slug": "joduplessis-github",
       "tags": [
@@ -90,7 +160,7 @@
       "links": [
         "https://yack.app"
       ],
-      "notes": "Platform architecture, design & development for Yreeka. Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
+      "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
       "partner": "Yreeka",
       "project": "Yack",
       "roles": [
@@ -132,7 +202,7 @@
       "links": [
         "https://teachfolk.com"
       ],
-      "notes": "Platform architecture, design & development for Yreeka. Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
+      "notes": "Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
       "partner": "Yreeka",
       "project": "Teachfolk",
 			"roles": [
@@ -245,7 +315,7 @@
       "links": [
         "https://weekday.work"
       ],
-      "notes": "Product & platform build for Weekday & Yreeka. Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
+      "notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
       "partner": "Yreeka",
       "project": "Weekday",
       "roles": [
