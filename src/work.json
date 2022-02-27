@@ -680,34 +680,6 @@
     {
       "author": "Jo du Plessis",
       "images": [
-        "store-images/github.jpg",
-        "store-images/github.jpg"
-      ],
-      "links": [
-        "https://github.com/joduplessis/Geronimo"
-      ],
-      "notes": "Geronimo is a NodeJS Facebook Messenger app that translates audio to text using Google Speech & CloudConvert, and then searches a SQL Server database using the transcribed audio. ",
-      "partner": "",
-      "project": "Geronimo",
-      "roles": [
-        "Development"
-      ],
-      "slug": "geronimo",
-      "tags": [
-        "API",
-        "NodeJS",
-        "MongoDB",
-        "Facebook Messenger",
-        "Bot",
-        "Express",
-        "NodeJS child process",
-        "API"
-      ],
-      "year": 2018
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
         "store-images/HCSS-Spar/00.png",
         "store-images/HCSS-Spar/01.png",
         "store-images/HCSS-Spar/02.png"
