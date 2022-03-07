@@ -9,7 +9,7 @@
       "links": [
         "https://adtriba.com"
       ],
-      "notes": "Adtriba is a marketing attribution & machine learning company.",
+      "notes": "Adtriba is a marketing attribution & machine learning company. Screenshots available on request.",
       "partner": "Adtriba",
       "project": "Adtriba",
       "roles": [
@@ -62,7 +62,93 @@
         "React Hooks",
         "Bundle Splitting",
 				"OneSignal",
-				"Kanban"
+				"BEM",
+				"Kanban",
+				"Logo design",
+				"UX"
+      ],
+      "year": 2022
+    },
+
+
+		{
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/github.jpg",
+        "store-images/github.jpg"
+      ],
+      "links": [
+        "https://github.com/joduplessis/noom-tools"
+      ],
+      "notes": "Noom Tools is an opinionated boilerplate for creating realtime & component driven JAMStack apps.",
+      "partner": "",
+      "project": "Noom Tools",
+      "roles": [
+        "Development"
+      ],
+      "slug": "joduplessis-noomtools",
+      "tags": [
+        "Javascript",
+        "Typescript",
+        "GitHub",
+				"React",
+				"Babel",
+				"Redux",
+				"Middleware",
+				"Figma",
+				"GitHub",
+				"Jest",
+				"Enzyme",
+				"Auth0",
+				"Adobe design products",
+				"Sentry",
+				"Gulp",
+				"GraphQL",
+				"REST",
+				"App store",
+				"OAuth",
+				"Electron",
+				"Cordova",
+				"Responsive",
+				"GitHub Actions",
+				"GitFlow",
+				"SASS",
+				"Prop Types",
+				"Markdown",
+				"Webpack",
+				"Chroma-js",
+				"Moment",
+				"DayJS",
+				"RxJS",
+				"Docker",
+				"Docker Compose",
+				"AWS",
+				"Web Workers / Service Workers",
+				"Offline caching",
+				"Lazy loading (React suspense)",
+				"NextJS",
+				"Storybook",
+				"React Hooks",
+				"Bundle Splitting",
+				"OneSignal",
+				"RESTful API",
+				"Fastify",
+				"Swagger",
+				"websockets",
+				"Socket.io",
+				"Redis",
+				"JWT",
+				"Tenant security",
+				"Postmark",
+				"Secure S3",
+				"TypeOrm",
+				"React Testing Library",
+				"Supertest",
+				"Tap",
+				"PubSub",
+				"BEM",
+				"React Query",
+				"React Hooks"
       ],
       "year": 2022
     },

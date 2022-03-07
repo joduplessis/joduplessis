@@ -17,7 +17,7 @@
 					<div class="year">
 						{{getFirstElement(item).year}}
 						<span v-if="getFirstElement(item).partner!=''">
-							- for {{getFirstElement(item).partner}}
+							- {{getFirstElement(item).partner}}
 						</span>
 					</div>
 					<div class="title">

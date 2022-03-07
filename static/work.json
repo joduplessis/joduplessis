@@ -3,6 +3,160 @@
 		{
       "author": "Jo du Plessis",
       "images": [
+				"store-images/Adtriba/logo.png",
+				"store-images/Adtriba/logo.png"
+      ],
+      "links": [
+        "https://adtriba.com"
+      ],
+      "notes": "Adtriba is a marketing attribution & machine learning company. Screenshots available on request.",
+      "partner": "Adtriba",
+      "project": "Adtriba",
+      "roles": [
+        "UI/UX Development",
+				"Design",
+				"DevOps",
+				"Branding",
+				"Strategic"
+      ],
+      "slug": "adtriba",
+      "tags": [
+        "React",
+        "Babel",
+        "Redux",
+        "Middleware",
+        "Figma",
+        "GitHub",
+        "Jest",
+        "Enzyme",
+        "Auth0",
+        "Adobe design products",
+        "Sentry",
+        "Gulp",
+        "GraphQL",
+        "REST",
+				"App store",
+				"OAuth",
+				"Electron",
+				"Cordova",
+				"Responsive",
+        "GitHub Actions",
+        "GitFlow",
+        "SASS",
+        "Prop Types",
+        "Markdown",
+        "Webpack",
+        "Chroma-js",
+        "Moment",
+				"DayJS",
+        "RxJS",
+        "Docker",
+        "Docker Compose",
+        "AWS",
+        "Web Workers / Service Workers",
+        "Offline caching",
+        "Lazy loading (React suspense)",
+				"NextJS",
+				"Storybook",
+				"Typescript",
+        "React Hooks",
+        "Bundle Splitting",
+				"OneSignal",
+				"BEM",
+				"Kanban",
+				"Logo design",
+				"UX"
+      ],
+      "year": 2022
+    },
+
+
+		{
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/github.jpg",
+        "store-images/github.jpg"
+      ],
+      "links": [
+        "https://github.com/joduplessis/noom-tools"
+      ],
+      "notes": "Noom Tools is an opinionated boilerplate for creating realtime & component driven JAMStack apps.",
+      "partner": "",
+      "project": "Noom Tools",
+      "roles": [
+        "Development"
+      ],
+      "slug": "joduplessis-noomtools",
+      "tags": [
+        "Javascript",
+        "Typescript",
+        "GitHub",
+				"React",
+				"Babel",
+				"Redux",
+				"Middleware",
+				"Figma",
+				"GitHub",
+				"Jest",
+				"Enzyme",
+				"Auth0",
+				"Adobe design products",
+				"Sentry",
+				"Gulp",
+				"GraphQL",
+				"REST",
+				"App store",
+				"OAuth",
+				"Electron",
+				"Cordova",
+				"Responsive",
+				"GitHub Actions",
+				"GitFlow",
+				"SASS",
+				"Prop Types",
+				"Markdown",
+				"Webpack",
+				"Chroma-js",
+				"Moment",
+				"DayJS",
+				"RxJS",
+				"Docker",
+				"Docker Compose",
+				"AWS",
+				"Web Workers / Service Workers",
+				"Offline caching",
+				"Lazy loading (React suspense)",
+				"NextJS",
+				"Storybook",
+				"React Hooks",
+				"Bundle Splitting",
+				"OneSignal",
+				"RESTful API",
+				"Fastify",
+				"Swagger",
+				"websockets",
+				"Socket.io",
+				"Redis",
+				"JWT",
+				"Tenant security",
+				"Postmark",
+				"Secure S3",
+				"TypeOrm",
+				"React Testing Library",
+				"Supertest",
+				"Tap",
+				"PubSub",
+				"BEM",
+				"React Query",
+				"React Hooks"
+      ],
+      "year": 2022
+    },
+
+
+		{
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/github.jpg",
         "store-images/github.jpg"
       ],
@@ -14,7 +168,9 @@
       "partner": "",
       "project": "libraries, projects & snippets",
       "roles": [
-        "Development"
+        "Design",
+        "Development",
+        "DevOps"
       ],
       "slug": "joduplessis-github",
       "tags": [
@@ -90,7 +246,7 @@
       "links": [
         "https://yack.app"
       ],
-      "notes": "Platform architecture, design & development for Yreeka. Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
+      "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
       "partner": "Yreeka",
       "project": "Yack",
       "roles": [
@@ -132,7 +288,7 @@
       "links": [
         "https://teachfolk.com"
       ],
-      "notes": "Platform architecture, design & development for Yreeka. Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
+      "notes": "Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
       "partner": "Yreeka",
       "project": "Teachfolk",
 			"roles": [
@@ -245,7 +401,7 @@
       "links": [
         "https://weekday.work"
       ],
-      "notes": "Product & platform build for Weekday & Yreeka. Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
+      "notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
       "partner": "Yreeka",
       "project": "Weekday",
       "roles": [
@@ -606,34 +762,6 @@
         "API"
       ],
       "year": 2017
-    },
-    {
-      "author": "Jo du Plessis",
-      "images": [
-        "store-images/github.jpg",
-        "store-images/github.jpg"
-      ],
-      "links": [
-        "https://github.com/joduplessis/Geronimo"
-      ],
-      "notes": "Geronimo is a NodeJS Facebook Messenger app that translates audio to text using Google Speech & CloudConvert, and then searches a SQL Server database using the transcribed audio. ",
-      "partner": "",
-      "project": "Geronimo",
-      "roles": [
-        "Development"
-      ],
-      "slug": "geronimo",
-      "tags": [
-        "API",
-        "NodeJS",
-        "MongoDB",
-        "Facebook Messenger",
-        "Bot",
-        "Express",
-        "NodeJS child process",
-        "API"
-      ],
-      "year": 2018
     },
     {
       "author": "Jo du Plessis",
