@@ -31,6 +31,7 @@
 <script>
 	console.log('%c Hi! 👋🏻', 'background: #222; color: #bada55');
 	console.log('%c Resume → https://joduplessis.com/resume', 'background: #222; color: #bada55');
+	console.log('%c Projects → https://joduplessis.com/work', 'background: #222; color: #bada55');
 	console.log('%c Projects JSON → https://joduplessis.com/work.json', 'background: #222; color: #bada55');
 	console.log('%c Mobile → +49 174 870 6065', 'background: #222; color: #bada55');
 	console.log('%c Email → jo@joduplessis.com', 'background: #222; color: #bada55');
