@@ -1,8 +1,8 @@
 <template>
     <div class="project">
-		<a href="javascript:window.history.back()" class="goback">
+		<router-link class="goback" to="/work">
 			<img height="40" src="../assets/arrow-left.svg" />
-		</a>
+		</router-link>
 		<div class="sections">
 			<div class="images">
 				<a
