@@ -171,7 +171,7 @@
       ],
       "links": [
         "https://pdfasaurus.com",
-				"https://github.com/HatchStudio"
+				"https://github.com/PDFasaurus"
       ],
       "notes": "PDFasaurus let's you create PDF's using familiar HTML & an easy to use API. ",
       "partner": "",
@@ -1122,7 +1122,7 @@
         "store-images/Hive/Twitter/01.jpg"
       ],
       "links": [
-        "https://github.com/HatchStudio/hive-twitter"
+        "https://github.com/joduplessis/hive-twitter"
       ],
       "notes": "Sales conference Twitter feed for Hive Connect.",
       "partner": "Hive",
@@ -1149,7 +1149,7 @@
         "store-images/Hive/SAB/03.png"
       ],
       "links": [
-        "https://github.com/HatchStudio/sab-event-app"
+        "https://github.com/joduplessis/sab-event-app"
       ],
       "notes": "Realtime web app to draw prize winners & check guests into the SAB Extravaganza event.",
       "partner": "Hive",
