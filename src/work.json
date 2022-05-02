@@ -64,8 +64,6 @@
       ],
       "year": 2022
     },
-
-
 		{
       "author": "Jo du Plessis",
       "images": [
@@ -126,8 +124,6 @@
       ],
       "year": 2022
     },
-
-
 		{
       "author": "Jo du Plessis",
       "images": [
@@ -154,11 +150,6 @@
       ],
       "year": 2022
     },
-
-
-
-
-
 		{
       "author": "Jo du Plessis",
       "images": [
@@ -568,7 +559,7 @@
       ],
       "links": [
         "https://wami.app",
-				"https://gitlab.com/groups/WamiApp"
+				"https://github.com/joduplessis/wami"
       ],
       "notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. This project was a personal project of myself and a friend where attempted to get funding by building a workable MVP.",
       "partner": "",
@@ -639,7 +630,7 @@
 				"store-images/Beiersdorf/14.png",
 				"store-images/Beiersdorf/15.png"
 			],
-			"links": null,
+			"links": ["https://github.com/joduplessis/beiersdorf-social-pitch"],
 			"notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
 			"partner": "Yreeka",
 			"project": "Beiersdorf Consumer Insights platform concept pitch",
@@ -1084,10 +1075,11 @@
         "store-images/Play/36.png"
       ],
       "links": [
-        "https://joduplessis.com/playfirst"
+        "https://joduplessis.com/playfirst",
+				"https://github.com/joduplessis/playfirst"
       ],
       "notes": "City building educational game & LMS featuring drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
-      "partner": "Yreeka",
+      "partner": "Yreeka / others",
       "project": "Playfirst",
       "roles": [
 				"DevOps",
