@@ -611,6 +611,53 @@
       ],
       "year": 2018
     },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Hoola/00.png",
+        "store-images/Hoola/01.png",
+				"store-images/Hoola/02.png",
+				"store-images/Hoola/03.png",
+				"store-images/Hoola/04.png",
+				"store-images/Hoola/05.png",
+				"store-images/Hoola/06.png",
+				"store-images/Hoola/07.png",
+				"store-images/Hoola/08.png",
+				"store-images/Hoola/09.png",
+				"store-images/Hoola/10.png",
+        "store-images/Hoola/11.png",
+				"store-images/Hoola/12.png",
+				"store-images/Hoola/13.png",
+				"store-images/Hoola/14.png",
+				"store-images/Hoola/15.png",
+				"store-images/Hoola/16.png",
+				"store-images/Hoola/17.png",
+				"store-images/Hoola/18.png",
+				"store-images/Hoola/19.png",
+				"store-images/Hoola/20.png",
+				"store-images/Hoola/21.png"
+      ],
+      "links": [
+        "https://wami.app",
+				"https://github.com/joduplessis/wami",
+				"https://joduplessis.com/work/wami"
+      ],
+      "notes": "Original concept screens for Wami (called Yack).",
+      "partner": "",
+      "project": "Wami",
+      "roles": [
+        "DevOps",
+        "Design",
+        "Development"
+      ],
+      "slug": "wami-original",
+      "tags": [
+				"Affinity",
+				"UX/UI",
+				"Design"
+      ],
+      "year": 2017
+    },
 		{
 			"author": "Jo du Plessis",
 			"images": [
