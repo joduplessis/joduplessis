@@ -13,7 +13,7 @@
 								pdfasaurus
 								<span>new</span>
 							</a>
-							<router-link :to="{ name: 'Work'}">work</router-link>
+							<!-- <router-link :to="{ name: 'Work'}">work</router-link> -->
             	<!--
 							<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
 							<a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
