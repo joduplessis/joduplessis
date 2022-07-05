@@ -209,10 +209,11 @@
         "store-images/YackNew/11.png"
       ],
       "links": [
-        "https://yack.app"
+        "https://yack.app",
+				"https://github.com/joduplessis/yack-user-feedback"
       ],
       "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
-      "partner": "Yreeka",
+      "partner": "",
       "project": "Yack",
       "roles": [
         "Design",

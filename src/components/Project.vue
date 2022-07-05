@@ -66,6 +66,7 @@
 </script>
 <style scoped="">
 .project {
+	background-color: white;
 }
 
 	.goback {
@@ -110,19 +111,19 @@
     .sections .details .year {
         font-size: 18px;
         font-weight: 600;
-        color: black;
+        color: #1B2B3A;
         padding-bottom: 20px;
     }
 
     .sections .details .title {
         font-weight: 700;
-        color: black;
+        color: #1B2B3A;
         font-size: 70px;
         padding-bottom: 20px;
     }
 
     .sections .details .notes {
-        color: #333;
+        color: #1B2B3A;
         font-weight: 300;
         font-size: 24px;
         padding-bottom: 20px;
@@ -146,14 +147,15 @@
 
 	.sections .details .link {
 		text-decoration: none;
-		font-size: 18px;
-		color: #F0C410;
+		font-size: 16px;
+    color: #1B2B3A;
+		font-weight: bold;
 		transition: opacity 0.5s;
 		opacity: 1;
 	}
 
 		.sections .details .link.underline {
-			box-shadow: inset 0px -8px 0 #FCDD35, inset 0 -15px 0 white;
+			box-shadow: inset 0px -8px 0 #FF5A5A, inset 0 -15px 0 white;
 			text-decoration: none;
 		}
 
@@ -162,9 +164,10 @@
 	}
 
     .sections .details .tag.solid {
-        color: black;
-        background: #F2C40F;
-        font-size: 16px;
+        color: #FF5A5A;
+        background: #1B2B3A;
+        font-size: 12px;
+				font-weight: bold;
     }
 
 @media (min-width: 1024px) {
@@ -199,7 +202,6 @@
 	}
 
 	.sections .details .tag.solid {
-		background: #F2C40F;
 		font-size: 13px;
 		padding: 2px;
 		margin-bottom: 2px;

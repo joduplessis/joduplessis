@@ -2,7 +2,7 @@
     <div class="work">
 		<div class="notice">
 			<router-link class="goback" to="/">
-				<img height="30" src="../assets/arrow-left.svg" />
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FF5A5A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
 			</router-link>
 
 			<p>
@@ -60,11 +60,12 @@ export default {
 
 <style scoped="">
 .work {
+	background-color: white;
 }
 
 .notice {
 	width: 100%;
-	background: #f1c40f;
+	background-color: #1B2B3A;
 }
 
 	.notice .goback {
@@ -73,15 +74,20 @@ export default {
 		top: 20px;
 	}
 
+	.notice .goback img {
+		fill: #FF5A5A;
+	}
+
 	.notice p {
-		color: black;
+		color: #FF5A5A;
 		padding: 80px;
 		margin: 0px;
 		font-size: 20px;
+		font-weight: bold;
 	}
 
 	.notice p a {
-		color: black;
+		color: #FF5A5A;
 	}
 
 .items {
