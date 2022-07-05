@@ -1,5 +1,28 @@
 {
   "project": [
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/HelloUser/00.png",
+        "store-images/HelloUser/01.png",
+				"store-images/HelloUser/02.png"
+      ],
+      "links": [],
+      "notes": "Logo & concept designs for a user analytics platform concept.",
+      "partner": "",
+      "project": "HelloUser",
+      "roles": [
+        "Design"
+      ],
+      "slug": "hellouser",
+      "tags": [
+				"Affinity",
+				"UX/UI",
+				"Design",
+				"Figma"
+      ],
+      "year": 2022
+    },
 		{
       "author": "Jo du Plessis",
       "images": [
