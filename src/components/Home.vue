@@ -26,7 +26,7 @@
   				</div>
 
   				<h2>
-						Purveyor of code & pixels. Product geek. Coffee drinker. Cat parent. Shouty music lover.
+						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover.
   				</h2>
 
 					<h3>
