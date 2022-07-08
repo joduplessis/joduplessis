@@ -190,11 +190,40 @@
 		}
 
 		.main .inner  h2 {
-			margin: 30px;
+			font-size: 30px;
+			line-height: normal;
+			padding: 0px 20px 20px 20px;
+			margin-top: 150px;
+		}
+
+		.main .inner h3 {
+			padding: 0px 20px 20px 20px;
+		}
+
+		.main .inner h3, .main .inner h3 a {
+			font-size: 20px;
+			line-height: normal;
 		}
 
 		.main .inner .links {
 			padding: 0px;
+			top: 0px;
+			position: absolute;
+			font-size: 20px;
+			flex-direction: column;
+			justify-content: flex-start;
+			align-items: flex-end;
+			align-content: flex-start;
+		}
+
+		.main .inner .links a {
+			font-size: 15px;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		.main .inner .links a span {
+			display: none;
 		}
   }
 
@@ -210,13 +239,44 @@
 		}
 
 		.main .inner  h2 {
-			font-size: 0.75em;
+			font-size: 30px;
 			line-height: normal;
 			padding: 0px 20px 20px 20px;
+			margin-top: 150px;
+		}
+
+		.main .inner h3 {
+			padding: 0px 20px 20px 20px;
+		}
+
+		.main .inner h3, .main .inner h3 a {
+			font-size: 20px;
+			line-height: normal;
 		}
 
 		.main .inner {
 			margin: 20px 20px 170px 20px;
+		}
+
+		.main .inner .links {
+			padding: 0px;
+			top: 0px;
+			position: absolute;
+			font-size: 20px;
+			flex-direction: column;
+			justify-content: flex-start;
+			align-items: flex-end;
+			align-content: flex-start;
+		}
+
+		.main .inner .links a {
+			font-size: 15px;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		.main .inner .links a span {
+			display: none;
 		}
 
 	}
