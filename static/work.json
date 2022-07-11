@@ -3,6 +3,41 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/Screenshotter/00.png",
+        "store-images/Screenshotter/01.png",
+				"store-images/Screenshotter/02.png",
+				"store-images/Screenshotter/03.png",
+				"store-images/Screenshotter/04.png",
+				"store-images/Screenshotter/05.png",
+				"store-images/Screenshotter/06.png",
+				"store-images/Screenshotter/07.png",
+				"store-images/Screenshotter/08.png"
+      ],
+      "links": ["https://github.com/joduplessis/screenshotter"],
+      "notes": "Screenshotter is a small screenshot & user feedback component.",
+      "partner": "",
+      "project": "Screenshotter",
+      "roles": [
+        "Design",
+				"Development"
+      ],
+      "slug": "screenshotter",
+      "tags": [
+				"React",
+				"Preact",
+				"SVG",
+				"WebRTC",
+				"Webpack",
+				"Babel",
+				"html2canvas",
+				"Prettier",
+				"rrweb"
+      ],
+      "year": 2022
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/HelloUser/00.png",
         "store-images/HelloUser/01.png",
 				"store-images/HelloUser/02.png"
