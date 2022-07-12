@@ -50,6 +50,19 @@ const items = projects.project.sort(compare).reverse();
 
 export default {
 	name: 'work',
+  mounted () {
+		if (!!window.scrollPosition) scrollTo(0, window.scrollPosition)
+    window.addEventListener('scroll', this.setIsScrolled, { passive: true })
+    this.setIsScrolled()
+  },
+  destroyed () {
+    window.removeEventListener('scroll', this.setIsScrolled, { passive: true })
+  },
+  methods: {
+    setIsScrolled () {
+			window.scrollPosition = window.scrollY
+    }
+  },
 	data: function() {
 		return {
 			items
