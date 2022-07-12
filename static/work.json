@@ -40,12 +40,13 @@
       "images": [
         "store-images/HelloUser/00.png",
         "store-images/HelloUser/01.png",
-				"store-images/HelloUser/02.png"
+				"store-images/HelloUser/02.png",
+				"store-images/HelloUser/03.png"
       ],
       "links": [],
       "notes": "Logo & concept designs for a user analytics platform concept.",
       "partner": "",
-      "project": "HelloUser",
+      "project": "HelloUser (concept)",
       "roles": [
         "Design"
       ],
