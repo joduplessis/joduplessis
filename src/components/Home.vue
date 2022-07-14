@@ -7,7 +7,6 @@
   				<div class="links">
 							<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
 							<a href="https://github.com/joduplessis" target="_blank">github</a>
-							<a href="https://twitter.com/jo_duplessis" target="_blank">twitter</a>
 							<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">linkedin</a>
 							<a href="https://pdfasaurus.com" target="_blank">
 								pdfasaurus
