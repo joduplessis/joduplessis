@@ -6,10 +6,10 @@
 
   				<div class="links">
 
-							<a href="https://github.com/joduplessis" target="_blank">github</a>
-							<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">linkedin</a>
+							<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
+							<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
 							<a href="https://pdfasaurus.com" target="_blank">
-								pdfasaurus
+								PDFasaurus
 								<span>new</span>
 							</a>
 							<!-- <router-link :to="{ name: 'Work'}">work</router-link> -->
