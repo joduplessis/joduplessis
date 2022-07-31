@@ -5401,6 +5401,35 @@
 				"Swift 3D"
       ],
       "year": 2004
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Urent/05.jpg",
+				"store-images/Urent/00.jpg",
+        "store-images/Urent/01.jpg",
+				"store-images/Urent/02.jpg",
+				"store-images/Urent/03.jpg",
+        "store-images/Urent/04.jpg"
+      ],
+      "links": [],
+      "notes": "Urent was a portal for listing properties to rent in the local market. If never got passed MVP / pitching phase. The portal was built in vanilla PHP.",
+      "partner": "Firefly",
+      "project": "Urent",
+      "roles": [
+        "Development",
+        "Design"
+      ],
+      "slug": "urent",
+      "tags": [
+        "Archive",
+        "Adobe Photoshop",
+        "PHP",
+        "HTML",
+				"CSS",
+				"Shared hosting"
+      ],
+      "year": 2006
     }
   ]
 }
