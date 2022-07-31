@@ -4885,6 +4885,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/Mrphome/LaunchEvent/01.jpg",
+        "store-images/Mrphome/LaunchEvent/01.jpg",
         "store-images/Mrphome/LaunchEvent/02.jpg",
         "store-images/Mrphome/LaunchEvent/03.jpg",
         "store-images/Mrphome/LaunchEvent/04.jpg"
@@ -4895,7 +4896,7 @@
         "http://joduplessis.com/store/Mrphome/LaunchEvent/tweet.red.html",
         "http://joduplessis.com/store/Mrphome/LaunchEvent/tweet.wall.html"
       ],
-      "notes": "",
+      "notes": "Realtime twitter feed projected on several locations at a live event.",
       "partner": "MRP Home",
       "project": "Mrphome online launch interactives",
       "roles": [
@@ -5002,9 +5003,13 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/Mrphome/CataloguesPaper/01.jpg",
+        "store-images/Mrphome/CataloguesPaper/01.jpg",
         "store-images/Mrphome/CataloguesPaper/02.jpg",
         "store-images/Mrphome/CataloguesPaper/03.jpg",
-        "store-images/Mrphome/CataloguesPaper/04.jpg.store-images/Mrphome/CataloguesPaper/05.jpg.store-images/Mrphome/CataloguesPaper/06.jpg"
+        "store-images/Mrphome/CataloguesPaper/04.jpg",
+				"store-images/Mrphome/CataloguesPaper/05.jpg",
+        "store-images/Paper/02.jpg",
+        "store-images/Paper/03.jpg"
       ],
       "links": [
         "https://github.com/joduplessis/micron",
@@ -5112,11 +5117,11 @@
     {
       "author": "Jo du Plessis",
       "images": [
-        "store-images/Paper/01.jpg",
-        "store-images/Paper/02.jpg",
-        "store-images/Paper/03.jpg",
-        "store-images/Paper/04.jpg",
         "store-images/Paper/05.jpg",
+        "store-images/Paper/03.jpg",
+        "store-images/Paper/02.jpg",
+        "store-images/Paper/01.jpg",
+        "store-images/Paper/04.jpg",
         "store-images/Paper/06.jpg",
         "store-images/Paper/07.jpg",
         "store-images/Paper/01.jpg"
