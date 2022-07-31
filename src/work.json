@@ -5369,6 +5369,38 @@
         "CSS"
       ],
       "year": 2009
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Xposure/00.png",
+        "store-images/Xposure/01.png",
+				"store-images/Xposure/02.png",
+				"store-images/Xposure/03.png"
+      ],
+      "links": [
+        "http://joduplessis.com/store/Xposure/07.html",
+				"http://joduplessis.com/store/Xposure/16.html",
+				"http://joduplessis.com/store/Xposure/17.html"
+      ],
+      "notes": "Various interactive Flash content for promotions & interfaces.",
+      "partner": "Xposure",
+      "project": "Xposure Flash animations",
+      "roles": [
+        "Development",
+        "Design",
+				"Illustration",
+				"Animation"
+      ],
+      "slug": "xpoosure",
+      "tags": [
+        "Archive",
+        "Adobe Photoshop",
+        "Macromedia Flash",
+        "Actionscript 2",
+				"Swift 3D"
+      ],
+      "year": 2004
     }
   ]
 }
