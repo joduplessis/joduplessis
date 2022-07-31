@@ -193,7 +193,7 @@
         "https://github.com/joduplessis?tab=repositories",
 				"https://gist.github.com/joduplessis"
       ],
-      "notes": "Various libraries, projects & snippets hosted on GitHub",
+      "notes": "Personal libraries, mini-projects & code snippets hosted on GitHub.",
       "partner": "",
       "project": "libraries, projects & snippets",
       "roles": [
@@ -517,6 +517,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/InsuranceClaimsAfrica/01.png",
+        "store-images/InsuranceClaimsAfrica/01.png",
         "store-images/InsuranceClaimsAfrica/02.jpg"
       ],
       "links": null,
@@ -713,15 +714,15 @@
 				"https://github.com/joduplessis/wami",
 				"https://joduplessis.com/work/wami"
       ],
-      "notes": "Original concept screens for Wami (called Yack).",
+      "notes": "Original React Native concept & design for Wami (initial name was a decision between Hoola & Yack).",
       "partner": "",
-      "project": "Wami",
+      "project": "Yack / Hoola",
       "roles": [
-        "DevOps",
         "Design",
-        "Development"
+        "Development",
+				"UX"
       ],
-      "slug": "wami-original",
+      "slug": "hoola",
       "tags": [
 				"Affinity",
 				"UX/UI",
@@ -2167,6 +2168,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/DirectMarketingSuccess/00.jpg",
+        "store-images/DirectMarketingSuccess/00.jpg",
         "store-images/DirectMarketingSuccess/01.jpg",
         "store-images/DirectMarketingSuccess/02.jpg"
       ],
@@ -2292,6 +2294,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/Firefly/iAssist/01.jpg",
+        "store-images/Firefly/iAssist/01.jpg",
         "store-images/Firefly/iAssist/02.jpg",
         "store-images/Firefly/iAssist/03.jpg"
       ],
@@ -2299,7 +2302,7 @@
         "http://joduplessis.com/store/Firefly/iAssist/",
         "https://github.com/joduplessis/iassist"
       ],
-      "notes": "Username: admin & password: admin",
+      "notes": "Username: admin & password: admin. Unfortunately most of the screenshots have been lost.",
       "partner": "Firefly",
       "project": "iAssist web app",
       "roles": [
@@ -2352,6 +2355,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/Greendoor/01.jpg",
         "store-images/Greendoor/01.jpg",
         "store-images/Greendoor/02.jpg"
       ],
@@ -2406,6 +2410,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/GussyAdventures/01.jpg",
         "store-images/GussyAdventures/01.jpg",
         "store-images/GussyAdventures/02.jpg"
       ],
@@ -2472,6 +2477,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/HellaHella/01.jpg",
+        "store-images/HellaHella/01.jpg",
         "store-images/HellaHella/02.jpg"
       ],
       "links": [
@@ -2498,6 +2504,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/IndigoFields/01.jpg",
         "store-images/IndigoFields/01.jpg",
         "store-images/IndigoFields/02.jpg"
       ],
@@ -2737,6 +2744,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/LittleMunchkins/01.jpg",
+        "store-images/LittleMunchkins/01.jpg",
         "store-images/LittleMunchkins/02.jpg"
       ],
       "links": [
@@ -2759,6 +2767,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/Mushrush/00.jpg",
         "store-images/Mushrush/00.jpg",
         "store-images/Mushrush/01.jpg",
         "store-images/Mushrush/02.jpg"
@@ -3435,6 +3444,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/OnePlanet-WeddingExpo/00.jpg",
+        "store-images/OnePlanet-WeddingExpo/00.jpg",
         "store-images/OnePlanet-WeddingExpo/01.jpg"
       ],
       "links": [
@@ -3569,6 +3579,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/StringTheory/01.jpg",
+        "store-images/StringTheory/01.jpg",
         "store-images/StringTheory/02.jpg"
       ],
       "links": [
@@ -3658,6 +3669,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/TempleCreative-AfricaHolidaysAndSafaris/01.jpg",
         "store-images/TempleCreative-AfricaHolidaysAndSafaris/01.jpg",
         "store-images/TempleCreative-AfricaHolidaysAndSafaris/02.jpg",
         "store-images/TempleCreative-AfricaHolidaysAndSafaris/03.jpg"
@@ -3812,6 +3824,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/TempleCreative-CorporateWildman/01.jpg",
+        "store-images/TempleCreative-CorporateWildman/01.jpg",
         "store-images/TempleCreative-CorporateWildman/02.jpg",
         "store-images/TempleCreative-CorporateWildman/03.jpg"
       ],
@@ -3875,6 +3888,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/TempleCreative-Flux/01.jpg",
         "store-images/TempleCreative-Flux/01.jpg",
         "store-images/TempleCreative-Flux/02.jpg",
         "store-images/TempleCreative-Flux/03.jpg",
@@ -3960,6 +3974,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/TempleCreative-Indri/01.jpg",
+        "store-images/TempleCreative-Indri/01.jpg",
         "store-images/TempleCreative-Indri/02.jpg",
         "store-images/TempleCreative-Indri/03.jpg"
       ],
@@ -4025,6 +4040,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/TempleCreative-KevinTrench/01.jpg",
+        "store-images/TempleCreative-KevinTrench/01.jpg",
         "store-images/TempleCreative-KevinTrench/02.jpg"
       ],
       "links": [
@@ -4053,6 +4069,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/TempleCreative-KZNSlots/01.jpg",
         "store-images/TempleCreative-KZNSlots/01.jpg",
         "store-images/TempleCreative-KZNSlots/02.jpg",
         "store-images/TempleCreative-KZNSlots/03.jpg"
@@ -4083,6 +4100,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/TempleCreative-LetakaSafaris/01.jpg",
         "store-images/TempleCreative-LetakaSafaris/01.jpg",
         "store-images/TempleCreative-LetakaSafaris/02.jpg",
         "store-images/TempleCreative-LetakaSafaris/03.jpg"
@@ -4142,6 +4160,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/TempleCreative-MaxCluer/01.jpg",
         "store-images/TempleCreative-MaxCluer/01.jpg",
         "store-images/TempleCreative-MaxCluer/02.jpg",
         "store-images/TempleCreative-MaxCluer/03.jpg"
@@ -4717,6 +4736,7 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/WaterPS/01.jpg",
         "store-images/WaterPS/01.jpg",
         "store-images/WaterPS/02.jpg",
         "store-images/WaterPS/03.jpg",
@@ -5304,7 +5324,6 @@
       ],
       "slug": "pingapp",
       "tags": [
-        "In development",
         "Alpha",
         "Android",
         "Native",
