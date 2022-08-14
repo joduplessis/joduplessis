@@ -4496,7 +4496,6 @@
         "store-images/Test-InteractiveVirtualCondo/01.jpg",
         "store-images/Test-InteractiveVirtualCondo/02.jpg",
         "store-images/Test-InteractiveVirtualCondo/03.jpg",
-        "store-images/Test-InteractiveVirtualCondo/04.jpg",
         "store-images/Test-InteractiveVirtualCondo/05.jpg",
         "store-images/Test-InteractiveVirtualCondo/06.jpg"
       ],
@@ -5441,6 +5440,156 @@
 				"Shared hosting"
       ],
       "year": 2006
+    },
+
+
+
+
+
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/logocargocult.png",
+				"store-images/singles/logocargocult.png"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Cargo Cult logo design",
+      "roles": [
+        "Design"
+      ],
+      "slug": "cargocult",
+      "tags": [
+        "Affinity Design"
+      ],
+      "year": 2016
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/logogrow.png",
+				"store-images/singles/logogrow.png"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Grow logo design",
+      "roles": [
+        "Design"
+      ],
+      "slug": "grow",
+      "tags": [
+        "Affinity Design"
+      ],
+      "year": 2014
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/logohologramshark.png",
+				"store-images/singles/logohologramshark.png"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Hologram Shark logo design",
+      "roles": [
+        "Design"
+      ],
+      "slug": "hologramshark",
+      "tags": [
+        "Adobe Illustrator"
+      ],
+      "year": 2014
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/newmedia.png",
+				"store-images/singles/newmedia.png"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Wallpaper design",
+      "roles": [
+        "Design"
+      ],
+      "slug": "wallpaper",
+      "tags": [
+        "Adobe Photoshop"
+      ],
+      "year": 2007
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/sally.png",
+				"store-images/singles/sally.png"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Sally-ann Boshoff website concept design",
+      "roles": [
+        "Design"
+      ],
+      "slug": "sallyannboshoff",
+      "tags": [
+        "Adobe Photoshop"
+      ],
+      "year": 2008
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/shirley.png",
+				"store-images/singles/shirley.png"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Shirley Dalton website concept design",
+      "roles": [
+        "Design"
+      ],
+      "slug": "shirleydalton",
+      "tags": [
+        "Adobe Photoshop"
+      ],
+      "year": 2008
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Test-Condo/00.jpg",
+				"store-images/Test-Condo/00.jpg",
+				"store-images/Test-Condo/01.jpg",
+				"store-images/Test-Condo/02.jpg",
+				"store-images/Test-Condo/03.jpg"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Condo 3d renders",
+      "roles": [
+        "3D Vis"
+      ],
+      "slug": "3dcondo",
+      "tags": [
+        "3dsmax",
+				"Adobe Photoshop"
+      ],
+      "year": 2009
     }
+
+
+
+
+
+
+
+
   ]
 }
