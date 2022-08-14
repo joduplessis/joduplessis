@@ -2360,7 +2360,8 @@
         "store-images/Greendoor/02.jpg"
       ],
       "links": [
-        "http://joduplessis.com/store/Greendoor/,http://joduplessis.com/store/Greendoor/admin"
+        "http://joduplessis.com/store/Greendoor/",
+				"http://joduplessis.com/store/Greendoor/admin"
       ],
       "notes": "",
       "partner": "",
@@ -4748,7 +4749,8 @@
         "store-images/WaterPS/04.jpg"
       ],
       "links": [
-        "http://www.waterps.co.za/,http://www.waterps.co.za/admin"
+        "http://www.waterps.co.za/",
+				"http://www.waterps.co.za/admin"
       ],
       "notes": "",
       "partner": "",
@@ -5441,11 +5443,6 @@
       ],
       "year": 2006
     },
-
-
-
-
-
     {
       "author": "Jo du Plessis",
       "images": [
@@ -5583,13 +5580,5 @@
       ],
       "year": 2009
     }
-
-
-
-
-
-
-
-
   ]
 }
