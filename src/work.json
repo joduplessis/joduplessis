@@ -4493,8 +4493,12 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/Test-InteractiveVirtualCondo/01.jpg",
+        "store-images/Test-InteractiveVirtualCondo/01.jpg",
         "store-images/Test-InteractiveVirtualCondo/02.jpg",
-        "store-images/Test-InteractiveVirtualCondo/03.jpg"
+        "store-images/Test-InteractiveVirtualCondo/03.jpg",
+        "store-images/Test-InteractiveVirtualCondo/04.jpg",
+        "store-images/Test-InteractiveVirtualCondo/05.jpg",
+        "store-images/Test-InteractiveVirtualCondo/06.jpg"
       ],
       "links": [
         "http://joduplessis.com/store/Test-InteractiveVirtualCondo/"
