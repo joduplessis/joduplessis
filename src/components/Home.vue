@@ -10,6 +10,9 @@
 							<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
 							<a href="https://pdfasaurus.com" target="_blank">
 								PDFasaurus
+							</a>
+							<a href="https://fold.dev" target="_blank">
+								Fold
 								<span>new</span>
 							</a>
 							<!-- <router-link :to="{ name: 'Work'}">work</router-link> -->
