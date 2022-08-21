@@ -3,6 +3,29 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/singles/fold.png",
+        "store-images/singles/fold.png"
+      ],
+      "links": ["https://fold.dev", "https://github.com/foldui"],
+      "notes": "Fold is a React component library for product builders. Coming soon.",
+      "partner": "",
+      "project": "fold",
+      "roles": [
+        "Design",
+				"Development"
+      ],
+      "slug": "fold",
+      "tags": [
+				"React",
+				"Preact",
+				"Design Patterns",
+				"UIKit"
+      ],
+      "year": 2023
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/Screenshotter/00.png",
         "store-images/Screenshotter/01.png",
 				"store-images/Screenshotter/02.png",
