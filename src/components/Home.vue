@@ -12,13 +12,13 @@
 							<router-link :to="{ name: 'Work'}">Work</router-link>
 							<a href="https://pdfasaurus.com" target="_blank">
 								PDFasaurus
+								<span>new</span>
 							</a>
+							<!--
 							<a href="https://fold.dev" target="_blank">
 								Fold
 								<span>new</span>
 							</a>
-							<!--  -->
-            	<!--
 							<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
 							<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
 							<a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
