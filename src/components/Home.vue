@@ -6,8 +6,10 @@
 
   				<div class="links">
 
+							<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
 							<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
 							<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
+							<router-link :to="{ name: 'Work'}">work</router-link>
 							<a href="https://pdfasaurus.com" target="_blank">
 								PDFasaurus
 							</a>
@@ -15,7 +17,7 @@
 								Fold
 								<span>new</span>
 							</a>
-							<!-- <router-link :to="{ name: 'Work'}">work</router-link> -->
+							<!--  -->
             	<!--
 							<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
 							<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
