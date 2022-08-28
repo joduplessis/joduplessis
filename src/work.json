@@ -6,10 +6,10 @@
         "store-images/singles/fold.png",
         "store-images/singles/fold.png"
       ],
-      "links": ["https://fold.dev", "https://github.com/foldui"],
+      "links": ["https://fold.dev"],
       "notes": "Fold is a React component library for product builders. Coming soon.",
       "partner": "",
-      "project": "fold",
+      "project": "Fold",
       "roles": [
         "Design",
 				"Development"
