@@ -4248,6 +4248,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/TempleCreative-Natship/01.jpg",
+        "store-images/TempleCreative-Natship/01.jpg",
         "store-images/TempleCreative-Natship/02.jpg"
       ],
       "links": [
@@ -5603,6 +5604,111 @@
 				"Adobe Photoshop"
       ],
       "year": 2009
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Test-Furniture/01.jpg",
+        "store-images/Test-Furniture/01.jpg",
+        "store-images/Test-Furniture/02.jpg",
+        "store-images/Test-Furniture/03.jpg",
+        "store-images/Test-Furniture/04.jpg",
+        "store-images/Test-Furniture/05.jpg",
+        "store-images/Test-Furniture/06.jpg",
+        "store-images/Test-Furniture/main.jpg"
+      ],
+      "links": [],
+      "notes": "Working proof of concept for an interactive furniture customizer.",
+      "partner": "",
+      "project": "Interactive Furniture Customizer",
+      "roles": [
+        "3D",
+        "Design",
+        "Dev"
+      ],
+      "slug": "test-furniture",
+      "tags": [
+        "3dsmax",
+				"Adobe Photoshop",
+				"Unity3D"
+      ],
+      "year": 2009
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Test-GameConcepts/car.jpg",
+        "store-images/Test-GameConcepts/car.jpg",
+        "store-images/Test-GameConcepts/ball.jpg",
+        "store-images/Test-GameConcepts/nobounce.jpg"
+      ],
+      "links": [],
+      "notes": "",
+      "partner": "",
+      "project": "Unity3D game concepts",
+      "roles": [
+        "3D",
+        "Design",
+        "Dev"
+      ],
+      "slug": "test-gameconcepts",
+      "tags": [
+        "3dsmax",
+				"Adobe Photoshop",
+				"Unity3D"
+      ],
+      "year": 2009
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Test-VirtualCar/01.jpg",
+        "store-images/Test-VirtualCar/01.jpg",
+        "store-images/Test-VirtualCar/02.jpg",
+        "store-images/Test-VirtualCar/03.jpg",
+        "store-images/Test-VirtualCar/04.jpg",
+        "store-images/Test-VirtualCar/05.jpg",
+        "store-images/Test-VirtualCar/06.jpg",
+        "store-images/Test-VirtualCar/main.jpg"
+      ],
+      "links": [],
+      "notes": "Working proof of concept for an interactive car customizer.",
+      "partner": "",
+      "project": "Virtual Car Customizer",
+      "roles": [
+        "3D",
+        "Design",
+        "Dev"
+      ],
+      "slug": "test-virtualcar",
+      "tags": [
+        "3dsmax",
+				"Adobe Photoshop",
+				"Unity3D"
+      ],
+      "year": 2009
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/singles/website-ascotinn.jpg",
+        "store-images/singles/website-ascotinn.jpg"
+      ],
+      "links": ["https://web.archive.org/web/20060401000000*/ascot-inn.co.za"],
+      "notes": "Website for Ascot Inn lodge in Pietermaritzburg.",
+      "partner": "Xposure",
+      "project": "Ascot Inn website",
+      "roles": [
+        "Design",
+        "Dev"
+      ],
+      "slug": "ascot",
+      "tags": [
+				"Adobe Photoshop",
+				"HTML",
+				"CSS"
+      ],
+      "year": 2005
     }
   ]
 }
