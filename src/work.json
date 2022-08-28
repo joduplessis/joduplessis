@@ -1866,8 +1866,8 @@
       "links": [
         "http://www.carrifreight.co.za/"
       ],
-      "notes": "",
-      "partner": "Carrifreight is a Cape Town based Customs Clearing and Forwarding company. ",
+      "notes": "Carrifreight is a Cape Town based Customs Clearing and Forwarding company.",
+      "partner": "",
       "project": "Carrifreight",
       "roles": [
         "Development",
@@ -3406,7 +3406,7 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Sense Day Spa website framework",
+      "project": "Senses Day Spa website framework",
       "roles": [
         "Development",
         "design"
