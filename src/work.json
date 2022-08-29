@@ -3,6 +3,95 @@
     {
       "author": "Jo du Plessis",
       "images": [
+        "store-images/singles/fold.png",
+        "store-images/singles/fold.png"
+      ],
+      "links": ["https://fold.dev"],
+      "notes": "Fold is a React component library for product builders. Coming soon.",
+      "partner": "",
+      "project_type": "UI Components, Website & Web App",
+      "project": "Fold",
+      "roles": [
+        "Design",
+        "Development"
+      ],
+      "slug": "fold",
+      "tags": [
+        "React",
+        "Web Components",
+        "Design Patterns"
+      ],
+      "year": 2023
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
+        "store-images/Adtriba/logo.png",
+        "store-images/Adtriba/logo.png"
+      ],
+      "links": [
+        "https://adtriba.com"
+      ],
+      "notes": "Adtriba is a marketing attribution & machine learning company. Headed up all UI/UX related topics. More information available on request.",
+      "partner": "Adtriba",
+      "project_type": "Web App & UI/UX Design",
+      "project": "Adtriba",
+      "roles": [
+        "Director UI/UX",
+        "UI/UX Development",
+        "Design",
+        "DevOps",
+        "Branding",
+        "Strategic"
+      ],
+      "slug": "adtriba",
+      "tags": [
+        "Javascript",
+        "Typescript",
+        "GitHub",
+        "React",
+        "Middleware",
+        "Figma",
+        "GitHub",
+        "Sentry",
+        "Responsive",
+        "GitHub Actions",
+        "GitFlow",
+        "SASS",
+        "BEM",
+        "Numeral",
+        "React Router",
+        "Auth0",
+        "Render optimizations",
+        "Media queries",
+        "Photoshop",
+        "Illustrator",
+        "Netlify",
+        "Multi-environment",
+        "Jest",
+        "Enzyme",
+        "Testing Library",
+        "Product design",
+        "Context API",
+        "Localization",
+        "Webpack",
+        "DayJS",
+        "Docker",
+        "Docker Compose",
+        "AWS",
+        "Offline caching",
+        "Storybook",
+        "React Hooks",
+        "Bundle Splitting",
+        "RESTful API",
+        "Swagger",
+        "Prettier"
+      ],
+      "year": 2022
+    },
+    {
+      "author": "Jo du Plessis",
+      "images": [
         "store-images/singles/fis.png",
         "store-images/singles/fis.png"
       ],
@@ -1675,7 +1764,7 @@
       "links": [
         "http://joduplessis.com/store/Avalanche/AugmentedReality/"
       ],
-      "notes": "",
+      "notes": "AR powered business cards built with Flash, using a webcam.",
       "partner": "Avalanche",
       "project_type": "AR Flash App & Business Cards",
       "project": "Avalanche Augmented Reality",
@@ -2000,7 +2089,7 @@
       "links": [
         "http://joduplessis.com/store/CHOW/Website/"
       ],
-      "notes": "",
+      "notes": "Initial static website for Chow.",
       "partner": "",
       "project_type": "Static Website",
       "project": "Chow",
@@ -2296,7 +2385,7 @@
       "links": [
         "http://joduplessis.com/store/Eyedrills/Console/"
       ],
-      "notes": "",
+      "notes": "Eyedrills is a motor skills (hand/eye) & coordination training platform geared toward sportsmen. The platform consisted of multiple Flash games & user/management portal built with Wordpress & Pods.",
       "partner": "",
       "project_type": "Flash Games & Web App",
       "project": "Eyedrills",
@@ -2335,7 +2424,7 @@
         "http://joduplessis.com/store/Firefly/iAssist/",
         "https://github.com/joduplessis/iassist"
       ],
-      "notes": "Username: admin & password: admin. Unfortunately most of the screenshots have been lost.",
+      "notes": "iAssist was an extension platform for Pastel Accounting that added additional features.",
       "partner": "Firefly",
       "project_type": "Web App",
       "project": "iAssist",
@@ -2398,7 +2487,7 @@
         "http://joduplessis.com/store/Greendoor/",
 				"http://joduplessis.com/store/Greendoor/admin"
       ],
-      "notes": "",
+      "notes": "Custom built CMS & website.",
       "partner": "",
       "project_type": "Website & Web App",
       "project": "Greendoor",
@@ -2455,7 +2544,7 @@
       "links": [
         "http://joduplessis.com/store/GussyAdventures/"
       ],
-      "notes": "",
+      "notes": "Flash based travel website.",
       "partner": "",
       "project_type": "Flash Website",
       "project": "Gussy Adventures",
@@ -2491,7 +2580,7 @@
       "links": [
         "http://joduplessis.com/store/Gwahumbe/"
       ],
-      "notes": "",
+      "notes": "Website & print materials for a Game Lodge & conference centre.",
       "partner": "",
       "project_type": "Branding & Wordpress Website",
       "project": "Gwahumbe",
@@ -2672,7 +2761,7 @@
       "links": [
         "http://joduplessis.com/store/KZN2010/Map/"
       ],
-      "notes": "",
+      "notes": "Interactive Flash map for a 2010 world cup website.",
       "partner": "KZN2010",
       "project_type": "Flash Interactive",
       "project": "KZN2010",
@@ -2701,7 +2790,7 @@
       "links": [
         "http://joduplessis.com/store/KZN2010/Soccer game/"
       ],
-      "notes": "",
+      "notes": "Promotional Flash game for the 2010 world cup.",
       "partner": "KZN2010",
       "project_type": "Flash Game",
       "project": "KZN2010 Soccer",
@@ -2732,7 +2821,7 @@
       "links": [
         "http://joduplessis.com/store/LeatherFromHart/"
       ],
-      "notes": "",
+      "notes": "Website & custom CMS for a local leather tannery.",
       "partner": "",
       "project_type": "Website & Web App",
       "project": "Leather From Hart",
@@ -2770,7 +2859,7 @@
         "http://joduplessis.com/store/LesothoAdventures/",
         "http://joduplessis.com/store/LesothoAdventures/admin"
       ],
-      "notes": "",
+      "notes": "Wesite, custom CMS & print designs for a Lesotho tours company.",
       "partner": "",
       "project_type": "Website, Web App & Branding",
       "project": "Lesotho Adventures",
@@ -3018,7 +3107,7 @@
         "http://joduplessis.com/store/NCFChurch/Intranet/",
         "https://github.com/joduplessis/member-manager"
       ],
-      "notes": "Username: admin & password: admin",
+      "notes": "Intranet member management portal. Username: admin & password: admin",
       "partner": "",
       "project_type": "Web App",
       "project": "NCF Church Member Management",
@@ -3926,7 +4015,7 @@
         "http://joduplessis.com/store/TempleCreative-CorporateWildman/index.php?type=birds",
         "http://joduplessis.com/store/TempleCreative-CorporateWildman/index.php?type=fish"
       ],
-      "notes": "",
+      "notes": "Interactive wildlife scorecard for a local tour company.",
       "partner": "Temple Creative",
       "project_type": "Flash Interactive",
       "project": "Corporate Wildman",
@@ -3961,7 +4050,7 @@
       "links": [
         "http://joduplessis.com/store/TempleCreative-DriveSmart/"
       ],
-      "notes": "",
+      "notes": "Interactive voice-driven presentation for a long distance trucking product.",
       "partner": "Temple Creative",
       "project_type": "Flash Interactive",
       "project": "Drive Smart Presentation",
@@ -3992,7 +4081,7 @@
       "links": [
         "http://joduplessis.com/store/TempleCreative-Flux/"
       ],
-      "notes": "",
+      "notes": "Pay-to-view video platform for a local kettle-bell fitness company.",
       "partner": "Temple Creative",
       "project_type": "Wordpress Website & Web App",
       "project": "FLUX.tv E-commerce",
@@ -4243,7 +4332,7 @@
       "links": [
         "http://joduplessis.com/store/TempleCreative-LibertyLife/"
       ],
-      "notes": "",
+      "notes": "Animated Flash banners for Liberty Life.",
       "partner": "Temple Creative",
       "project_type": "Flash Animations",
       "project": "Liberty Life Banners",
@@ -4812,7 +4901,7 @@
       "links": [
         "http://joduplessis.com/store/Trainiac-SAB/"
       ],
-      "notes": "",
+      "notes": "Interactive educational map for SAB.",
       "partner": "Trainiac",
       "project_type": "Flash Interactive",
       "project": "SAB",
