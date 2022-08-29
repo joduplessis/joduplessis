@@ -152,16 +152,18 @@
 
     .sections .details .tag {
         margin-right: 2px;
+		padding-bottom: 2px;
+		padding-top: 2px;
         color: #aaa;
         font-size: 14px;
-				border-radius: 5px;
-				padding: 5px;
+		border-radius: 5px;
+		padding: 5px;
     }
 
 	.sections .details .link {
 		text-decoration: none;
 		font-size: 16px;
-    color: #1B2B3A;
+    	color: #1B2B3A;
 		font-weight: bold;
 		transition: opacity 0.5s;
 		opacity: 1;
@@ -180,7 +182,9 @@
         color: #FF5A5A;
         background: #1B2B3A;
         font-size: 12px;
-				font-weight: bold;
+		font-weight: bold;
+		padding-bottom: 2px;
+		padding-top: 2px;
     }
 
 @media (min-width: 1024px) {
