@@ -23,6 +23,9 @@
 					<div class="title">
 						{{getFirstElement(item).project}}
 					</div>
+					<div class="project-type">
+						{{getFirstElement(item).project_type}}
+					</div>
 					<span class="tag solid" v-for="(role, index) in getFirstElement(item).roles">
 						{{role.toUpperCase()}}
 					</span>
@@ -120,6 +123,15 @@
         color: #1B2B3A;
         font-size: 70px;
         padding-bottom: 20px;
+    }
+
+    .sections .details .project-type {
+        font-weight: 700;
+        color: #707b85;
+        font-size: 14px;
+		text-transform: uppercase;
+        padding-bottom: 20px;
+		margin-top: -20px;
     }
 
     .sections .details .notes {
