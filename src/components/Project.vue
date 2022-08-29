@@ -26,6 +26,7 @@
 					<div class="project-type">
 						{{getFirstElement(item).project_type}}
 					</div>
+					<span class="tag">Role: </span>
 					<span class="tag solid" v-for="(role, index) in getFirstElement(item).roles">
 						{{role.toUpperCase()}}
 					</span>

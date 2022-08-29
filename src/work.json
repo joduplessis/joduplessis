@@ -1,28 +1,35 @@
 {
-      "project": [
+  "project": [
     {
       "author": "Jo du Plessis",
       "images": [
-        "store-images/singles/fold.png",
-        "store-images/singles/fold.png"
+        "store-images/singles/fis.png",
+        "store-images/singles/fis.png"
       ],
-      "links": ["https://fold.dev"],
-      "notes": "Fold is a React component library for product builders. Coming soon.",
-      "partner": "",
-      "project_type": "UI Component Library",
-      "project": "Fold",
+      "links": [
+        "https://fisglobal.com"
+      ],
+      "notes": "FIS is a global Fintech company. I worked on the globally distributed AngularJS component library team. More information available on request.",
+      "partner": "FIS",
+      "project_type": "UI Components",
+      "project": "FIS",
       "roles": [
-        "Design",
-				"Development"
+        "UI/UX Development"
       ],
-      "slug": "fold",
+      "slug": "fis",
       "tags": [
-				"React",
-				"Preact",
-				"Design Patterns",
-				"UIKit"
+        "Javascript",
+        "Typescript",
+        "Stash",
+        "AngularJS",
+        "jQuery",
+        "Javascript",
+        "Grunt",
+        "Karma",
+        "Testing Library",
+        "CI/CD"
       ],
-      "year": 2023
+      "year": 2016
     },
     {
       "author": "Jo du Plessis",
@@ -71,7 +78,7 @@
       "links": [],
       "notes": "Logo & concept designs for a user analytics platform concept.",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "App & Website Concept",
       "project": "HelloUser",
       "roles": [
         "Design"
@@ -82,71 +89,6 @@
 				"UX/UI",
 				"Design",
 				"Figma"
-      ],
-      "year": 2022
-    },
-		{
-      "author": "Jo du Plessis",
-      "images": [
-				"store-images/Adtriba/logo.png",
-				"store-images/Adtriba/logo.png"
-      ],
-      "links": [
-        "https://adtriba.com"
-      ],
-      "notes": "Adtriba is a marketing attribution & machine learning company. More information available on request.",
-      "partner": "Adtriba",
-      "project_type": "SaaS App & Design Systems",
-      "project": "Adtriba",
-      "roles": [
-        "UI/UX Development",
-				"Design",
-				"DevOps",
-				"Branding",
-				"Strategic"
-      ],
-      "slug": "adtriba",
-      "tags": [
-        "Javascript",
-        "Typescript",
-        "GitHub",
-        "React",
-        "Middleware",
-        "Figma",
-        "GitHub",
-        "Sentry",
-        "Responsive",
-        "GitHub Actions",
-        "GitFlow",
-        "SASS",
-				"BEM",
-				"Numeral",
-				"React Router",
-				"Auth0",
-				"Render optimizations",
-				"Media queries",
-				"Photoshop",
-				"Illustrator",
-				"Netlify",
-				"Multi-environment",
-				"Jest",
-				"Enzyme",
-				"Testing Library",
-				"Product design",
-				"Context API",
-				"Localization",
-        "Webpack",
-        "DayJS",
-        "Docker",
-        "Docker Compose",
-        "AWS",
-        "Offline caching",
-        "Storybook",
-        "React Hooks",
-        "Bundle Splitting",
-        "RESTful API",
-        "Swagger",
-        "Prettier"
       ],
       "year": 2022
     },
@@ -254,7 +196,7 @@
       ],
       "notes": "PDFasaurus let's you create PDF's using familiar HTML & an easy to use API. ",
       "partner": "",
-      "project_type": "SaaS App",
+      "project_type": "Web App",
       "project": "PDFasaurus",
       "roles": [
         "Design",
@@ -303,7 +245,7 @@
       ],
       "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
       "partner": "Yreeka",
-      "project_type": "SaaS App",
+      "project_type": "Web App",
       "project": "Yack",
       "roles": [
         "Design",
@@ -358,7 +300,7 @@
       ],
       "notes": "Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
       "partner": "Yreeka",
-      "project_type": "SaaS App",
+      "project_type": "Web App",
       "project": "Teachfolk",
 			"roles": [
 				"Design",
@@ -473,7 +415,7 @@
       ],
       "notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
       "partner": "Yreeka",
-      "project_type": "SaaS Apps (Web, Desktop, Mobile)",
+      "project_type": "Web, Mobile & Desktop App",
       "project": "Weekday",
       "roles": [
         "Architecture",
@@ -557,7 +499,7 @@
       "links": null,
       "notes": "Web app concept for an incoming news report aggregator",
       "partner": "Hatch",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Insurance Claims Africa",
       "roles": [
         "Design",
@@ -584,8 +526,8 @@
       ],
       "notes": "Find Nutrition & Allergen Info Easily. It's peace of mind nutrition. ",
       "partner": "Chow",
-      "project_type": "Concept Design",
-      "project": "Chow",
+      "project_type": "UI/UX Design",
+      "project": "Chow v2",
       "roles": [
         "Design",
         "Development",
@@ -597,7 +539,7 @@
         "UI",
         "Affinity"
       ],
-      "year": 2018
+      "year": 2019
     },
     {
       "author": "Jo du Plessis",
@@ -614,7 +556,7 @@
       ],
       "notes": "An integrated solution to unify your business needs. We took ownership of product development & technical direction after it was built offshore.",
       "partner": "Yreeka",
-      "project_type": "SaaS App",
+      "project_type": "Web App",
       "project": "UNSILO.me",
       "roles": [
         "DevOps",
@@ -673,7 +615,7 @@
       ],
       "notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. This project was a personal project of myself and a friend where attempted to get funding by building a workable MVP.",
       "partner": "",
-      "project_type": "SaaS App & Mobile Apps",
+      "project_type": "Web & Mobile Apps",
       "project": "Wami",
       "roles": [
         "DevOps",
@@ -754,7 +696,7 @@
       ],
       "notes": "Original React Native concept & design for Wami (initial name was a decision between Hoola & Yack).",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Yack / Hoola",
       "roles": [
         "Design",
@@ -792,7 +734,7 @@
 			"links": ["https://github.com/joduplessis/beiersdorf-social-pitch"],
 			"notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
 			"partner": "",
-			"project_type": "Concept Design",
+			"project_type": "UI/UX Design",
       "project": "Beiersdorf Consumer Insights Platform",
 			"roles": [
 				"Design",
@@ -826,8 +768,8 @@
       ],
       "notes": "Chow healthy meal finder app upgrade. Find healthy dietician approved meals around you.",
       "partner": "Chow",
-      "project_type": "Mobile SaaS App",
-      "project": "Chow",
+      "project_type": "Mobile Apps",
+      "project": "Chow (update)",
       "roles": [
         "Design",
         "Development",
@@ -944,7 +886,7 @@
       ],
       "notes": "SVG editing web app built as part of a promotional campaign. Users are able to color in a SVG, manage designs & submit them to stand a chance of having their design printed on an Otees box.",
       "partner": "Hirt & Carter Software Solutions",
-      "project_type": "Web App & Interactive",
+      "project_type": "Web App & HTML5/SVG Interactive",
       "project": "Otees Colour Your World",
       "roles": [
         "Development",
@@ -1156,7 +1098,7 @@
       ],
       "notes": "Pitch designs for the VA Waterfront intranet project. Accompanying images for the website",
       "partner": "Yreeka",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "V&A Waterfront",
       "roles": [
         "Design"
@@ -1189,7 +1131,7 @@
       ],
       "notes": "Concept for a social craft beer app.",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Crafted",
       "roles": [
         "Design"
@@ -1252,7 +1194,7 @@
       ],
       "notes": "City building educational game & LMS featuring drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
       "partner": "Yreeka / others",
-      "project_type": "Web App & Game",
+      "project_type": "Web App & Unity3D Game",
       "project": "Playfirst",
       "roles": [
 				"DevOps",
@@ -1319,7 +1261,7 @@
       ],
       "notes": "Realtime Ember & Firebase web app to draw prize winners & check guests into the SAB Extravaganza event.",
       "partner": "Hive",
-      "project_type": "Web App & Interactive",
+      "project_type": "Web App & HTML5 Interactive",
       "project": "SAB Extravaganza",
       "roles": [
         "Development",
@@ -1468,7 +1410,7 @@
       ],
       "notes": "Concept for the ASATA Professional Programme learning management system",
       "partner": "Yreeka",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "ASATA Professional Programme",
       "roles": [
         "Design"
@@ -1567,7 +1509,7 @@
       ],
       "notes": "Specialized HR survey development for assessment.",
       "partner": "Yreeka",
-      "project_type": "Website",
+      "project_type": "Wordpress Website",
       "project": "CULP",
       "roles": [
         "Design",
@@ -1684,7 +1626,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Ample Hosting",
       "roles": [
         "Design"
@@ -1950,7 +1892,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Cassandra Kidson Design",
       "roles": [
         "Development",
@@ -2151,7 +2093,7 @@
       ],
       "notes": "",
       "partner": "CreativeWisdom",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "AgriNet",
       "roles": [
         "Design",
@@ -2176,7 +2118,7 @@
       ],
       "notes": "",
       "partner": "CreativeWisdom",
-      "project_type": "Website",
+      "project_type": "Website & Branding",
       "project": "CFIS",
       "roles": [
         "Development",
@@ -2263,7 +2205,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Website",
+      "project_type": "Flash Website",
       "project": "Direct Marketing Succes",
       "roles": [
         "Design",
@@ -2355,7 +2297,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Games & Web App",
+      "project_type": "Flash Games & Web App",
       "project": "Eyedrills",
       "roles": [
         "Design",
@@ -2426,7 +2368,7 @@
       ],
       "notes": "",
       "partner": "Firefly",
-      "project_type": "Website",
+      "project_type": "Flash Website & Branding",
       "project": "Firefly",
       "roles": [
         "Design",
@@ -2491,7 +2433,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Gus-En",
       "roles": [
         "Design"
@@ -2514,7 +2456,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Website",
+      "project_type": "Flash Website",
       "project": "Gussy Adventures",
       "roles": [
         "Development",
@@ -2633,6 +2575,7 @@
       "author": "Jo du Plessis",
       "images": [
         "store-images/IUA/02.png",
+        "store-images/IUA/02.png",
         "store-images/IUA/03.jpg",
         "store-images/IUA/04.jpg",
         "store-images/IUA/05.jpg",
@@ -2710,7 +2653,8 @@
       "project_type": "Wordpress Website",
       "project": "Kidson Media",
       "roles": [
-        "Design"
+        "Design",
+        "Development"
       ],
       "slug": "kidsonmedia",
       "tags": [
@@ -2729,7 +2673,7 @@
       ],
       "notes": "",
       "partner": "KZN2010",
-      "project_type": "Interactive",
+      "project_type": "Flash Interactive",
       "project": "KZN2010",
       "roles": [
         "Development",
@@ -2758,7 +2702,7 @@
       ],
       "notes": "",
       "partner": "KZN2010",
-      "project_type": "Game",
+      "project_type": "Flash Game",
       "project": "KZN2010 Soccer",
       "roles": [
         "Development",
@@ -3178,7 +3122,7 @@
       ],
       "notes": "",
       "partner": "Music Mate",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Noise",
       "roles": [
         "Development",
@@ -3205,7 +3149,7 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project_type": "Wordpress Website & Interactive",
+      "project_type": "Wordpress Website & Flash Interactive",
       "project": "One Planet",
       "roles": [
         "Design",
@@ -3257,7 +3201,7 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "AfroKwazi",
       "roles": [
         "Design",
@@ -3282,7 +3226,7 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Asmalls",
       "roles": [
         "Design",
@@ -3725,7 +3669,7 @@
       "links": [
         "http://joduplessis.com/store/StringTheory/"
       ],
-      "notes": "Digital design studio based in Pietermaritzburg.",
+      "notes": "Digital design studio & portfolio based in Pietermaritzburg.",
       "partner": "",
       "project_type": "Website",
       "project": "String Theory",
@@ -3760,7 +3704,7 @@
       ],
       "notes": "Tatham Wilkes inc. is a prominent law firm based in Pietermaritzburg, KwaZulu-Natal. ",
       "partner": "Firefly",
-      "project_type": "Websites",
+      "project_type": "Flash Website & Website",
       "project": "Tatham Wilkes 2006 & 2007",
       "roles": [
         "Design",
@@ -3983,7 +3927,7 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project_type": "Interactive Flash",
+      "project_type": "Flash Interactive",
       "project": "Corporate Wildman",
       "roles": [
         "Design",
@@ -4018,7 +3962,7 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project_type": "Interactive",
+      "project_type": "Flash Interactive",
       "project": "Drive Smart Presentation",
       "roles": [
         "Design",
@@ -4082,7 +4026,7 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Greg Minnaar",
       "roles": [
         "Design"
@@ -4484,7 +4428,7 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project_type": "Wordpress Website & Interactive Flash",
+      "project_type": "Wordpress Website & Flash Interactive",
       "project": "Eston Show",
       "roles": [
         "Development",
@@ -4616,7 +4560,7 @@
       ],
       "notes": "Prototype game made with Corona SDK.",
       "partner": "",
-      "project_type": "Game",
+      "project_type": "Corona SDK Game",
       "project": "Air Ball",
       "roles": [
         "Development",
@@ -4644,7 +4588,7 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project_type": "Interactive",
+      "project_type": "Unity3D Interactive",
       "project": "Interactive Audi",
       "roles": [
         "Development",
@@ -4673,7 +4617,7 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project_type": "Interactive",
+      "project_type": "Unity3D Interactive",
       "project": "Interactive Condo",
       "roles": [
         "Development",
@@ -4699,7 +4643,7 @@
       ],
       "notes": "",
       "partner": "",
-      "project_type": "Game",
+      "project_type": "Flash Game",
       "project": "Singularity",
       "roles": [
         "Development",
@@ -4727,7 +4671,7 @@
       ],
       "notes": "The assets from The Forgotten Island was re-used to try re-imagine the demo",
       "partner": "Avalanche",
-      "project_type": "Game",
+      "project_type": "Unity3D Game",
       "project": "The Forgotten - Prototype",
       "roles": [
         "Development",
@@ -4759,7 +4703,7 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project_type": "Game",
+      "project_type": "Unity3D Game",
       "project": "The Forgotten Island - Prototype",
       "roles": [
         "Development",
@@ -4961,7 +4905,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Interactive",
+      "project_type": "Flash Interactive",
       "project": "Mrphome Winter Style Guide",
       "roles": [
         "Development",
@@ -5022,7 +4966,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Interactive",
+      "project_type": "HTML5 Interactive",
       "project": "Mrphome Summer Inspiration",
       "roles": [
         "Development",
@@ -5051,7 +4995,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Interactive",
+      "project_type": "HTML5 Interactive",
       "project": "Mrphome Summer",
       "roles": [
         "Development"
@@ -5086,7 +5030,7 @@
       ],
       "notes": "Realtime twitter feed projected on several locations at a live event.",
       "partner": "MRP Home",
-      "project_type": "Interactive",
+      "project_type": "HTML5 Interactive",
       "project": "Mrphome Online Launch",
       "roles": [
         "Development",
@@ -5119,7 +5063,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Website",
+      "project_type": "Website & UI/UX Design",
       "project": "Mrphome Homepages",
       "roles": [
         "Development",
@@ -5147,7 +5091,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Game",
+      "project_type": "HTML5 Game",
       "project": "Mrphome Spring Campaign",
       "roles": [
         "Development",
@@ -5175,7 +5119,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Game",
+      "project_type": "HTML5 Game",
       "project": "Mrphome Kitchen Promotion",
       "roles": [
         "Development",
@@ -5328,7 +5272,7 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project_type": "Interactive & Web App",
+      "project_type": "HTML5 Interactive & Web App",
       "project": "Paper",
       "roles": [
         "Design",
@@ -5365,8 +5309,8 @@
       ],
       "notes": "Micron is a simple and straightforward PHP MVC framework that uses 3rd party libraries (Plates, Laravel's Eloquent, etc.). Username: admin & password: admin",
       "partner": "",
-      "project_type": "Framework",
-      "project": "Micron MVC framework",
+      "project_type": "PHP Framework",
+      "project": "Micron MVC",
       "roles": [
         "Development",
         "design"
@@ -5623,7 +5567,7 @@
       "links": [],
       "notes": "Urent was a portal for listing properties to rent in the local market. If never got passed MVP / pitching phase. The portal was built in vanilla PHP.",
       "partner": "Firefly",
-      "project_type": "SaaS App",
+      "project_type": "Web App",
       "project": "Urent",
       "roles": [
         "Development",
@@ -5729,7 +5673,7 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Sally-ann Boshoff",
       "roles": [
         "Design"
@@ -5749,7 +5693,7 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project_type": "Concept Design",
+      "project_type": "UI/UX Design",
       "project": "Shirley Dalton",
       "roles": [
         "Design"
@@ -5799,7 +5743,7 @@
       "links": [],
       "notes": "Working proof of concept for an interactive furniture customizer.",
       "partner": "",
-      "project_type": "Interactive",
+      "project_type": "Unity3D Interactive",
       "project": "Interactive Furniture Customizer",
       "roles": [
         "3D",
@@ -5853,9 +5797,9 @@
         "store-images/Test-VirtualCar/main.jpg"
       ],
       "links": [],
-      "notes": "Working proof of concept for an interactive car customizer.",
+      "notes": "Working proof of concept for a Unity3D interactive car customizer",
       "partner": "",
-      "project_type": "Interactive",
+      "project_type": "Unity3D Interactive",
       "project": "Virtual Car Customizer",
       "roles": [
         "3D",

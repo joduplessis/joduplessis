@@ -3,50 +3,46 @@
   		<div class="main">
   			<div class="inner">
   				<img src="../assets/avatar.png" class="avatar" />
-
-  				<div class="links">
-
-							<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
-							<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
-							<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
-							<router-link :to="{ name: 'Work'}">Work</router-link>
-							<a href="https://pdfasaurus.com" target="_blank">
-								PDFasaurus
-								<span>new</span>
-							</a>
-							<!--
-							<a href="https://fold.dev" target="_blank">
-								Fold
-								<span>new</span>
-							</a>
-							<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
-							<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
-							<a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
-							<a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a>
-  						<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
-            	<a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
-  						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
-  						<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
-							-->
+					<div class="links">
+						<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
+						<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
+						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
+						<router-link :to="{ name: 'Work'}">Work</router-link>
+						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
+						<!--
+						<a href="https://fold.dev" target="_blank">
+							Fold
+							<span>new</span>
+						</a>
+						<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
+						<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
+						<a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
+						<a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a>
+						<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
+						<a href="https://www.npmjs.com/~joduplessis" target="_blank"><img src="../assets/icons/npmjs-fill.svg" /></a>
+						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"><img src="../assets/icons/linkedin-box-fill.svg" /></a>
+						<a href="https://twitter.com/jo_duplessis" target="_blank"><img src="../assets/icons/twitter-fill.svg" /></a>
+						-->
   				</div>
-
   				<h2>
-						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover.
+					Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover.
   				</h2>
-
-					<h3>
-						You can reach me via <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">email</a>.
-					</h3>
+				<h3>
+					You can reach me via <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">email</a>.
+				</h3>
   			</div>
   		</div>
     </div>
 </template>
 
 <script>
+	console.log('%c Hi! 👋🏻 You can check out my CV over here → https://joduplessis.com/cv', 'font-size: 20px; background: #222; color: #FF5A5A');
+	/* 
 	console.log('%c Hi! 👋🏻', 'background: #222; color: #FF5A5A');
 	console.log('%c CV → https://joduplessis.com/cv', 'background: #222; color: #FF5A5A');
 	console.log('%c Work → https://joduplessis.com/work', 'background: #222; color: #FF5A5A')
 	console.log('%c Email → hello@joduplessis.com', 'background: #222; color: #FF5A5A');
+	*/
 
 	export default {
 		name: 'home',
