@@ -27,6 +27,9 @@
 	                <strong>
 	                    {{item.project}}
 	                </strong>
+					<br/>
+	                {{item.project_type.toUpperCase()}}
+	                <br/>
 	            </span>
 	            <router-link class="hover" :to="{ name: 'Project', params: { slug: item.slug }}"></router-link>
 	        </div>

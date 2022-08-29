@@ -1,5 +1,5 @@
 {
-  "project": [
+      "project": [
     {
       "author": "Jo du Plessis",
       "images": [
@@ -9,6 +9,7 @@
       "links": ["https://fold.dev"],
       "notes": "Fold is a React component library for product builders. Coming soon.",
       "partner": "",
+      "project_type": "UI Component Library",
       "project": "Fold",
       "roles": [
         "Design",
@@ -39,6 +40,7 @@
       "links": ["https://github.com/joduplessis/screenshotter"],
       "notes": "Screenshotter is a small screenshot & user feedback component.",
       "partner": "",
+      "project_type": "UI Component",
       "project": "Screenshotter",
       "roles": [
         "Design",
@@ -69,7 +71,8 @@
       "links": [],
       "notes": "Logo & concept designs for a user analytics platform concept.",
       "partner": "",
-      "project": "HelloUser (concept)",
+      "project_type": "Concept Design",
+      "project": "HelloUser",
       "roles": [
         "Design"
       ],
@@ -93,6 +96,7 @@
       ],
       "notes": "Adtriba is a marketing attribution & machine learning company. More information available on request.",
       "partner": "Adtriba",
+      "project_type": "SaaS App & Design Systems",
       "project": "Adtriba",
       "roles": [
         "UI/UX Development",
@@ -157,6 +161,7 @@
       ],
       "notes": "Noom Tools is an opinionated boilerplate for creating realtime & component driven JAMStack apps.",
       "partner": "",
+      "project_type": "Code Boilerplate",
       "project": "Noom Tools",
       "roles": [
         "Development"
@@ -218,6 +223,7 @@
       ],
       "notes": "Personal libraries, mini-projects & code snippets hosted on GitHub.",
       "partner": "",
+      "project_type": "Various",
       "project": "libraries, projects & snippets",
       "roles": [
         "Design",
@@ -248,6 +254,7 @@
       ],
       "notes": "PDFasaurus let's you create PDF's using familiar HTML & an easy to use API. ",
       "partner": "",
+      "project_type": "SaaS App",
       "project": "PDFasaurus",
       "roles": [
         "Design",
@@ -296,6 +303,7 @@
       ],
       "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
       "partner": "Yreeka",
+      "project_type": "SaaS App",
       "project": "Yack",
       "roles": [
         "Design",
@@ -350,6 +358,7 @@
       ],
       "notes": "Teachfolk is a Learning Platform to help Create & Teach Online Courses. Create, upload and Teach. Drive and manage learning in your organisation in the easiest way possible.",
       "partner": "Yreeka",
+      "project_type": "SaaS App",
       "project": "Teachfolk",
 			"roles": [
 				"Design",
@@ -408,6 +417,7 @@
       ],
       "notes": "Wordpress & WP Crowdfunding (with premium theme) setup",
       "partner": "Yreeka",
+      "project_type": "Wordpress Website",
       "project": "Artisan Training Foundation",
       "roles": [
         "Wordpress Development"
@@ -463,6 +473,7 @@
       ],
       "notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
       "partner": "Yreeka",
+      "project_type": "SaaS Apps (Web, Desktop, Mobile)",
       "project": "Weekday",
       "roles": [
         "Architecture",
@@ -546,7 +557,8 @@
       "links": null,
       "notes": "Web app concept for an incoming news report aggregator",
       "partner": "Hatch",
-      "project": "Insurance Claims Africa concept",
+      "project_type": "Concept Design",
+      "project": "Insurance Claims Africa",
       "roles": [
         "Design",
         "Strategy"
@@ -572,7 +584,8 @@
       ],
       "notes": "Find Nutrition & Allergen Info Easily. It's peace of mind nutrition. ",
       "partner": "Chow",
-      "project": "Chow mobile app (concept)",
+      "project_type": "Concept Design",
+      "project": "Chow",
       "roles": [
         "Design",
         "Development",
@@ -601,6 +614,7 @@
       ],
       "notes": "An integrated solution to unify your business needs. We took ownership of product development & technical direction after it was built offshore.",
       "partner": "Yreeka",
+      "project_type": "SaaS App",
       "project": "UNSILO.me",
       "roles": [
         "DevOps",
@@ -659,6 +673,7 @@
       ],
       "notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. This project was a personal project of myself and a friend where attempted to get funding by building a workable MVP.",
       "partner": "",
+      "project_type": "SaaS App & Mobile Apps",
       "project": "Wami",
       "roles": [
         "DevOps",
@@ -739,6 +754,7 @@
       ],
       "notes": "Original React Native concept & design for Wami (initial name was a decision between Hoola & Yack).",
       "partner": "",
+      "project_type": "Concept Design",
       "project": "Yack / Hoola",
       "roles": [
         "Design",
@@ -775,8 +791,9 @@
 			],
 			"links": ["https://github.com/joduplessis/beiersdorf-social-pitch"],
 			"notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
-			"partner": "Yreeka",
-			"project": "Beiersdorf Consumer Insights platform concept pitch",
+			"partner": "",
+			"project_type": "Concept Design",
+      "project": "Beiersdorf Consumer Insights Platform",
 			"roles": [
 				"Design",
 				"Strategy"
@@ -809,7 +826,8 @@
       ],
       "notes": "Chow healthy meal finder app upgrade. Find healthy dietician approved meals around you.",
       "partner": "Chow",
-      "project": "Chow mobile app",
+      "project_type": "Mobile SaaS App",
+      "project": "Chow",
       "roles": [
         "Design",
         "Development",
@@ -853,7 +871,8 @@
       ],
       "notes": "THIRSTI Facebook Messenger bot was built in NodeJS, Express & MongoDB. It lets users schedule water reminders & engage with tips. This project is based off of Geronimo.",
       "partner": "Hirt & Carter Software Solutions",
-      "project": "THIRSTI Messenger Bot & API",
+      "project_type": "Messenger App & Bot",
+      "project": "THIRSTI Messenger",
       "roles": [
         "Development",
         "Technical Direction"
@@ -883,7 +902,8 @@
       ],
       "notes": "USSD app, API & Angular dashboard for a billboard campaign.",
       "partner": "Hirt & Carter Software Solutions",
-      "project": "Spar USSD app & dashboard",
+      "project_type": "USSD & Web App",
+      "project": "Spar",
       "roles": [
         "Development",
         "Technical Direction"
@@ -924,6 +944,7 @@
       ],
       "notes": "SVG editing web app built as part of a promotional campaign. Users are able to color in a SVG, manage designs & submit them to stand a chance of having their design printed on an Otees box.",
       "partner": "Hirt & Carter Software Solutions",
+      "project_type": "Web App & Interactive",
       "project": "Otees Colour Your World",
       "roles": [
         "Development",
@@ -964,7 +985,8 @@
       ],
       "notes": "React Native mobile app, enabling Hirt & Carter reps to keep track of meetings.",
       "partner": "Hirt & Carter Software Solutions",
-      "project": "OneStop mobile apps",
+      "project_type": "Mobile Apps",
+      "project": "OneStop",
       "roles": [
         "Co-Development",
         "Technical Direction"
@@ -997,7 +1019,8 @@
       ],
       "notes": "Digital catalogue mobile app for SAB. Ommited some more sensitive screens.",
       "partner": "Hirt & Carter Software Solutions",
-      "project": "SAB IRVP mobile apps",
+      "project_type": "Mobile Apps",
+      "project": "SAB IRVP",
       "roles": [
         "Co-Development",
         "Technical Direction"
@@ -1033,7 +1056,8 @@
       ],
       "notes": "Inspection app for reps from BuildIt, includes task management & social elements. Core development by Dale French (KZN), assisted in technical issues & dev on initial authentication system.",
       "partner": "Hirt & Carter Software Solutions",
-      "project": "BuildIt inspection mobile apps",
+      "project_type": "Mobile Apps",
+      "project": "BuildIt Inspection",
       "roles": [
         "Co-Development",
         "Technical Support",
@@ -1068,7 +1092,8 @@
       ],
       "notes": "Mobile app for Hirt & Carter for keeping track of installations in store. Includes scanning QR codes & image management. Ommited some more sensitive screens.",
       "partner": "Hirt & Carter Software Solutions",
-      "project": "BrandUp mobile apps",
+      "project_type": "Mobile Apps",
+      "project": "BrandUp",
       "roles": [
         "Co-Development",
         "Technical Support",
@@ -1100,6 +1125,7 @@
       ],
       "notes": "Seymour is an easy to use HTML/CSS scaffolding tool written in Golang",
       "partner": "",
+      "project_type": "CLI Tool",
       "project": "Seymour",
       "roles": [
         "Development"
@@ -1130,6 +1156,7 @@
       ],
       "notes": "Pitch designs for the VA Waterfront intranet project. Accompanying images for the website",
       "partner": "Yreeka",
+      "project_type": "Concept Design",
       "project": "V&A Waterfront",
       "roles": [
         "Design"
@@ -1162,6 +1189,7 @@
       ],
       "notes": "Concept for a social craft beer app.",
       "partner": "",
+      "project_type": "Concept Design",
       "project": "Crafted",
       "roles": [
         "Design"
@@ -1224,6 +1252,7 @@
       ],
       "notes": "City building educational game & LMS featuring drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
       "partner": "Yreeka / others",
+      "project_type": "Web App & Game",
       "project": "Playfirst",
       "roles": [
 				"DevOps",
@@ -1262,7 +1291,8 @@
       ],
       "notes": "Sales conference Twitter feed for Hive Connect.",
       "partner": "Hive",
-      "project": "Twitter event screen",
+      "project_type": "Web App & Interative",
+      "project": "Hive Live Event",
       "roles": [
         "Development",
         "design"
@@ -1287,8 +1317,9 @@
       "links": [
         "https://github.com/joduplessis/sab-event-app"
       ],
-      "notes": "Realtime web app to draw prize winners & check guests into the SAB Extravaganza event.",
+      "notes": "Realtime Ember & Firebase web app to draw prize winners & check guests into the SAB Extravaganza event.",
       "partner": "Hive",
+      "project_type": "Web App & Interactive",
       "project": "SAB Extravaganza",
       "roles": [
         "Development",
@@ -1317,6 +1348,7 @@
       ],
       "notes": "Max is an open source bot experiment that talks back, helps you shop Amazon & identify images using Google Vision API. It is built with BotBuilder, Azure, NodeJS & Google.",
       "partner": "",
+      "project_type": "Bot",
       "project": "Max",
       "roles": [
         "Development",
@@ -1349,6 +1381,7 @@
       ],
       "notes": "Erudio Global is the industry leader of ISO related training and coaching services. We helped migrate to new version of Moodle and also assisted in creating custom theme.",
       "partner": "Michael Griffiths",
+      "project_type": "LMS",
       "project": "Erudio",
       "roles": [
         "Development"
@@ -1375,7 +1408,8 @@
       ],
       "notes": "Established in 1956, the Association of Southern African Travel Agents is a representative forum that promotes professional service in the travel industry for both members and their clients.",
       "partner": "Yreeka",
-      "project": "ASATA website",
+      "project_type": "Wordpress Website",
+      "project": "ASATA",
       "roles": [
         "Development"
       ],
@@ -1403,6 +1437,7 @@
       ],
       "notes": "Classifieds is a bespoke web app ASATA members can leverage to post stock that needs to move quickly.",
       "partner": "Yreeka",
+      "project_type": "Web App",
       "project": "ASATA Classifieds",
       "roles": [
         "Development",
@@ -1433,7 +1468,8 @@
       ],
       "notes": "Concept for the ASATA Professional Programme learning management system",
       "partner": "Yreeka",
-      "project": "ASATA Professional Programme concept pitch",
+      "project_type": "Concept Design",
+      "project": "ASATA Professional Programme",
       "roles": [
         "Design"
       ],
@@ -1456,7 +1492,8 @@
       ],
       "notes": "Members portal that ASATA use to manage up to 1500 members & integration into Zurmo & MailChimp. Due to the data being sensitive, we unfortunately don't have any screenshots.",
       "partner": "Yreeka",
-      "project": "ASATA Member",
+      "project_type": "Web App",
+      "project": "ASATA Member Portal",
       "roles": [
         "Development",
         "Technical Direction"
@@ -1489,6 +1526,7 @@
       ],
       "notes": "Luna reseller system is a web app that enables Luna to manage resellers & orders.",
       "partner": "Yreeka",
+      "project_type": "Web App",
       "project": "Luna",
       "roles": [
         "Development",
@@ -1527,9 +1565,10 @@
         "http://www.culp.co.za",
         "http://culp.co.za/ctisurvey/"
       ],
-      "notes": "Specialized survey development for assessment.",
+      "notes": "Specialized HR survey development for assessment.",
       "partner": "Yreeka",
-      "project": "Culp website",
+      "project_type": "Website",
+      "project": "CULP",
       "roles": [
         "Design",
         "Development"
@@ -1560,7 +1599,8 @@
       ],
       "notes": "Leading, dynamic, inter-disciplinary life sciences laboratories.",
       "partner": "Cassandra Kidson",
-      "project": "SciCorp website",
+      "project_type": "Wordpress Website",
+      "project": "SciCorp",
       "roles": [
         "Development"
       ],
@@ -1586,7 +1626,8 @@
       ],
       "notes": "Marketing drive for a high end gated estate in Cape Town.",
       "partner": "",
-      "project": "45 Madison branding",
+      "project_type": "3D Vis & Branding",
+      "project": "45 Madison",
       "roles": [
         "Design"
       ],
@@ -1612,7 +1653,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "All Saints Church website",
+      "project_type": "Wordpress Website",
+      "project": "All Saints Church",
       "roles": [
         "Development",
         "design"
@@ -1642,7 +1684,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Ample Hosting website",
+      "project_type": "Concept Design",
+      "project": "Ample Hosting",
       "roles": [
         "Design"
       ],
@@ -1663,7 +1706,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Apexmedia website",
+      "project_type": "Flash Website",
+      "project": "Apexmedia",
       "roles": [
         "Development",
         "design"
@@ -1691,7 +1735,8 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project": "Avalanche Augmented Reality business cards",
+      "project_type": "AR Flash App & Business Cards",
+      "project": "Avalanche Augmented Reality",
       "roles": [
         "Design",
         "Development",
@@ -1725,7 +1770,8 @@
       ],
       "notes": "Giving Avalanche clients a platform for checking in on their projects",
       "partner": "Avalanche",
-      "project": "Hardline HTML5 mobile app",
+      "project_type": "HTML5 Mobile Apps",
+      "project": "Hardline",
       "roles": [
         "Development",
         "design"
@@ -1759,7 +1805,8 @@
       ],
       "notes": "Avalanche is a South Africa based digital creative agency obsessed with building websites, games and digital experiences that engage and connect brands and products with people.",
       "partner": "Avalanche",
-      "project": "Avalanche 2012 website",
+      "project_type": "Website",
+      "project": "Avalanche 2012",
       "roles": [
         "Development",
         "design"
@@ -1787,7 +1834,8 @@
       ],
       "notes": "Avalanche is a South Africa based digital creative agency obsessed with building websites, games and digital experiences that engage and connect brands and products with people.",
       "partner": "Avalanche",
-      "project": "Avalanche 2014 website",
+      "project_type": "Wordpress Website",
+      "project": "Avalanche 2014",
       "roles": [
         "Development",
         "design"
@@ -1815,6 +1863,7 @@
       ],
       "notes": "UK based metalcore band",
       "partner": "",
+      "project_type": "Branding",
       "project": "Blindsight",
       "roles": [
         "Design"
@@ -1839,6 +1888,7 @@
       ],
       "notes": "Fuel, oil and gas company based in Pietermaritzburg, now called Samuels.",
       "partner": "",
+      "project_type": "Wordpress Website",
       "project": "BP Drakensberg",
       "roles": [
         "Development",
@@ -1870,6 +1920,7 @@
       ],
       "notes": "Carrifreight is a Cape Town based Customs Clearing and Forwarding company.",
       "partner": "",
+      "project_type": "Wordpress Website",
       "project": "Carrifreight",
       "roles": [
         "Development",
@@ -1899,6 +1950,7 @@
       ],
       "notes": "",
       "partner": "",
+      "project_type": "Concept Design",
       "project": "Cassandra Kidson Design",
       "roles": [
         "Development",
@@ -1935,7 +1987,8 @@
       ],
       "notes": "Version 1 mobile app for iOS & Android. code now retired to GitHub.",
       "partner": "",
-      "project": "CHOW Android & iOS app",
+      "project_type": "Mobile Apps",
+      "project": "Chow",
       "roles": [
         "Strategy",
         "Development"
@@ -1970,9 +2023,10 @@
         "store-images/CHOW/WebAppAPI/06.jpg"
       ],
       "links": [],
-      "notes": "Due to the data being sensitive, we don't have a live login.",
+      "notes": "Due to the data being sensitive, we don't have a live login. PHP/MySQL restaurant management web application.",
       "partner": "",
-      "project": "CHOW web app & API",
+      "project_type": "Web App",
+      "project": "Chow",
       "roles": [
         "Development,Design"
       ],
@@ -2005,7 +2059,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "CHOW static website",
+      "project_type": "Static Website",
+      "project": "Chow",
       "roles": [
         "Design",
         "Development",
@@ -2037,7 +2092,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "CHOW website",
+      "project_type": "Wordpress Website",
+      "project": "Chow",
       "roles": [
         "Design",
         "Development",
@@ -2066,7 +2122,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Contrast The Water website",
+      "project_type": "Flash Website",
+      "project": "Contrast The Water",
       "roles": [
         "Development",
         "Design"
@@ -2094,7 +2151,8 @@
       ],
       "notes": "",
       "partner": "CreativeWisdom",
-      "project": "AgriNet web app",
+      "project_type": "Concept Design",
+      "project": "AgriNet",
       "roles": [
         "Design",
         "UX"
@@ -2118,7 +2176,8 @@
       ],
       "notes": "",
       "partner": "CreativeWisdom",
-      "project": "CFIS website",
+      "project_type": "Website",
+      "project": "CFIS",
       "roles": [
         "Development",
         "Design"
@@ -2145,7 +2204,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Deny The Empire website",
+      "project_type": "Website & Branding",
+      "project": "Deny The Empire",
       "roles": [
         "Development",
         "design"
@@ -2173,7 +2233,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Dinkelmans website",
+      "project_type": "Wordpress Website",
+      "project": "Dinkelmans",
       "roles": [
         "Design",
         "Development"
@@ -2202,7 +2263,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Direct Marketing Success website",
+      "project_type": "Website",
+      "project": "Direct Marketing Succes",
       "roles": [
         "Design",
         "Development",
@@ -2230,7 +2292,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Du Boirs website",
+      "project_type": "Website",
+      "project": "Du Boirs",
       "roles": [
         "Development"
       ],
@@ -2256,7 +2319,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Ethos branding",
+      "project_type": "Branding & Design",
+      "project": "Ethos",
       "roles": [
         "Design"
       ],
@@ -2291,7 +2355,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Eyedrills games & web app",
+      "project_type": "Games & Web App",
+      "project": "Eyedrills",
       "roles": [
         "Design",
         "Development",
@@ -2329,7 +2394,8 @@
       ],
       "notes": "Username: admin & password: admin. Unfortunately most of the screenshots have been lost.",
       "partner": "Firefly",
-      "project": "iAssist web app",
+      "project_type": "Web App",
+      "project": "iAssist",
       "roles": [
         "Design",
         "Development",
@@ -2360,7 +2426,8 @@
       ],
       "notes": "",
       "partner": "Firefly",
-      "project": "Firefly website",
+      "project_type": "Website",
+      "project": "Firefly",
       "roles": [
         "Design",
         "Development",
@@ -2390,7 +2457,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Greendoor website & CMS",
+      "project_type": "Website & Web App",
+      "project": "Greendoor",
       "roles": [
         "Development",
         "design"
@@ -2423,7 +2491,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Gus-En website",
+      "project_type": "Concept Design",
+      "project": "Gus-En",
       "roles": [
         "Design"
       ],
@@ -2445,7 +2514,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Gussy Adventures website",
+      "project_type": "Website",
+      "project": "Gussy Adventures",
       "roles": [
         "Development",
         "design"
@@ -2480,7 +2550,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Gwahumbe website & branding",
+      "project_type": "Branding & Wordpress Website",
+      "project": "Gwahumbe",
       "roles": [
         "Design",
         "Development",
@@ -2511,7 +2582,8 @@
       ],
       "notes": "Hella Hella Outdoor Centre offers a world of diverse activities and cherished lifelong memories for all ages and levels of fitness - less than two hours from Durban and Pietermaritzburg. ",
       "partner": "",
-      "project": "Hella Hella website",
+      "project_type": "Wordpress Website",
+      "project": "Hella Hella",
       "roles": [
         "Development",
         "design"
@@ -2539,7 +2611,8 @@
       ],
       "notes": "The legend of this soulful retreat spreads far over the foothills of the Drakensberg. Even from across the seas, people flock to the gates of Indigo Fields.",
       "partner": "",
-      "project": "Indigo Fields website",
+      "project_type": "Wordpress Website",
+      "project": "Indigo Fields",
       "roles": [
         "Development",
         "design"
@@ -2570,7 +2643,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "IUA branding",
+      "project_type": "Branding",
+      "project": "IUA",
       "roles": [
         "Design",
         "UX",
@@ -2594,7 +2668,8 @@
       ],
       "notes": "",
       "partner": "Cassandra Kidson",
-      "project": "Kate Bain Events website",
+      "project_type": "Wordpress Website",
+      "project": "Kate Bain Events",
       "roles": [
         "Development",
         "design"
@@ -2632,7 +2707,8 @@
       ],
       "notes": "",
       "partner": "Cassandra Kidson",
-      "project": "Kidson Media website",
+      "project_type": "Wordpress Website",
+      "project": "Kidson Media",
       "roles": [
         "Design"
       ],
@@ -2653,7 +2729,8 @@
       ],
       "notes": "",
       "partner": "KZN2010",
-      "project": "KZN2010 KZN interactive map",
+      "project_type": "Interactive",
+      "project": "KZN2010",
       "roles": [
         "Development",
         "design"
@@ -2681,7 +2758,8 @@
       ],
       "notes": "",
       "partner": "KZN2010",
-      "project": "KZN2010 Soccer game",
+      "project_type": "Game",
+      "project": "KZN2010 Soccer",
       "roles": [
         "Development",
         "design"
@@ -2711,7 +2789,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Leather From Hart website",
+      "project_type": "Website & Web App",
+      "project": "Leather From Hart",
       "roles": [
         "Development",
         "design"
@@ -2748,7 +2827,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Lesotho Adventures website, CMS & branding",
+      "project_type": "Website, Web App & Branding",
+      "project": "Lesotho Adventures",
       "roles": [
         "Design",
         "Development",
@@ -2780,7 +2860,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Little Munchkins website & branding",
+      "project_type": "Website & Branding",
+      "project": "Little Munchkins",
       "roles": [
         "Design"
       ],
@@ -2805,7 +2886,8 @@
       ],
       "notes": "Mushrush South Africa supply mushroom grow kits, exotic spawn and truffles, oyster and shiitake home growing supplies.",
       "partner": "",
-      "project": "Mush Rush website",
+      "project_type": "Wordpress Website",
+      "project": "Mush Rush",
       "roles": [
         "Development",
         "design"
@@ -2834,7 +2916,8 @@
       ],
       "notes": "Instrument & audio visual shop based out of Johannesburg.",
       "partner": "",
-      "project": "Music Mate website",
+      "project_type": "Website",
+      "project": "Music Mate",
       "roles": [
         "Design",
         "Development",
@@ -2863,6 +2946,7 @@
       ],
       "notes": "",
       "partner": "",
+      "project_type": "Design",
       "project": "NCF Church brochure",
       "roles": [
         "Design"
@@ -2887,7 +2971,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church Destiny Project branding",
+      "project_type": "Branding & Design",
+      "project": "NCF Church Destiny Project",
       "roles": [
         "Design"
       ],
@@ -2911,7 +2996,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church Destiny Project website",
+      "project_type": "Website",
+      "project": "NCF Church Destiny Project",
       "roles": [
         "Development",
         "design"
@@ -2937,7 +3023,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church Fronteirs flyer",
+      "project_type": "Design",
+      "project": "NCF Church Fronteirs",
       "roles": [
         "Design"
       ],
@@ -2958,7 +3045,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church Fronteirs website",
+      "project_type": "Website",
+      "project": "NCF Church Fronteirs",
       "roles": [
         "Development",
         "design"
@@ -2987,7 +3075,8 @@
       ],
       "notes": "Username: admin & password: admin",
       "partner": "",
-      "project": "NCF Church member management web app",
+      "project_type": "Web App",
+      "project": "NCF Church Member Management",
       "roles": [
         "Design",
         "Development",
@@ -3018,7 +3107,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church ladies meeting flyer design",
+      "project_type": "Design",
+      "project": "NCF Church Ladies Meeting",
       "roles": [
         "Design"
       ],
@@ -3039,7 +3129,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church mens camp flyer design",
+      "project_type": "Design",
+      "project": "NCF Church Mens Camp",
       "roles": [
         "Design"
       ],
@@ -3065,7 +3156,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "NCF Church various poster designs",
+      "project_type": "Design",
+      "project": "NCF Church - Various",
       "roles": [
         "Design"
       ],
@@ -3086,7 +3178,8 @@
       ],
       "notes": "",
       "partner": "Music Mate",
-      "project": "Noise website design",
+      "project_type": "Concept Design",
+      "project": "Noise",
       "roles": [
         "Development",
         "design"
@@ -3112,7 +3205,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "One Planet website framework & interactive",
+      "project_type": "Wordpress Website & Interactive",
+      "project": "One Planet",
       "roles": [
         "Design",
         "Development",
@@ -3141,7 +3235,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Afro Deli logo",
+      "project_type": "Design",
+      "project": "Afro Deli Logo",
       "roles": [
         "Design"
       ],
@@ -3162,7 +3257,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "AfroKwazi website",
+      "project_type": "Concept Design",
+      "project": "AfroKwazi",
       "roles": [
         "Design",
         "UX"
@@ -3186,7 +3282,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Asmalls website",
+      "project_type": "Concept Design",
+      "project": "Asmalls",
       "roles": [
         "Design",
         "UX"
@@ -3213,6 +3310,7 @@
       ],
       "notes": "",
       "partner": "One Planet",
+      "project_type": "Website",
       "project": "Desperate Households",
       "roles": [
         "Design",
@@ -3236,7 +3334,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Gwagwara website framework",
+      "project_type": "Website",
+      "project": "GwaraGwara",
       "roles": [
         "Design",
         "Development",
@@ -3262,7 +3361,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Jean Junction website framework",
+      "project_type": "Website",
+      "project": "Jean Junction",
       "roles": [
         "Development",
         "design"
@@ -3294,7 +3394,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Nu Health website & branding",
+      "project_type": "Website & Branding",
+      "project": "Nu Health",
       "roles": [
         "Design",
         "UX"
@@ -3319,7 +3420,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Off The Chart website framework",
+      "project_type": "Website",
+      "project": "Off The Chart",
       "roles": [
         "Development",
         "design"
@@ -3344,7 +3446,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Outdoors 365 website framework",
+      "project_type": "Website",
+      "project": "Outdoors 365",
       "roles": [
         "Development",
         "design"
@@ -3386,6 +3489,7 @@
       ],
       "notes": "Reebok breast cancer campaign pitch - for print & web.",
       "partner": "One Planet",
+      "project_type": "Design",
       "project": "Reebok breast cancer campaign",
       "roles": [
         "Design",
@@ -3408,7 +3512,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Senses Day Spa website framework",
+      "project_type": "Website",
+      "project": "Senses Day Spa",
       "roles": [
         "Development",
         "design"
@@ -3433,7 +3538,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Soles For Africa logo",
+      "project_type": "Design",
+      "project": "Soles For Africa",
       "roles": [
         "Design"
       ],
@@ -3454,7 +3560,8 @@
       ],
       "notes": "",
       "partner": "One Planet",
-      "project": "Sparks Outdoors website framework",
+      "project_type": "Website",
+      "project": "Sparks Outdoors",
       "roles": [
         "Development",
         "design"
@@ -3480,7 +3587,8 @@
       ],
       "notes": "Save the date for the SA bride’s favourite wedding show, The Wedding Expo.",
       "partner": "One Planet",
-      "project": "Wedding Expo Wordpress theme",
+      "project_type": "Wordpress Website",
+      "project": "Wedding Expo",
       "roles": [
         "Design",
         "Development",
@@ -3509,7 +3617,8 @@
       ],
       "notes": "Wedding insperations magazine website.",
       "partner": "One Planet",
-      "project": "Wedding Inpspirations Wordpress theme",
+      "project_type": "Wordpress Website",
+      "project": "Wedding Inpspirations",
       "roles": [
         "Design",
         "Development",
@@ -3539,7 +3648,8 @@
       ],
       "notes": "French cuisine restaurant that was based in Cape Town.",
       "partner": "",
-      "project": "Platine website",
+      "project_type": "Flash Website",
+      "project": "Platine",
       "roles": [
         "Development",
         "design"
@@ -3566,6 +3676,7 @@
       ],
       "notes": "Logo design competition",
       "partner": "",
+      "project_type": "Design",
       "project": "Sarah Kang logo",
       "roles": [
         "Design"
@@ -3587,7 +3698,8 @@
       ],
       "notes": "School Leavers Opportunity Training (SLOT) is a registered Non Government Organization (NGO) founded in 1990 by Pauline Greene.",
       "partner": "",
-      "project": "SLOT website",
+      "project_type": "Flash Website",
+      "project": "SLOT",
       "roles": [
         "Development",
         "design"
@@ -3615,7 +3727,8 @@
       ],
       "notes": "Digital design studio based in Pietermaritzburg.",
       "partner": "",
-      "project": "String Theory website",
+      "project_type": "Website",
+      "project": "String Theory",
       "roles": [
         "Design",
         "Development",
@@ -3647,7 +3760,8 @@
       ],
       "notes": "Tatham Wilkes inc. is a prominent law firm based in Pietermaritzburg, KwaZulu-Natal. ",
       "partner": "Firefly",
-      "project": "Tatham Wilkes 2006/2007 website",
+      "project_type": "Websites",
+      "project": "Tatham Wilkes 2006 & 2007",
       "roles": [
         "Design",
         "Development",
@@ -3677,7 +3791,8 @@
       ],
       "notes": "AAM Livestock Agents & Auctioneers conduct commercial, special/stud and dispersal sales throughout the year at various venues across KZN.",
       "partner": "Temple Creative",
-      "project": "AAM KZN website",
+      "project_type": "Wordpress Website",
+      "project": "AAM KZN",
       "roles": [
         "Development",
         "design"
@@ -3707,7 +3822,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Africa Holidays and Safaris website",
+      "project_type": "Wordpress Website",
+      "project": "Africa Holidays and Safaris",
       "roles": [
         "Design",
         "Development",
@@ -3738,7 +3854,8 @@
       ],
       "notes": "Arbor-care specialises in hands-on management of forestry and agricultural projects in sub-Saharan Africa.",
       "partner": "Temple Creative",
-      "project": "Arbor Care website",
+      "project_type": "Wordpress Website",
+      "project": "Arbor Care",
       "roles": [
         "Development"
       ],
@@ -3768,7 +3885,8 @@
       ],
       "notes": "Welcome to our website, where we will present to you some spectacular birding tours around the world.",
       "partner": "Temple Creative",
-      "project": "Birding Ecotours website & interactive map",
+      "project_type": "Wordpress Website & Flash Interactive",
+      "project": "Birding Ecotours",
       "roles": [
         "Development",
         "design"
@@ -3802,7 +3920,8 @@
       ],
       "notes": "Based in the renowned Okavango Delta, we offer birding safaris within Botswana as well as beyond our borders where our birding adventures take us to the remote west coast of Namibia, Zambia’s great north, the fabled Eastern Highlands of Zimbabwe, magnificent Mocambique and Angola.",
       "partner": "Temple Creative",
-      "project": "Birding Safaris website",
+      "project_type": "Wordpress Website",
+      "project": "Birding Safaris",
       "roles": [
         "Development",
         "design"
@@ -3830,7 +3949,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "CEBA mobile website",
+      "project_type": "Wordpress Website & Mobile Site",
+      "project": "CEBA",
       "roles": [
         "Development",
         "design"
@@ -3863,7 +3983,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Corporate Wildman interactive scorecards",
+      "project_type": "Interactive Flash",
+      "project": "Corporate Wildman",
       "roles": [
         "Design",
         "Development",
@@ -3897,7 +4018,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Drive Smart interactive presentation",
+      "project_type": "Interactive",
+      "project": "Drive Smart Presentation",
       "roles": [
         "Design",
         "Development",
@@ -3927,7 +4049,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "FLUX.tv e-commerce website extension",
+      "project_type": "Wordpress Website & Web App",
+      "project": "FLUX.tv E-commerce",
       "roles": [
         "Design",
         "Development",
@@ -3959,7 +4082,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Greg Minnaar website",
+      "project_type": "Concept Design",
+      "project": "Greg Minnaar",
       "roles": [
         "Design"
       ],
@@ -3980,7 +4104,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Hills Equipment website",
+      "project_type": "Wordpress Website",
+      "project": "Hills Equipment",
       "roles": [
         "Development",
         "design"
@@ -4011,7 +4136,8 @@
       ],
       "notes": "The Indri site was dulpicated from the Rockjumper website",
       "partner": "Temple Creative",
-      "project": "Indri website",
+      "project_type": "Wordpress Website",
+      "project": "Indri",
       "roles": [
         "Design",
         "Development",
@@ -4046,7 +4172,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Inman Production website",
+      "project_type": "Wordpress Website",
+      "project": "Inman Productions",
       "roles": [
         "Development",
         "design"
@@ -4076,7 +4203,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Kevin Trench website",
+      "project_type": "Wordpress Website",
+      "project": "Kevin Trench",
       "roles": [
         "Development",
         "design"
@@ -4107,7 +4235,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "KZN Slots website",
+      "project_type": "Wordpress Website",
+      "project": "KZN Slots",
       "roles": [
         "Development",
         "design"
@@ -4138,7 +4267,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Letaka Safaris website",
+      "project_type": "Wordpress Website",
+      "project": "Letaka Safaris",
       "roles": [
         "Development",
         "design"
@@ -4170,7 +4300,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Liberty Life animations",
+      "project_type": "Flash Animations",
+      "project": "Liberty Life Banners",
       "roles": [
         "Development",
         "design"
@@ -4198,7 +4329,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Max Cluer website",
+      "project_type": "Wordpress Website",
+      "project": "Max Cluer",
       "roles": [
         "Design",
         "Development",
@@ -4228,7 +4360,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Midmar Mile website",
+      "project_type": "Wordpress Website",
+      "project": "Midmar Mile",
       "roles": [
         "Development",
         "design"
@@ -4257,7 +4390,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "NatShip website",
+      "project_type": "Wordpress Website",
+      "project": "NatShip",
       "roles": [
         "Development",
         "design"
@@ -4285,7 +4419,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Organic for Africa website",
+      "project_type": "Wordpress Website",
+      "project": "Organic for Africa",
       "roles": [
         "Development",
         "design"
@@ -4316,7 +4451,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Talent Window Africa website",
+      "project_type": "Wordpress Website",
+      "project": "Talent Window Africa",
       "roles": [
         "Design",
         "Development",
@@ -4348,7 +4484,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Eston Show website & interactive map",
+      "project_type": "Wordpress Website & Interactive Flash",
+      "project": "Eston Show",
       "roles": [
         "Development",
         "design"
@@ -4381,7 +4518,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Top Events website",
+      "project_type": "Wordpress Website",
+      "project": "Top Events",
       "roles": [
         "Design",
         "Development",
@@ -4413,7 +4551,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Treemes website",
+      "project_type": "Wordpress Website",
+      "project": "Treemes",
       "roles": [
         "Development",
         "design"
@@ -4446,7 +4585,8 @@
       ],
       "notes": "",
       "partner": "Temple Creative",
-      "project": "Wildlands website & blogs",
+      "project_type": "Wordpress Website",
+      "project": "Wildlands",
       "roles": [
         "Design",
         "Development",
@@ -4476,7 +4616,8 @@
       ],
       "notes": "Prototype game made with Corona SDK.",
       "partner": "",
-      "project": "Air Ball game test",
+      "project_type": "Game",
+      "project": "Air Ball",
       "roles": [
         "Development",
         "design"
@@ -4503,7 +4644,8 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project": "Interactive Audi demo",
+      "project_type": "Interactive",
+      "project": "Interactive Audi",
       "roles": [
         "Development",
         "design"
@@ -4531,7 +4673,8 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project": "Interactive Condo demo",
+      "project_type": "Interactive",
+      "project": "Interactive Condo",
       "roles": [
         "Development",
         "design"
@@ -4556,7 +4699,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Singularity game",
+      "project_type": "Game",
+      "project": "Singularity",
       "roles": [
         "Development",
         "design"
@@ -4583,7 +4727,8 @@
       ],
       "notes": "The assets from The Forgotten Island was re-used to try re-imagine the demo",
       "partner": "Avalanche",
-      "project": "The Forgotten game concept",
+      "project_type": "Game",
+      "project": "The Forgotten - Prototype",
       "roles": [
         "Development",
         "design"
@@ -4614,7 +4759,8 @@
       ],
       "notes": "",
       "partner": "Avalanche",
-      "project": "The Forgotten Island game concept",
+      "project_type": "Game",
+      "project": "The Forgotten Island - Prototype",
       "roles": [
         "Development",
         "design"
@@ -4643,7 +4789,8 @@
       ],
       "notes": "Casino themed educational Flash game for Dimension Data. Artwork was mostly provided by Trainiac.",
       "partner": "Trainiac",
-      "project": "Dimension Data Casino game",
+      "project_type": "Flash Game",
+      "project": "Dimension Data Casino",
       "roles": [
         "Development",
         "UX"
@@ -4684,7 +4831,8 @@
       ],
       "notes": "Javascript & custom written Adobe ExtendScript was used to export artwork from Illustrator into a game-ready format",
       "partner": "Trainiac",
-      "project": "Dimension Data Sentinels HTML5 game",
+      "project_type": "HTML5 Game",
+      "project": "Dimension Data Sentinels",
       "roles": [
         "Development",
         "Technical Direction"
@@ -4721,7 +4869,8 @@
       ],
       "notes": "",
       "partner": "Trainiac",
-      "project": "SAB interactive",
+      "project_type": "Flash Interactive",
+      "project": "SAB",
       "roles": [
         "Design",
         "Development",
@@ -4749,7 +4898,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "UFET College website",
+      "project_type": "Wordpress Website",
+      "project": "UFET College",
       "roles": [
         "Development",
         "design"
@@ -4780,7 +4930,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Water PS website & CMS",
+      "project_type": "Website & Web App",
+      "project": "Water PS",
       "roles": [
         "Design",
         "Development",
@@ -4810,7 +4961,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome Winter Style Guide interactive",
+      "project_type": "Interactive",
+      "project": "Mrphome Winter Style Guide",
       "roles": [
         "Development",
         "design"
@@ -4838,7 +4990,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome website",
+      "project_type": "Website",
+      "project": "Mrphome",
       "roles": [
         "Development"
       ],
@@ -4869,7 +5022,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome Summer Inspiration interactive",
+      "project_type": "Interactive",
+      "project": "Mrphome Summer Inspiration",
       "roles": [
         "Development",
         "UX"
@@ -4897,7 +5051,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome Summer parallax interactive",
+      "project_type": "Interactive",
+      "project": "Mrphome Summer",
       "roles": [
         "Development"
       ],
@@ -4931,7 +5086,8 @@
       ],
       "notes": "Realtime twitter feed projected on several locations at a live event.",
       "partner": "MRP Home",
-      "project": "Mrphome online launch interactives",
+      "project_type": "Interactive",
+      "project": "Mrphome Online Launch",
       "roles": [
         "Development",
         "design"
@@ -4963,7 +5119,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome homepage archive",
+      "project_type": "Website",
+      "project": "Mrphome Homepages",
       "roles": [
         "Development",
         "design"
@@ -4990,7 +5147,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome HTML5 Spring game",
+      "project_type": "Game",
+      "project": "Mrphome Spring Campaign",
       "roles": [
         "Development",
         "design"
@@ -5017,7 +5175,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome HTML5 kitchen game concept",
+      "project_type": "Game",
+      "project": "Mrphome Kitchen Promotion",
       "roles": [
         "Development",
         "design"
@@ -5055,7 +5214,8 @@
       ],
       "notes": "Lightweight presentation builder for the web that runs off of JS/Micron, with support for basic animations & embedding via iFrames.",
       "partner": "MRP Home",
-      "project": "Mrphome interactive catalogues",
+      "project_type": "Web App",
+      "project": "Mrphome Catalogues",
       "roles": [
         "Development",
         "Technical Direction"
@@ -5093,7 +5253,8 @@
       ],
       "notes": "Buyer's Guide CMS platform built using Micron",
       "partner": "MRP Home",
-      "project": "Mrphome Buyers Guide platform",
+      "project_type": "Web App",
+      "project": "Mrphome Buyers Guide",
       "roles": [
         "Design",
         "Development",
@@ -5130,7 +5291,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Mrphome blog",
+      "project_type": "Website",
+      "project": "Mrphome",
       "roles": [
         "Development",
         "Technical Direction"
@@ -5166,7 +5328,8 @@
       ],
       "notes": "",
       "partner": "MRP Home",
-      "project": "Paper interactive presentation builder",
+      "project_type": "Interactive & Web App",
+      "project": "Paper",
       "roles": [
         "Design",
         "Development",
@@ -5202,6 +5365,7 @@
       ],
       "notes": "Micron is a simple and straightforward PHP MVC framework that uses 3rd party libraries (Plates, Laravel's Eloquent, etc.). Username: admin & password: admin",
       "partner": "",
+      "project_type": "Framework",
       "project": "Micron MVC framework",
       "roles": [
         "Development",
@@ -5248,7 +5412,8 @@
       ],
       "notes": "",
       "partner": "",
-      "project": "Task Fu app",
+      "project_type": "iOS App",
+      "project": "Task Fu",
       "roles": [
         "Development",
         "Design",
@@ -5286,7 +5451,8 @@
       ],
       "notes": "Close range wifi hotspot & bluetooth signal detection Android app.",
       "partner": "",
-      "project": "Scout Android app",
+      "project_type": "Android App",
+      "project": "Scout",
       "roles": [
         "Development",
         "Design",
@@ -5317,7 +5483,8 @@
       ],
       "notes": "Bookshelf is a React/Flux Chrome extension that makes it straight-forward to keep temporary bookmarks.",
       "partner": "",
-      "project": "Bookshelf Chrome Extension",
+      "project_type": "Chrome Extension",
+      "project": "Bookshelf",
       "roles": [
         "Development",
         "Design",
@@ -5354,7 +5521,8 @@
       ],
       "notes": "Ping is a social alarm clock app idea that got around 60% into development. Heavy restrictions imposed on alarms in iOS & Android caused development to go dormant. You can install the latest build apk & download the source code.",
       "partner": "",
-      "project": "Ping Android app",
+      "project_type": "Android App",
+      "project": "Ping",
       "roles": [
         "Development",
         "Design",
@@ -5394,7 +5562,8 @@
       ],
       "notes": "Unfortunately there are no screenshots of this project.",
       "partner": "Clyral",
-      "project": "Debonairs mobile site",
+      "project_type": "Mobile Site",
+      "project": "Debonairs",
       "roles": [
         "Development",
         "UX"
@@ -5423,7 +5592,8 @@
       ],
       "notes": "Various interactive Flash content for promotions & interfaces.",
       "partner": "Xposure",
-      "project": "Xposure Flash animations",
+      "project_type": "Flash Interactive & Animation",
+      "project": "Xposure",
       "roles": [
         "Development",
         "Design",
@@ -5453,6 +5623,7 @@
       "links": [],
       "notes": "Urent was a portal for listing properties to rent in the local market. If never got passed MVP / pitching phase. The portal was built in vanilla PHP.",
       "partner": "Firefly",
+      "project_type": "SaaS App",
       "project": "Urent",
       "roles": [
         "Development",
@@ -5478,7 +5649,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Cargo Cult logo design",
+      "project_type": "Design",
+      "project": "Cargo Cult Logo",
       "roles": [
         "Design"
       ],
@@ -5497,7 +5669,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Grow logo design",
+      "project_type": "Design",
+      "project": "Grow Logo",
       "roles": [
         "Design"
       ],
@@ -5516,7 +5689,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Hologram Shark logo design",
+      "project_type": "Design",
+      "project": "Hologram Shark Logo",
       "roles": [
         "Design"
       ],
@@ -5535,7 +5709,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Wallpaper design",
+      "project_type": "Design",
+      "project": "Wallpaper",
       "roles": [
         "Design"
       ],
@@ -5554,7 +5729,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Sally-ann Boshoff website concept design",
+      "project_type": "Concept Design",
+      "project": "Sally-ann Boshoff",
       "roles": [
         "Design"
       ],
@@ -5573,7 +5749,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Shirley Dalton website concept design",
+      "project_type": "Concept Design",
+      "project": "Shirley Dalton",
       "roles": [
         "Design"
       ],
@@ -5595,7 +5772,8 @@
       "links": [],
       "notes": "",
       "partner": "",
-      "project": "Condo 3d renders",
+      "project_type": "3D Vis",
+      "project": "Condo",
       "roles": [
         "3D Vis"
       ],
@@ -5621,6 +5799,7 @@
       "links": [],
       "notes": "Working proof of concept for an interactive furniture customizer.",
       "partner": "",
+      "project_type": "Interactive",
       "project": "Interactive Furniture Customizer",
       "roles": [
         "3D",
@@ -5646,6 +5825,7 @@
       "links": [],
       "notes": "",
       "partner": "",
+      "project_type": "Concept Design",
       "project": "Unity3D game concepts",
       "roles": [
         "3D",
@@ -5675,6 +5855,7 @@
       "links": [],
       "notes": "Working proof of concept for an interactive car customizer.",
       "partner": "",
+      "project_type": "Interactive",
       "project": "Virtual Car Customizer",
       "roles": [
         "3D",
@@ -5698,7 +5879,8 @@
       "links": ["https://web.archive.org/web/20060401000000*/ascot-inn.co.za"],
       "notes": "Website for Ascot Inn lodge in Pietermaritzburg.",
       "partner": "Xposure",
-      "project": "Ascot Inn website",
+      "project_type": "Website",
+      "project": "Ascot Inn",
       "roles": [
         "Design",
         "Dev"
