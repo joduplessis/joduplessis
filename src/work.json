@@ -9,9 +9,9 @@
             "links": [
                 "https://fold.dev"
             ],
-            "notes": "Fold is a React based component library for people building products. Coming soon.",
+            "notes": "Fold is a React based component library for product builders. Coming soon.",
             "partner": "",
-            "project_type": "UI Components, Website & Web App",
+            "project_type": "React Components, Website & Web App",
             "project": "Fold",
             "roles": [
                 "Design",
@@ -382,7 +382,7 @@
                 "https://github.com/joduplessis/yack"
             ],
             "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
-            "partner": "Yreeka",
+            "partner": "",
             "project_type": "Web App",
             "project": "Yack",
             "roles": [
@@ -477,7 +477,7 @@
                 "https://weekday.work"
             ],
             "notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps. I was responsible for all design & development.",
-            "partner": "Yreeka",
+            "partner": "",
             "project_type": "Web, Mobile & Desktop App",
             "project": "Weekday",
             "roles": [
