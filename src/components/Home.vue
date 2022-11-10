@@ -7,7 +7,7 @@
 						<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
 						<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
 						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
-						<router-link :to="{ name: 'Work'}">Work</router-link>
+						<!-- <router-link :to="{ name: 'Work'}">Work</router-link> -->
 						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
 						<!--
 						<a href="https://fold.dev" target="_blank">
@@ -36,7 +36,7 @@
 </template>
 
 <script>
-	console.log('%c Hi! 👋🏻 You can check out my CV over here 👉🏻 https://joduplessis.com/cv', 'font-size: 20px; background: #222; color: #FF5A5A');
+//	console.log('%c Hi! 👋🏻 You can check out my CV over here 👉🏻 https://joduplessis.com/cv', 'font-size: 20px; background: #222; color: #FF5A5A');
 	/* 
 	console.log('%c Hi! 👋🏻', 'background: #222; color: #FF5A5A');
 	console.log('%c CV → https://joduplessis.com/cv', 'background: #222; color: #FF5A5A');
