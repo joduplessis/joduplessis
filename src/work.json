@@ -1,4 +1,4 @@
-{ 
+{
     "project": [
         {
             "author": "Jo du Plessis",
@@ -9,17 +9,21 @@
             "links": [
                 "https://fold.dev"
             ],
-            "notes": "Fold is a React based component library for product builders. Coming soon.",
+            "notes": "Coming soon.",
             "partner": "",
-            "project_type": "React Components, Website & Web App",
+            "project_type": "Frontend tooling, Website & Web App",
             "project": "Fold",
             "roles": [
                 "Design",
-                "Development"
+                "Development",
+								"DevOps",
+								"Strategy"
             ],
             "slug": "fold",
             "tags": [
                 "React",
+								"Dev tools",
+								"Product",
                 "Web Components",
                 "Design Patterns"
             ],
@@ -34,7 +38,7 @@
             "links": [
                 "https://adtriba.com"
             ],
-            "notes": "Adtriba is a marketing attribution & machine learning company. Headed up all UI/UX related work. More information available on request.",
+            "notes": "Adtriba is a marketing attribution & machine learning company. Headed up all of the UI/UX related topics (including strategy, development & design). More information available on request.",
             "partner": "Adtriba",
             "project_type": "UI/UX, CLI Tool & Design",
             "project": "Adtriba",
@@ -382,7 +386,7 @@
                 "https://github.com/joduplessis/yack"
             ],
             "notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
-            "partner": "",
+            "partner": "Yack",
             "project_type": "Web App",
             "project": "Yack",
             "roles": [
@@ -477,7 +481,7 @@
                 "https://weekday.work"
             ],
             "notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps. I was responsible for all design & development.",
-            "partner": "",
+            "partner": "Weekday",
             "project_type": "Web, Mobile & Desktop App",
             "project": "Weekday",
             "roles": [
