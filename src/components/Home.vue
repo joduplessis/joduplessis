@@ -7,7 +7,7 @@
 						<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
 						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
 						<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
-						<router-link :to="{ name: 'Work'}">Work</router-link>
+						<router-link :to="{ name: 'Work'}">Prev. work</router-link>
 						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
 						<a href="https://fold.dev" target="_blank">
 							Fold
@@ -25,10 +25,10 @@
 						-->
   				</div>
   				<h2>
-					Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover.
+						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover. Maker at <a href="https://fold.dev" target="_blank">fold.dev</a>.
   				</h2>
 				<h3>
-					You can reach me via <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">email</a>.
+					Want to collaborate? Send me a <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">mail</a>.
 				</h3>
   			</div>
   		</div>
@@ -152,10 +152,20 @@
 			margin-bottom: 50px;
 			font-weight: 500;
 			padding: 0px;
-			font-size: 70px;
+			font-size: 60px;
 			line-height: 75px;
 			letter-spacing: -1px;
 			color: #1B2B3A;
+		}
+
+		.main .inner h2 a {
+			text-decoration: none;
+			background: transparent;
+			color: #1B2B3A;
+		}
+
+		.main .inner h2 a:hover {
+			text-decoration: underline;
 		}
 
 		.main .inner h3, .main .inner h3 a {

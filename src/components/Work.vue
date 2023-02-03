@@ -6,10 +6,10 @@
 			</router-link>
 
 			<p>
-				Some of the projects below have been collaborations with agencies, working full-time somewhere or 	have been experiments.
+				Projects are from freelance collaborations, full-time employment or personal work.
 				Some have been removed due to the nature of the work or an NDA.
-				A lot of the older projects have been archived, my apologies if a link does not work anymore (specifically old Wordpress sites). If you have any questions,
-				<a href="mailto:hello@joduplessis.com">please let me know</a>.
+				Older projects have unfortunately been archived - my apologies if a link does not work anymore.
+				If you have any questions, <a href="mailto:hello@joduplessis.com">please let me know</a>.
 			</p>
 		</div>
 		<div class="items">
