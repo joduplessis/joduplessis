@@ -28,7 +28,7 @@
 						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover. Maker at <a href="https://fold.dev" target="_blank">fold.dev</a>.
   				</h2>
 				<h3>
-					Want to collaborate? Send me a <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">mail</a>.
+					Want to collaborate? Send me an <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">e-mail</a>.
 				</h3>
   			</div>
   		</div>
