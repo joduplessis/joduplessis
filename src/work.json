@@ -11,7 +11,7 @@
             ],
             "notes": "Coming soon.",
             "partner": "",
-            "project_type": "Frontend tooling, Website & Web App",
+            "project_type": "UI Components, Website & Web App",
             "project": "Fold",
             "roles": [
                 "Design",
@@ -99,28 +99,28 @@
         {
             "author": "Jo du Plessis",
             "images": [
-                "store-images/Screenshotter/00.png",
-                "store-images/Screenshotter/01.png",
-                "store-images/Screenshotter/02.png",
-                "store-images/Screenshotter/03.png",
-                "store-images/Screenshotter/04.png",
-                "store-images/Screenshotter/05.png",
-                "store-images/Screenshotter/06.png",
-                "store-images/Screenshotter/07.png",
-                "store-images/Screenshotter/08.png"
+                "store-images/Bugable/00.png",
+                "store-images/Bugable/01.png",
+                "store-images/Bugable/02.png",
+                "store-images/Bugable/03.png",
+                "store-images/Bugable/04.png",
+                "store-images/Bugable/05.png",
+                "store-images/Bugable/06.png",
+                "store-images/Bugable/07.png",
+                "store-images/Bugable/08.png"
             ],
             "links": [
-                "https://github.com/joduplessis/screenshotter"
+                "https://github.com/joduplessis/bugable"
             ],
-            "notes": "Screenshotter is a small screenshot & user feedback component, based on platforms like UserBack & UserSnap.",
+            "notes": "An embeddable bug reporting & screenshot creation component that integrates rrweb & video/webcam recording. Based on platforms like UserBack & UserSnap.",
             "partner": "",
             "project_type": "UI Component",
-            "project": "Screenshotter",
+            "project": "Bugable",
             "roles": [
                 "Design",
                 "Development"
             ],
-            "slug": "screenshotter",
+            "slug": "bugable",
             "tags": [
                 "React",
                 "Preact",
@@ -129,7 +129,7 @@
                 "Webpack",
                 "Babel",
                 "html2canvas",
-                "Prettier",
+                "prettier",
                 "rrweb"
             ],
             "year": 2022

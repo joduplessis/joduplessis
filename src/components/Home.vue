@@ -25,7 +25,7 @@
 						-->
   				</div>
   				<h2>
-						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover. Maker at <a href="https://fold.dev" target="_blank">fold.dev</a>.
+						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover.
   				</h2>
 				<h3>
 					Want to collaborate? Send me an <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">e-mail</a>.
