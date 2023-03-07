@@ -7,12 +7,12 @@
 						<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
 						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
 						<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
-						<router-link :to="{ name: 'Work'}">Prev. work</router-link>
+						<router-link :to="{ name: 'Work'}">Archives</router-link>
+						<!--
 						<a href="https://fold.dev" target="_blank">
 							Fold
 							<span>Current</span>
 						</a>
-						<!--
 						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
 						<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
 						<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
@@ -25,7 +25,7 @@
 						-->
   				</div>
   				<h2>
-						Purveyor of code & pixels. Product geek. Coffee drinker. Shouty music lover.
+						Purveyor of code & pixels. Product geek. Coffee drinker. Currently working on <a href="https://fold.dev" target="_blank">Fold</a>.
   				</h2>
 				<h3>
 					Want to collaborate? Send me an <a href="mailto:hello@joduplessis.com" target="_blank" class="highlight">e-mail</a>.
@@ -159,13 +159,14 @@
 		}
 
 		.main .inner h2 a {
-			text-decoration: none;
+			/* text-decoration: none; */
 			background: transparent;
 			color: #1B2B3A;
 		}
 
 		.main .inner h2 a:hover {
-			text-decoration: underline;
+			/* text-decoration: underline; */
+			opacity: 0.8;
 		}
 
 		.main .inner h3, .main .inner h3 a {
