@@ -8,12 +8,12 @@
 						<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
 						<a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a>
 						<router-link :to="{ name: 'Work'}">Prev. work</router-link>
-						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
 						<a href="https://fold.dev" target="_blank">
 							Fold
-							<span>new</span>
+							<span>Current</span>
 						</a>
 						<!--
+						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
 						<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
 						<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
 						<a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
