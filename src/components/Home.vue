@@ -36,11 +36,10 @@
 </template>
 
 <script>
-//	console.log('%c Hi! 👋🏻 You can check out my CV over here 👉🏻 https://joduplessis.com/cv', 'font-size: 20px; background: #222; color: #FF5A5A');
-
+	// console.log('%c Hi! 👋🏻 You can check out my CV over here 👉🏻 https://joduplessis.com/cv', 'font-size: 20px; background: #222; color: #FF5A5A');
+	// console.log('%c CV → https://joduplessis.com/cv', 'background: #222; color: #FF5A5A');
+	// console.log('%c Work → https://joduplessis.com/work', 'background: #222; color: #FF5A5A')
 	console.log('%c Hi! 👋🏻', 'background: #222; color: #FF5A5A');
-//	console.log('%c CV → https://joduplessis.com/cv', 'background: #222; color: #FF5A5A');
-	//console.log('%c Work → https://joduplessis.com/work', 'background: #222; color: #FF5A5A')
 	console.log('%c Email → hello@joduplessis.com', 'background: #222; color: #FF5A5A');
 
 

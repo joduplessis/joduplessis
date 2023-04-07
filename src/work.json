@@ -110,7 +110,7 @@
                 "store-images/Bugable/08.png"
             ],
             "links": [
-                "https://github.com/joduplessis/bugable"
+                "https://github.com/joduplessis/buggable"
             ],
             "notes": "An embeddable bug reporting & screenshot creation component that integrates rrweb & video/webcam recording. Based on platforms like UserBack & UserSnap.",
             "partner": "",
@@ -227,7 +227,7 @@
                 "store-images/github.jpg"
             ],
             "links": [
-                "https://github.com/joduplessis?tab=repositories",
+                "https://github.com/joduplessis",
                 "https://gist.github.com/joduplessis"
             ],
             "notes": "Personal libraries, mini-projects & code snippets hosted on GitHub.",

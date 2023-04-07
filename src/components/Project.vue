@@ -56,9 +56,7 @@
     export default {
         name: 'work',
         data: function() {
-            const {
-                slug
-            } = this.$route.params;
+            const { slug } = this.$route.params;
 
             return {
                 item: items.project.filter((obj, index) => {
