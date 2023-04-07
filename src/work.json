@@ -115,12 +115,12 @@
             "notes": "An embeddable bug reporting & screenshot creation component that integrates rrweb & video/webcam recording. Based on platforms like UserBack & UserSnap.",
             "partner": "",
             "project_type": "UI Component",
-            "project": "Bugable",
+            "project": "Buggable",
             "roles": [
                 "Design",
                 "Development"
             ],
-            "slug": "bugable",
+            "slug": "buggable",
             "tags": [
                 "React",
                 "Preact",
