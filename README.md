@@ -1,4 +1,4 @@
-# Personal VueJS website
+# Personal (legacy) VueJS website
 
 ## Build Setup
 
