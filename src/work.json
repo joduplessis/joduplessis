@@ -3,13 +3,56 @@
 		{
 			"author": "Jo du Plessis",
 			"images": [
+				"store-images/Plural/logo.png",
+				"store-images/Plural/dashboard-1.png",
+				"store-images/Plural/dashboard-2.png",
+				"store-images/Plural/dashboard-3.png",
+				"store-images/Plural/dp-1.png",
+				"store-images/Plural/dp-2.png",
+				"store-images/Plural/web-1.png",
+				"store-images/Plural/web-2.png",
+				"store-images/Plural/web-3.png",
+				"store-images/Plural/web-4.png",
+				"store-images/Plural/web-5.png",
+				"store-images/Plural/web-6.png"
+			],
+			"links": ["https://plural.fi"],
+			"notes": "Design System/Tokens, dashboard, website & frontend components design & development.",
+			"partner": "Plural",
+			"project_type": "UI/UX development & design",
+			"project": "Plural",
+			"roles": [
+				"UI/UX Development & design",
+				"Frontend direction",
+				"Design System lead"
+			],
+			"slug": "plural",
+			"tags": [
+				"web3",
+				"Javascript",
+				"Typescript",
+				"Chakra",
+				"NextJS",
+				"React",
+				"SASS",
+				"BEM",
+				"Product design",
+				"Design Tokens",
+				"Design Systems",
+				"Figma"
+			],
+			"year": 2023
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
 				"store-images/singles/chat-app-boilerplate.png",
 				"store-images/singles/chat-app-boilerplate.png"
 			],
 			"links": ["https://github.com/joduplessis/chat-app-boilerplate"],
 			"notes": "Boilerplate code for a React-based chat app.",
 			"partner": "",
-			"project_type": "UI development & design",
+			"project_type": "UI/UX development & design",
 			"project": "Chat App Boilerplate",
 			"roles": [
 				"UI/UX Development",
