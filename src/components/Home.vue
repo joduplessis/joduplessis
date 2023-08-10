@@ -8,10 +8,9 @@
 					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank"
 						>LinkedIn</a
 					>
-					<router-link :to="{ name: 'Work' }">Archives</router-link>
+					<router-link :to="{ name: 'Work' }">Work</router-link>
 					<!-- <a href="https://twitter.com/jo_duplessis" target="_blank">Twitter</a> -->
 					<!--
-
 						<a href="https://fold.dev" target="_blank">
 							Fold
 							<span>Current</span>
