@@ -1,49 +1,49 @@
 <template>
-    <div id="app">
+	<div id="app">
 		<transition name="fade" mode="out-in">
 			<router-view></router-view>
 		</transition>
-    </div>
+	</div>
 </template>
 
 <script>
-    export default {
-        name: 'app'
-    }
+export default {
+	name: "app"
+};
 </script>
 
 <style>
-	.clear {
-		clear: both;
-	}
+.clear {
+	clear: both;
+}
 
-    .fade-enter-active,
-    .fade-leave-active {
-        transition-property: opacity;
-        transition-duration: .25s;
-    }
+.fade-enter-active,
+.fade-leave-active {
+	transition-property: opacity;
+	transition-duration: 0.25s;
+}
 
-    .fade-enter-active {
-        transition-delay: .25s;
-    }
+.fade-enter-active {
+	transition-delay: 0.25s;
+}
 
-    .fade-enter,
-    .fade-leave-active {
-        opacity: 0
-    }
+.fade-enter,
+.fade-leave-active {
+	opacity: 0;
+}
 
-    * a {
-        color: black;
-    }
+* a {
+	color: black;
+}
 
-	body {
-		padding: 0px;
-		margin: 0px;
-		background-color: white;
-	}
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: white;
+}
 
-    .social-icon {
-        width: 15px;
-        height: 15px;
-    }
+.social-icon {
+	width: 15px;
+	height: 15px;
+}
 </style>
