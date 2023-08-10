@@ -8,7 +8,7 @@
 			<p>
 				Projects are from freelance collaborations, full-time employment or personal work.
 				Some have been removed due to the nature of the work or an NDA.
-				Older projects have unfortunately been archived - my apologies if a link does not work anymore.
+				Older projects have unfortunately been archived (apologies if a link does not work anymore).
 				If you have any questions, <a href="mailto:hello@joduplessis.com">please let me know</a>.
 			</p>
 		</div>

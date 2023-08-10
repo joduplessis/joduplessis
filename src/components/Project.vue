@@ -1,48 +1,58 @@
 <template>
-    <div class="project">
+	<div class="project">
 		<router-link class="goback" to="/work">
 			<img height="40" src="../assets/arrow-left.svg" />
 		</router-link>
 		<div class="sections">
 			<div class="images">
 				<a
-					v-if="index!=0"
+					v-if="index != 0"
 					v-for="(item, index) in getFirstElement(item).images"
-					v-bind:href="getImageUrl(item)" target="_blank">
+					v-bind:href="getImageUrl(item)"
+					target="_blank"
+				>
 					<img :src="getImageUrl(item)" />
 				</a>
 			</div>
 			<div class="details">
 				<div class="padding">
 					<div class="year">
-						{{getFirstElement(item).year}}
-						<span v-if="getFirstElement(item).partner!=''">
-							- {{getFirstElement(item).partner}}
+						{{ getFirstElement(item).year }}
+						<span v-if="getFirstElement(item).partner != ''">
+							- {{ getFirstElement(item).partner }}
 						</span>
 					</div>
 					<div class="title">
-						{{getFirstElement(item).project}}
+						{{ getFirstElement(item).project }}
 					</div>
 					<div class="project-type">
-						{{getFirstElement(item).project_type}}
+						{{ getFirstElement(item).project_type }}
 					</div>
-					<span class="tag">Role: </span>
-					<span class="tag solid" v-for="(role, index) in getFirstElement(item).roles">
-						{{role.toUpperCase()}}
+					<span
+						class="tag solid"
+						v-for="(role, index) in getFirstElement(item).roles"
+					>
+						{{ role.toUpperCase() }}
 					</span>
 					<div class="notes">
-						{{getFirstElement(item).notes}}
+						{{ getFirstElement(item).notes }}
 					</div>
-					<span class="tag is-light" v-for="(tag, index) in getFirstElement(item).tags">
-						{{tag}}
+					<span
+						class="tag is-light"
+						v-for="(tag, index) in getFirstElement(item).tags"
+					>
+						{{ tag }}
 					</span>
 					<br class="clearfix" />
 					<br class="clearfix" />
-					<span v-for="(link, index) in getFirstElement(item).links" v-if="getFirstElement(item).links[0]">
+					<span
+						v-for="(link, index) in getFirstElement(item).links"
+						v-if="getFirstElement(item).links[0]"
+					>
 						<a class="link" target="_blank" v-bind:href="link">
-							→ {{link.replace("http://","").replace("https://","")}}
+							→ {{ link.replace("http://", "").replace("https://", "") }}
 						</a>
-						</br>
+						<br />
 					</span>
 				</div>
 			</div>
@@ -51,139 +61,140 @@
 </template>
 
 <script>
-    const items = require('../work.json');
+const items = require("../work.json");
 
-    export default {
-        name: 'work',
-        data: function() {
-            const { slug } = this.$route.params;
+export default {
+	name: "work",
+	data: function() {
+		const { slug } = this.$route.params;
 
-            return {
-                item: items.project.filter((obj, index) => {
-                    return obj.slug == slug;
-                }),
-            }
-        }
-    }
+		return {
+			item: items.project.filter((obj, index) => {
+				return obj.slug == slug;
+			})
+		};
+	}
+};
 </script>
 <style scoped="">
 .project {
 	background-color: white;
 }
 
-	.goback {
-		padding: 20px;
-		display: block;
-	}
+.goback {
+	padding: 20px;
+	display: block;
+}
 
-	.sections {
-		display: flex;
-		flex-direction: row;
-		width: 80%;
-		margin-right: auto;
-		margin-left: auto;
-	}
+.sections {
+	display: flex;
+	flex-direction: row;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
 
-	.sections .images a {
-		width: 80%;
-		display: block;
-	}
+.sections .images a {
+	width: 80%;
+	display: block;
+}
 
-	.sections .images {
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		align-content: center;
-		justify-content: center;
-	}
+.sections .images {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
 
-	.sections .images img {
-		width: 100%;
-		margin-bottom: 5px;
-		border-radius: 5px;
-		display: block;
-		border: none;
-	}
+.sections .images img {
+	width: 100%;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	display: block;
+	border: none;
+}
 
-	.sections .details {
-		flex: 1;
-	}
+.sections .details {
+	flex: 1;
+}
 
-    .sections .details .year {
-        font-size: 18px;
-        font-weight: 600;
-        color: #1B2B3A;
-        padding-bottom: 20px;
-    }
+.sections .details .year {
+	font-size: 18px;
+	font-weight: 600;
+	color: #1b2b3a;
+	padding-bottom: 20px;
+}
 
-    .sections .details .title {
-        font-weight: 700;
-        color: #1B2B3A;
-        font-size: 70px;
-        padding-bottom: 20px;
-    }
+.sections .details .title {
+	font-weight: 700;
+	color: #1b2b3a;
+	font-size: 70px;
+	padding-bottom: 20px;
+}
 
-    .sections .details .project-type {
-        font-weight: 700;
-        color: #707b85;
-        font-size: 14px;
-		text-transform: uppercase;
-        padding-bottom: 20px;
-		margin-top: -20px;
-    }
+.sections .details .project-type {
+	font-weight: 700;
+	color: #707b85;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+	margin-top: -20px;
+	word-wrap: normal;
+}
 
-    .sections .details .notes {
-        color: #1B2B3A;
-        font-weight: 300;
-        font-size: 24px;
-        padding-bottom: 20px;
-        padding-top: 30px;
-    }
+.sections .details .notes {
+	color: #1b2b3a;
+	font-weight: 300;
+	font-size: 24px;
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
 
-    .sections .details .subtitle {
-        color: #AAA;
-        font-size: 16px;
-        margin: 0px;
-        padding-bottom: 10px;
-    }
+.sections .details .subtitle {
+	color: #aaa;
+	font-size: 16px;
+	margin: 0px;
+	padding-bottom: 10px;
+}
 
-    .sections .details .tag {
-        margin-right: 2px;
-		padding-bottom: 2px;
-		padding-top: 2px;
-        color: #aaa;
-        font-size: 14px;
-		border-radius: 5px;
-		padding: 5px;
-    }
+.sections .details .tag {
+	margin-right: 2px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	color: #aaa;
+	font-size: 14px;
+	border-radius: 5px;
+	padding: 5px;
+}
 
-	.sections .details .link {
-		text-decoration: none;
-		font-size: 16px;
-    	color: #1B2B3A;
-		font-weight: bold;
-		transition: opacity 0.5s;
-		opacity: 1;
-	}
+.sections .details .link {
+	text-decoration: none;
+	font-size: 16px;
+	color: #1b2b3a;
+	font-weight: bold;
+	transition: opacity 0.5s;
+	opacity: 1;
+}
 
-		.sections .details .link.underline {
-			box-shadow: inset 0px -8px 0 #FF5A5A, inset 0 -15px 0 white;
-			text-decoration: none;
-		}
+.sections .details .link.underline {
+	box-shadow: inset 0px -8px 0 #ff5a5a, inset 0 -15px 0 white;
+	text-decoration: none;
+}
 
-	.sections .details .link:hover {
-		opacity: 0.5;
-	}
+.sections .details .link:hover {
+	opacity: 0.5;
+}
 
-    .sections .details .tag.solid {
-        color: #FF5A5A;
-        background: #1B2B3A;
-        font-size: 12px;
-		font-weight: bold;
-		padding-bottom: 2px;
-		padding-top: 2px;
-    }
+.sections .details .tag.solid {
+	color: #ff5a5a;
+	background: #1b2b3a;
+	font-size: 12px;
+	font-weight: bold;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
 
 @media (min-width: 1024px) {
 }
