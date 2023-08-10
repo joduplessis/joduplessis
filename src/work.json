@@ -3,6 +3,36 @@
 		{
 			"author": "Jo du Plessis",
 			"images": [
+				"store-images/singles/ignitiongroup.jpg",
+				"store-images/singles/ignitiongroup.jpg"
+			],
+			"links": ["https://www.ignitiongroup.co.za"],
+			"notes": "UI/UX design & strategy for several Ignition Group products that are internally developed. More information on request.",
+			"partner": "Ignition Group",
+			"project_type": "UI/UX Design & Strategy",
+			"project": "Ignition Group",
+			"roles": [
+				"UI/UX Design",
+				"User Journey planning",
+				"UX Audit",
+				"Consulting",
+				"Advising"
+			],
+			"slug": "ignitiongroup",
+			"tags": [
+				"Figma",
+				"UX audit / review",
+				"Product Design",
+				"Product Strategy",
+				"UX advising",
+				"UX persona development",
+				"Technical advisory"
+			],
+			"year": 2023
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
 				"store-images/Plural/logo.png",
 				"store-images/Plural/dashboard-1.png",
 				"store-images/Plural/dashboard-2.png",
