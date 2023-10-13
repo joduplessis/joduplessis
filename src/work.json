@@ -156,8 +156,17 @@
 		{
 			"author": "Jo du Plessis",
 			"images": [
-				"store-images/singles/adlastik.png",
-				"store-images/singles/adlastik.png"
+				"store-images/Adlastik/00.png",
+				"store-images/Adlastik/01.png",
+				"store-images/Adlastik/02.png",
+				"store-images/Adlastik/03.png",
+				"store-images/Adlastik/04.png",
+				"store-images/Adlastik/05.png",
+				"store-images/Adlastik/06.png",
+				"store-images/Adlastik/07.png",
+				"store-images/Adlastik/08.png",
+				"store-images/Adlastik/09.png",
+				"store-images/Adlastik/10.png"
 			],
 			"links": ["https://adlastik.com"],
 			"notes": "The data platform for marketing teams. Coming soon.",
