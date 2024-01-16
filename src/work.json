@@ -9,7 +9,7 @@
 			"links": ["https://www.ignitiongroup.co.za"],
 			"notes": "UI/UX design & strategy for several Ignition Group products that are internally developed. More information on request.",
 			"partner": "Ignition Group",
-			"project_type": "UI/UX Design & Strategy",
+			"project_type": "UI/UX Design & Product Strategy",
 			"project": "Ignition Group",
 			"roles": [
 				"UI/UX Design",
@@ -28,7 +28,7 @@
 				"UX persona development",
 				"Technical advisory"
 			],
-			"year": 2023
+			"year": 2024
 		},
 		{
 			"author": "Jo du Plessis",
@@ -115,8 +115,8 @@
 				"store-images/singles/fold.png",
 				"store-images/singles/fold.png"
 			],
-			"links": ["https://fold.dev"],
-			"notes": "React components for product builders. Coming soon.",
+			"links": ["https://fold.dev","https://github.com/fold-dev"],
+			"notes": "The React UI library for product builders. ",
 			"partner": "",
 			"project_type": "UI/UX development & design",
 			"project": "Fold",
@@ -169,11 +169,11 @@
 				"store-images/Adlastik/10.png"
 			],
 			"links": ["https://adlastik.com"],
-			"notes": "Adlastik is a German data migration platform for marketing teams. I was responsible for all of the branding & frontend development work. More information coming soon.",
+			"notes": "MVP for a German data migration platform. I was responsible for all of the branding & frontend development work. ",
 			"partner": "Adlastik",
-			"project_type": "UI/UX development & design",
+			"project_type": "UI/UX Development & Product Design",
 			"project": "Adlastik",
-			"roles": ["Design", "Development", "DevOps", "Design System"],
+			"roles": ["Design", "Development", "DevOps", "Design System", "FE Architecture"],
 			"slug": "adlastik",
 			"tags": [
 				"React",
@@ -208,7 +208,7 @@
 				"ELT",
 				"Netlify"
 			],
-			"year": 2024
+			"year": 2023
 		},
 		{
 			"author": "Jo du Plessis",
