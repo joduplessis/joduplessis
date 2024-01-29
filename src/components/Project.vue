@@ -43,7 +43,7 @@
 					>
 						{{ tag }}
 					</span>
-
+					<br class="clearfix" />
 					<br class="clearfix" />
 					<span
 						v-for="(link, index) in getFirstElement(item).links"
