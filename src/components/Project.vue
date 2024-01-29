@@ -25,14 +25,14 @@
 					<div class="title">
 						{{ getFirstElement(item).project }}
 					</div>
+					<h5>Project type:</h5>
 					<div class="project-type">
 						{{ getFirstElement(item).project_type }}
 					</div>
-					<span
-						class="tag solid"
-						v-for="(role, index) in getFirstElement(item).roles"
-					>
-						{{ role.toUpperCase() }}
+					<br/>
+					<h5>Roles:</h5>
+					<span class="tag solid">
+						{{ getFirstElement(item).roles.join(', ') }}
 					</span>
 					<div class="notes">
 						{{ getFirstElement(item).notes }}
@@ -43,7 +43,7 @@
 					>
 						{{ tag }}
 					</span>
-					<br class="clearfix" />
+
 					<br class="clearfix" />
 					<span
 						v-for="(link, index) in getFirstElement(item).links"
@@ -135,13 +135,11 @@ export default {
 }
 
 .sections .details .project-type {
-	font-weight: 700;
-	color: #707b85;
+	color: #ff5a5a;
 	font-size: 14px;
-	text-transform: uppercase;
-	padding-bottom: 20px;
-	margin-top: -20px;
-	word-wrap: normal;
+	font-weight: medium;
+	padding: 0;
+	padding-right: 5px;
 }
 
 .sections .details .notes {
@@ -149,7 +147,7 @@ export default {
 	font-weight: 300;
 	font-size: 24px;
 	padding-bottom: 20px;
-	padding-top: 30px;
+	padding-top: 20px;
 }
 
 .sections .details .subtitle {
@@ -161,12 +159,15 @@ export default {
 
 .sections .details .tag {
 	margin-right: 2px;
-	padding-bottom: 2px;
-	padding-top: 2px;
-	color: #aaa;
+	margin-bottom: 2px;
+	display: inline-block;
+	color: white;
 	font-size: 14px;
 	border-radius: 5px;
 	padding: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background: #1b2b3a;
 }
 
 .sections .details .link {
@@ -189,11 +190,19 @@ export default {
 
 .sections .details .tag.solid {
 	color: #ff5a5a;
-	background: #1b2b3a;
-	font-size: 12px;
+	font-size: 14px;
+	font-weight: medium;
+	padding: 0;
+	padding-right: 5px;
+	background-color: transparent;
+}
+
+.sections .details h5 {
+	color: #ff5a5a;
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
 	font-weight: bold;
-	padding-bottom: 2px;
-	padding-top: 2px;
 }
 
 @media (min-width: 1024px) {

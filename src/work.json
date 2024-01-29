@@ -7,9 +7,9 @@
 				"store-images/singles/ignitiongroup.jpg"
 			],
 			"links": ["https://www.ignitiongroup.co.za"],
-			"notes": "UI/UX design & strategy for several Ignition Group products that are internally developed. More information on request.",
+			"notes": "Product design, UX strategy & (minor) branding management for several of Ignition Group Platform's software products that are internally developed. ",
 			"partner": "Ignition Group",
-			"project_type": "UI/UX Design & Product Strategy",
+			"project_type": "Product Design",
 			"project": "Ignition Group",
 			"roles": [
 				"UI/UX Design",
@@ -49,7 +49,7 @@
 			"links": ["https://plural.fi"],
 			"notes": "Design System/Tokens, dashboard, website & frontend components design & development.",
 			"partner": "Plural",
-			"project_type": "UI/UX development & design",
+			"project_type": "Product Design & UI/UX development",
 			"project": "Plural",
 			"roles": [
 				"UI/UX Development & design",
@@ -171,7 +171,7 @@
 			"links": ["https://adlastik.com"],
 			"notes": "MVP for a German data migration platform. I was responsible for all of the branding & frontend development work. ",
 			"partner": "Adlastik",
-			"project_type": "UI/UX Development & Product Design",
+			"project_type": "Product Design & UI/UX development",
 			"project": "Adlastik",
 			"roles": ["Design", "Development", "DevOps", "Design System", "FE Architecture"],
 			"slug": "adlastik",

@@ -38,14 +38,14 @@
 				}"
 			>
 				<span>
-					{{ item.year }}
-					<br />
 					<strong>
 						{{ item.project }}
 					</strong>
 					<br />
-					{{ item.project_type.toUpperCase() }}
-					<br />
+					<span class="project-type">
+						{{ item.project_type.toUpperCase() }}
+					</span>
+					{{ item.year }}
 				</span>
 				<router-link
 					class="hover"
@@ -159,7 +159,7 @@ export default {
 .item span {
 	color: white;
 	z-index: 2;
-	font-size: 12px;
+	font-size: 10px;
 	padding: 5px;
 	background: black;
 	color: #666;
@@ -167,14 +167,22 @@ export default {
 	height: -moz-fit-content;
 	height: fit-content;
 	display: table;
+	padding-right: 10px;
 }
 
 .item span strong {
 	font-weight: 500;
 	text-transform: capitalize;
 	color: white;
-	font-size: 16px;
+	font-size: 18px;
 	color: white;
+}
+
+.item span .project-type {
+	color: #ff5a5a;
+	padding: 0;
+	font-size: 10px;
+
 }
 
 @media (min-width: 1024px) {
