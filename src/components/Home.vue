@@ -4,7 +4,7 @@
 			<div class="inner">
 				<img src="../assets/avatar.png" class="avatar" />
 				<div class="links">
-					<router-link :to="{ name: 'Work' }">Work</router-link>
+					<!-- <router-link :to="{ name: 'Work' }">Work</router-link> -->
 					<a href="https://github.com/joduplessis" target="_blank">GitHub</a>
 					<a href="https://www.linkedin.com/in/jo-duplessis/" target="_blank">LinkedIn</a>
 
