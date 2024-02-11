@@ -20,11 +20,8 @@
 			</router-link>
 
 			<p>
-				Projects are from freelance collaborations, full-time employment or
-				personal work. Some have been removed due to the nature of the work or
-				an NDA. Older projects have unfortunately been archived (apologies if a
-				link does not work anymore). If you have any questions,
-				<a href="mailto:hello@joduplessis.com">please let me know</a>.
+				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
+				personal work. Please note that links in older projects may no longer be active. <a href="mailto:hello@joduplessis.com">Report an issue</a>.
 			</p>
 		</div>
 		<div class="items">
