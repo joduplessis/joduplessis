@@ -22,6 +22,7 @@
 			<p>
 				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
 				personal work. Please note that links in older projects may no longer be active. <a href="mailto:hello@joduplessis.com">Report an issue</a>.
+				<i>Notable</i> personal projects are highlighted in red.
 			</p>
 		</div>
 		<div class="items">
@@ -31,7 +32,9 @@
 				v-bind:style="{
 					'background-size': 'cover',
 					'background-position': 'center center',
-					'background-image': 'url(' + getFirstImage(item.images) + ')'
+					'background-image': 'url(' + getFirstImage(item.images) + ')',
+					'border': item.notable ? '5px solid #ff5a5a' : '',
+					'z-index': item.notable ? 10 : 1,
 				}"
 			>
 				<span>
@@ -133,6 +136,7 @@ export default {
 	width: 20%;
 	position: relative;
 	height: 200px;
+	box-sizing: border-box;
 }
 
 .item a.hover {

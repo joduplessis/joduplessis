@@ -111,6 +111,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/singles/fold.png",
 				"store-images/singles/fold.png"
@@ -480,6 +481,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/PDFasaurus/00.png",
 				"store-images/PDFasaurus/01.png",
@@ -585,6 +587,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/YackNew/00.png",
 				"store-images/YackNew/01.png",
@@ -644,6 +647,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/Weekday/00.png",
 				"store-images/Weekday/01.png",
@@ -831,6 +835,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/Wami/00.png",
 				"store-images/Wami/01.png",
@@ -1290,6 +1295,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": ["store-images/Seymour/00.jpg", "store-images/Seymour/01.png"],
 			"links": ["https://github.com/joduplessis/seymour"],
 			"notes": "Seymour is an easy to use HTML/CSS scaffolding tool written in Golang",
@@ -1489,6 +1495,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/Play/hero.png",
 				"store-images/Play/00.jpg",
@@ -1670,6 +1677,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/Micron/01.jpg",
 				"store-images/Micron/02.jpg",
@@ -1945,6 +1953,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/Paper/05.jpg",
 				"store-images/Paper/05.jpg",
@@ -2038,6 +2047,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/Ping/00.jpg",
 				"store-images/Ping/app/01.jpg",
@@ -2790,6 +2800,7 @@
 		},
 		{
 			"author": "Jo du Plessis",
+			"notable": true,
 			"images": [
 				"store-images/TaskFu/00.jpg",
 				"store-images/TaskFu/app/01.jpg",
