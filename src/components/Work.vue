@@ -21,7 +21,7 @@
 
 			<p>
 				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
-				personal work. Please note that links in older projects may no longer be active. <a href="mailto:hello@joduplessis.com">Report an issue</a>.
+				personal work. Please note that links in older projects may no longer be active. <a href="mailto:jo@joduplessis.com">Report an issue</a>.
 				<i>Notable</i> personal projects are highlighted in red.
 			</p>
 		</div>

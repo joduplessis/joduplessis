@@ -17,7 +17,7 @@
 						</a>
 						<a href="https://pdfasaurus.com" target="_blank">PDFasaurus</a>
 						<a href="https://www.npmjs.com/~joduplessis" target="_blank">npm</a>
-						<a href="mailto:hello@joduplessis.com" target="_blank">say hello</a>
+						<a href="mailto:jo@joduplessis.com" target="_blank">say hello</a>
 						<a href="mailto:jo@joduplessis.com" target="_blank"><img src="../assets/icons/at-fill.svg" /></a>
 						<a href="tel:+491748706065" target="_blank"><img src="../assets/icons/phone-fill.svg" /></a>
 						<a href="https://github.com/joduplessis" target="_blank"><img src="../assets/icons/github-fill.svg" /></a>
@@ -33,7 +33,7 @@
 				<h3>
 					Need to reach me? Send me an
 					<a
-						href="mailto:hello@joduplessis.com"
+						href="mailto:jo@joduplessis.com"
 						target="_blank"
 						class="highlight"
 						>e-mail</a
@@ -51,7 +51,7 @@ console.log("%c Hi! 👋🏻", "background: #222; color: #FF5A5A");
 console.log('%c Work → https://joduplessis.com/work', 'background: #222; color: #FF5A5A')
 console.log('%c CV → https://joduplessis.com/cv.pdf', 'background: #222; color: #FF5A5A')
 console.log(
-	"%c Email → hello@joduplessis.com",
+	"%c Email → jo@joduplessis.com",
 	"background: #222; color: #FF5A5A"
 );
 
