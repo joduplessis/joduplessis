@@ -191,9 +191,11 @@ export default {
 .item {
 	position: relative;
 	box-sizing: border-box;
-	width: calc(100%/5);
+	width: 20%;
 	height: 200px;
-	border: 3px solid #132434;
+	border: 4px solid #132434;
+	border-radius: 15px;
+	overflow: hidden;
 }
 
 .item.is-notable {

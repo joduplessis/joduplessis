@@ -31,7 +31,7 @@
 					<a href="https://fold.dev" target="_blank">Fold</a>.
 				</h2>
 				<h3>
-					Need to reach me? Send me an
+					You can reach me via
 					<a
 						href="mailto:jo@joduplessis.com"
 						target="_blank"
