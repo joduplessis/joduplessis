@@ -1867,7 +1867,7 @@
 			"links": [
 				"http://joduplessis.com/store/Trainiac-DimensionDataSentinels/"
 			],
-			"notes": "Javascript & custom written Adobe ExtendScript was used to export artwork from Illustrator into a game-ready format",
+			"notes": "Dimension Data Sentinels is an HTML5 learning MMO crafted in PixiJS. It incorporates achievable quests, interactive NPCs, in-game maps, and quizzes for an engaging educational experience.",
 			"partner": "Trainiac",
 			"notable": true,
 			"project_type": "HTML5 Game",
@@ -1888,7 +1888,7 @@
 				"Isometric",
 				"PIXI.js",
 				"SCORM",
-				"ExtendScript JSX"
+				"ExtendScript JSX artwork pipeline"
 			],
 			"year": 2015
 		},
