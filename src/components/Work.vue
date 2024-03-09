@@ -8,7 +8,7 @@
 					height="24"
 					viewBox="0 0 24 24"
 					fill="none"
-					stroke="#FF5A5A"
+					stroke="var(--text-color)"
 					stroke-width="2"
 					stroke-linecap="round"
 					stroke-linejoin="round"
@@ -42,7 +42,7 @@
 					'background-size': 'cover',
 					'background-position': 'center center',
 					'background-image': 'url(' + getFirstImage(item.images) + ')',
-					//'border': item.notable ? '0px solid #ff5a5a' : '',
+					//'border': item.notable ? '0px solid var(--text-color)' : '',
 					//'z-index': item.notable ? 10 : 1,
 				}"
 			>
@@ -71,7 +71,7 @@
 					'background-size': 'cover',
 					'background-position': 'center center',
 					'background-image': 'url(' + getFirstImage(item.images) + ')',
-					//'border': item.notable ? '5px solid #ff5a5a' : '',
+					//'border': item.notable ? '5px solid var(--text-color)' : '',
 					//'z-index': item.notable ? 10 : 1,
 				}"
 			>
@@ -135,7 +135,9 @@ export default {
 
 <style scoped="">
 
-body {
+
+.work {
+	--text-color: #add353;
 }
 
 .work {
@@ -154,11 +156,11 @@ body {
 }
 
 .notice .goback img {
-	fill: #ff5a5a;
+	fill: var(--text-color);
 }
 
 .notice p {
-	color: #ff5a5a;
+	color: var(--text-color);
 	padding: 80px;
 	margin: 0px;
 	font-size: 16px;
@@ -168,13 +170,13 @@ body {
 .notice p.heading {
 	font-size: 40px;
 	font-weight: bold;
-	color: #ff5a5a;
+	color: var(--text-color);
 	padding-bottom: 0;
 	margin-bottom: -70px;
 }
 
 .notice p a {
-	color: #ff5a5a;
+	color: var(--text-color);
 }
 
 .items {
@@ -224,6 +226,7 @@ body {
 	padding: 5px;
 	background: black;
 	color: #666;
+	color: #72889b;;
 	font-weight: 800;
 	height: -moz-fit-content;
 	height: fit-content;
@@ -245,11 +248,10 @@ body {
 	text-transform: capitalize;
 	color: white;
 	font-size: 18px;
-	color: white;
 }
 
 .item span .project-type {
-	color: #ff5a5a;
+	color: #b0c5d8;;
 	padding: 0;
 	font-size: 10px;
 
