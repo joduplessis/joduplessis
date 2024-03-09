@@ -19,22 +19,60 @@
 				</svg>
 			</router-link>
 
+			<p class="heading">
+				Work
+			</p>
 			<p>
 				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
 				personal work. Please note that links in older projects may no longer be active. <a href="mailto:jo@joduplessis.com">Report an issue</a>.
-				<i>Notable</i> personal projects are highlighted in red.
 			</p>
+
+		<!-- 	<p>
+				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
+				personal work. Please note that links in older projects may no longer be active. <a href="mailto:jo@joduplessis.com">Report an issue</a>.
+				<i>Notable</i> personal projects are highlighted in red.
+			</p> -->
 		</div>
+
 		<div class="items">
 			<div
-				class="item"
-				v-for="(item, index) in items"
+				class="item is-notable"
+				v-for="(item, index) in featuredItems"
 				v-bind:style="{
 					'background-size': 'cover',
 					'background-position': 'center center',
 					'background-image': 'url(' + getFirstImage(item.images) + ')',
-					'border': item.notable ? '5px solid #ff5a5a' : '',
-					'z-index': item.notable ? 10 : 1,
+					//'border': item.notable ? '0px solid #ff5a5a' : '',
+					//'z-index': item.notable ? 10 : 1,
+				}"
+			>
+				<span>
+					<strong>
+						{{ item.project }}
+					</strong>
+					<br />
+					<span class="project-type">
+						{{ item.project_type.toUpperCase() }}
+					</span>
+					{{ item.year }}
+				</span>
+				<router-link
+					class="hover"
+					:to="{ name: 'Project', params: { slug: item.slug } }"
+				></router-link>
+			</div>
+		</div>
+
+		<div class="items">
+			<div
+				class="item"
+				v-for="(item, index) in regularItems"
+				v-bind:style="{
+					'background-size': 'cover',
+					'background-position': 'center center',
+					'background-image': 'url(' + getFirstImage(item.images) + ')',
+					//'border': item.notable ? '5px solid #ff5a5a' : '',
+					//'z-index': item.notable ? 10 : 1,
 				}"
 			>
 				<span>
@@ -67,6 +105,8 @@ function compare(a, b) {
 
 const projects = require("../work.json");
 const items = projects.project.sort(compare).reverse();
+const regularItems = items.filter((item) => !item.notable);
+const featuredItems = items.filter((item) => item.notable);
 
 export default {
 	name: "work",
@@ -85,20 +125,26 @@ export default {
 	},
 	data: function() {
 		return {
-			items
+			items,
+			regularItems,
+			featuredItems,
 		};
 	}
 };
 </script>
 
 <style scoped="">
+
+body {
+}
+
 .work {
-	background-color: white;
+	background-color: #132434;
 }
 
 .notice {
 	width: 100%;
-	background-color: #1b2b3a;
+	background-color: #132434;
 }
 
 .notice .goback {
@@ -115,8 +161,16 @@ export default {
 	color: #ff5a5a;
 	padding: 80px;
 	margin: 0px;
-	font-size: 20px;
+	font-size: 16px;
+	font-weight: semi-bold;
+}
+
+.notice p.heading {
+	font-size: 40px;
 	font-weight: bold;
+	color: #ff5a5a;
+	padding-bottom: 0;
+	margin-bottom: -70px;
 }
 
 .notice p a {
@@ -133,10 +187,16 @@ export default {
 }
 
 .item {
-	width: 20%;
 	position: relative;
-	height: 200px;
 	box-sizing: border-box;
+	width: calc(100%/5);
+	height: 200px;
+	border: 3px solid #132434;
+}
+
+.item.is-notable {
+	width: 20%;
+	height: 200px;
 }
 
 .item a.hover {
@@ -144,7 +204,7 @@ export default {
 	height: 100%;
 	background: black;
 	display: block;
-	opacity: 0.3;
+	opacity: 0.2;
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -169,6 +229,15 @@ export default {
 	height: fit-content;
 	display: table;
 	padding-right: 10px;
+	transition: opacity 0.2s;
+}
+
+.item:not(.is-notable) span {
+	opacity: 1;
+}
+
+.item:hover span {
+	opacity: 1;
 }
 
 .item span strong {

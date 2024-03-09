@@ -61,6 +61,11 @@ export default {
 </script>
 
 <style scoped="">
+
+.home {
+	--text-color: #add353;
+}
+
 .home {
 	height: 100%;
 	width: 100%;
@@ -81,6 +86,7 @@ export default {
 	justify-content: center;
 	display: flex;
 	background-color: #ff5a5a;
+	background-color: #132434;
 }
 
 .main .inner {
@@ -131,6 +137,7 @@ export default {
 	opacity: 1;
 	transition: 0.2s opacity;
 	color: #1b2b3a;
+	color: var(--text-color);
 	text-decoration: none;
 	font-weight: 600;
 	font-size: 18px;
@@ -167,12 +174,14 @@ export default {
 	line-height: 75px;
 	letter-spacing: -1px;
 	color: #1b2b3a;
+	color: var(--text-color);
 }
 
 .main .inner h2 a {
 	/* text-decoration: none; */
 	background: transparent;
 	color: #1b2b3a;
+	color: var(--text-color);
 }
 
 .main .inner h2 a:hover {
@@ -186,6 +195,7 @@ export default {
 	font-weight: 500;
 	font-size: 30px;
 	color: #1b2b3a;
+	color: var(--text-color);
 	font-family: "Playfair Display", serif;
 }
 
