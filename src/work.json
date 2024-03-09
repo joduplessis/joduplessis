@@ -689,7 +689,7 @@
 				"store-images/Weekday/32.png"
 			],
 			"links": ["https://github.com/joduplessis/weekday", "https://weekday-work.netlify.app"],
-			"notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps. I was responsible for all design & development.",
+			"notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
 			"partner": "Weekday",
 			"project_type": "SaaS Product",
 			"project": "Weekday",
@@ -698,8 +698,7 @@
 				"Design",
 				"Strategy",
 				"Development",
-				"DevOps",
-				"Team Lead"
+				"DevOps"
 			],
 			"slug": "weekday",
 			"tags": [
@@ -2827,7 +2826,7 @@
 				"https://itunes.apple.com/us/app/task-fu/id640165887?ls=1&mt=8",
 				"http://joduplessis.com/store/TaskFu/website/"
 			],
-			"notes": "",
+			"notes": "Mindmap-based task management iOS app.",
 			"partner": "",
 			"project_type": "iOS App",
 			"project": "Task Fu",
