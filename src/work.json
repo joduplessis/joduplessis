@@ -867,7 +867,7 @@
 			],
 			"notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. This project was a personal project of myself and a friend where attempted to get funding by building a workable MVP.",
 			"partner": "",
-			"project_type": "SaaS Platform",
+			"project_type": "Mobile SaaS Platform",
 			"project": "Wami",
 			"roles": ["DevOps", "Design", "Development"],
 			"slug": "wami",
