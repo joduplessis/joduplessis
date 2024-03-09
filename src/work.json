@@ -688,7 +688,7 @@
 				"store-images/Weekday/31.png",
 				"store-images/Weekday/32.png"
 			],
-			"links": ["https://github.com/joduplessis/weekday", "https://weekday-work.netlify.app"],
+			"links": ["https://github.com/joduplessis/weekday", "https://weekday.work"],
 			"notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
 			"partner": "Weekday",
 			"project_type": "SaaS Product",
