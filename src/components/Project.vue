@@ -37,6 +37,7 @@
 					<div class="notes">
 						{{ getFirstElement(item).notes }}
 					</div>
+					<div class="private" v-if="getFirstElement(item).private == true">More information available on request.</div>
 					<span
 						class="tag is-light"
 						v-for="(tag, index) in getFirstElement(item).tags"
@@ -108,6 +109,14 @@ export default {
 	justify-content: center;
 }
 
+.private {
+	color: #ff5a5a;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	padding-right: 5px;
+}
+
 .sections .images img {
 	width: 100%;
 	margin-bottom: 5px;
@@ -135,7 +144,7 @@ export default {
 }
 
 .sections .details .project-type {
-	color: #ff5a5a;
+	color: #007d66;
 	font-size: 14px;
 	font-weight: medium;
 	padding: 0;
@@ -189,7 +198,7 @@ export default {
 }
 
 .sections .details .tag.solid {
-	color: #ff5a5a;
+	color: #007d66;
 	font-size: 14px;
 	font-weight: medium;
 	padding: 0;
@@ -198,7 +207,7 @@ export default {
 }
 
 .sections .details h5 {
-	color: #ff5a5a;
+	color: #007d66;
 	padding: 0;
 	margin: 0;
 	font-size: 14px;

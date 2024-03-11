@@ -7,11 +7,12 @@
 				"store-images/singles/ignitiongroup.jpg"
 			],
 			"links": ["https://www.ignitiongroup.co.za"],
-			"notes": "Product design, UX strategy & branding management for several of Ignition Group Platform's software products that are internally developed. More information available on request.",
+			"notes": "Product design, UX strategy & branding management for several of Ignition Group Platform's software products that are internally developed. ",
 			"partner": "Ignition Group",
 			"project_type": "SaaS Enterprise Platforms",
 			"project": "Ignition Group",
 			"notable": true,
+			"private": true,
 			"roles": [
 				"UI/UX Design",
 				"User Journey planning",
@@ -1456,12 +1457,13 @@
 				"store-images/singles/fis.png"
 			],
 			"links": ["https://fisglobal.com"],
-			"notes": "FIS is a global Fintech company. I worked on the globally distributed AngularJS component library team. More information available on request.",
+			"notes": "FIS is a global Fintech company. I worked on the globally distributed AngularJS component library team. ",
 			"partner": "FIS",
 			"project_type": "UI Components",
 			"project": "FIS",
 			"roles": ["UI/UX Development"],
 			"slug": "fis",
+			"private": true,
 			"tags": [
 				"Javascript",
 				"Typescript",
