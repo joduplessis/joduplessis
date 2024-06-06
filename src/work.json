@@ -7,6 +7,41 @@
 				"store-images/singles/ignitiongroup.jpg"
 			],
 			"links": ["https://www.ignitiongroup.co.za"],
+			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party API integrations.",
+			"partner": "Ignition Group",
+			"project_type": "Web App Dashboard",
+			"project": "Paiment POS",
+			"notable": true,
+			"private": false,
+			"roles": [
+				"Development",
+				"Design",
+				"Deployment"
+			],
+			"slug": "paiment-pos",
+			"tags": [
+				"Fold",
+				"React",
+				"Docker",
+				"Fastify",
+				"RESTful API",
+				"NodeJS",
+				"TypeScript",
+				"Caddy",
+				"Product Design",
+				"DevOps",
+				"Development",
+				"Design"
+			],
+			"year": 2024
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/ignitiongroup.jpg",
+				"store-images/singles/ignitiongroup.jpg"
+			],
+			"links": ["https://www.ignitiongroup.co.za"],
 			"notes": "Product design, UX strategy & branding management for several of Ignition Group Platform's software products that are internally developed. ",
 			"partner": "Ignition Group",
 			"project_type": "SaaS Enterprise Platforms",
@@ -119,10 +154,10 @@
 				"store-images/singles/fold.png",
 				"store-images/singles/fold.png"
 			],
-			"links": ["https://fold.dev","https://github.com/fold-dev"],
+			"links": ["https://fold.dev","https://fold.dev/docs","https://github.com/fold-dev"],
 			"notes": "Zero-dependency React components for scaling your product to the next level.",
 			"partner": "",
-			"project_type": "UI library",
+			"project_type": "React components",
 			"project": "Fold",
 			"roles": ["Design", "Development", "DevOps", "Strategy"],
 			"slug": "fold",
@@ -153,7 +188,8 @@
 				"Web Components",
 				"Design Patterns",
 				"NPM",
-				"GitHub"
+				"GitHub",
+				"Verdaccio"
 			],
 			"year": 2024
 		},
