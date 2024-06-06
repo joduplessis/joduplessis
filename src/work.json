@@ -6,13 +6,13 @@
 				"store-images/singles/ignitiongroup.jpg",
 				"store-images/singles/ignitiongroup.jpg"
 			],
-			"links": ["https://www.ignitiongroup.co.za"],
+			"links": ["https://www.paimentplatform.com"],
 			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party API integrations.",
 			"partner": "Ignition Group",
 			"project_type": "Web App Dashboard",
 			"project": "Paiment POS",
 			"notable": true,
-			"private": false,
+			"private": true,
 			"roles": [
 				"Development",
 				"Design",
