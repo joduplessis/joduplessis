@@ -25,6 +25,7 @@
 			<p>
 				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
 				personal work. Please note that links in older projects may no longer be active. <a href="mailto:jo@joduplessis.com">Report an issue</a>.
+				<strong>Notable projects have been listed first.</strong>
 			</p>
 
 		<!-- 	<p>
@@ -62,6 +63,8 @@
 				></router-link>
 			</div>
 		</div>
+
+		<div class="divider" />
 
 		<div class="items">
 			<div
@@ -147,6 +150,11 @@ export default {
 .notice {
 	width: 100%;
 	background-color: #132434;
+}
+
+.divider {
+	border-top: 1px dashed var(--text-color);
+	margin: 1rem;
 }
 
 .notice .goback {
