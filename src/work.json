@@ -4,7 +4,11 @@
 			"author": "Jo du Plessis",
 			"images": [
 				"store-images/IgnitionGroup/paiment00.png",
-				"store-images/IgnitionGroup/paiment00.png"
+				"store-images/IgnitionGroup/paiment01.png",
+				"store-images/IgnitionGroup/paiment02.png",
+				"store-images/IgnitionGroup/paiment03.png",
+				"store-images/IgnitionGroup/paiment04.png",
+				"store-images/IgnitionGroup/paiment05.png"
 			],
 			"links": ["https://www.paimentplatform.com"],
 			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party API integrations.",
