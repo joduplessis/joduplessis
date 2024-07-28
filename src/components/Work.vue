@@ -74,36 +74,37 @@
 				class="item"
 				v-for="(item, index) in items"
 					v-bind:style="{
-						'background': item.notable ? 'linear-gradient(to bottom left, #743ad5, #d53a9d)' : '',
+							'background-size': 'cover',
+							'background-position': 'center center',
+							'background-image': 'url(' + getFirstImage(item.images) + ')',
 					}">
-				<div
-					class="item-inner"
-					v-bind:style="{
-						'background-size': 'cover',
-						'background-position': 'center center',
-						'background-image': 'url(' + getFirstImage(item.images) + ')',
-						// 'border': item.notable ? '5px solid var(--text-color)' : '',
-						// 'z-index': item.notable ? 10 : 1,
-						// 'border-width': '4px',
-						// 'border-style': 'solid',
-						// 'border-image-source': 'linear-gradient(to left, #743ad5, #d53a9d',
-					}">
-					<span>
-						<strong>
-							{{ item.project }}
-						</strong>
-						<br />
-						<span class="project-type">
-							{{ item.project_type.toUpperCase() }}
+					<div
+						class="item-inner"
+						v-bind:style="{
+							// 'border': item.notable ? '5px solid var(--text-color)' : '',
+							// 'z-index': item.notable ? 10 : 1,
+							// 'border-width': '4px',
+							// 'border-style': 'solid',
+							// 'border-image-source': 'linear-gradient(to left, #743ad5, #d53a9d',
+							'border': item.notable ? '3px solid var(--text-color)' : '',
+						}">
+						<span>
+							<strong>
+								{{ item.project }}
+							</strong>
+							<br />
+							<span class="project-type">
+								{{ item.project_type.toUpperCase() }}
+							</span>
+							{{ item.year }}
 						</span>
-						{{ item.year }}
-					</span>
-					<router-link
-						class="hover"
-						:to="{ name: 'Project', params: { slug: item.slug } }"
-					></router-link>
+						<router-link
+							class="hover"
+							:to="{ name: 'Project', params: { slug: item.slug } }"
+						></router-link>
+					</div>
 				</div>
-		</div>
+			</div>
 		</div>
 	</div>
 </template>
@@ -163,7 +164,7 @@ export default {
 	display: flex;
 	justify-content: flex-start;
 	gap: 10px;
-	padding: 20px;
+	padding: 20px 20px 15px 20px;
 	box-sizing: border-box;
 }
 
@@ -209,7 +210,7 @@ export default {
 	align-content: center;
 	justify-content: center;
 	flex-wrap: wrap;
-	gap: 10px;
+	gap: 0px;
 }
 
 .item {
@@ -217,9 +218,10 @@ export default {
 	height: 200px;
 	position: relative;
 	box-sizing: border-box;
-	border-radius: 10px;
+	border-radius: 0px;
 	overflow: hidden;
-	padding: 5px;
+	padding: 0px;
+	border: 2px solid #061a2c;
 }
 
 .item-inner {
@@ -227,7 +229,7 @@ export default {
 	box-sizing: border-box;
 	height: 100%;
 	width: 100%;
-	border-radius: 10px;
+	border-radius: 0px;
 	overflow: hidden;
 }
 
@@ -241,7 +243,7 @@ export default {
 	height: 100%;
 	background: black;
 	display: block;
-	opacity: 0.2;
+	opacity: 0.3;
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -306,7 +308,7 @@ export default {
 	}
 
 	.item {
-		width: 40%;
+		width: 50%;
 		position: relative;
 		height: 200px;
 	}
@@ -320,7 +322,7 @@ export default {
 	}
 
 	.item {
-		width: 40%;
+		width: 50%;
 		position: relative;
 		height: 200px;
 	}

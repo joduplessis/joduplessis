@@ -1539,6 +1539,7 @@
 			"project_type": "Web App Concept",
 			"project": "V&A Waterfront",
 			"roles": ["Design"],
+			"notable": true,
 			"slug": "va-waterfront",
 			"tags": ["Design", "UX", "UI"],
 			"year": 2016
@@ -1592,6 +1593,7 @@
 			"partner": "Yreeka / others",
 			"project_type": "3D LMS",
 			"project": "Playfirst",
+			"notable": true,
 			"roles": ["DevOps", "Development", "Design", "Strategy"],
 			"slug": "playfirst",
 			"tags": [
@@ -1819,6 +1821,7 @@
 			"partner": "",
 			"project_type": "Mobile App",
 			"project": "Chow",
+			"notable": true,
 			"roles": ["Strategy", "Development"],
 			"slug": "chowmobileapp",
 			"tags": [
@@ -2112,6 +2115,7 @@
 			],
 			"notes": "Ping is a social alarm clock app idea that got around 60% into development. Heavy restrictions imposed on alarms in iOS & Android caused development to go dormant. You can install the latest build apk & download the source code.",
 			"partner": "",
+			"notable": true,
 			"project_type": "Android App",
 			"project": "Ping",
 			"roles": ["Development", "Design", "UX"],
@@ -2874,6 +2878,7 @@
 			"partner": "",
 			"project_type": "iOS App",
 			"project": "Task Fu",
+			"notable": true,
 			"roles": ["Development", "Design", "UX"],
 			"slug": "taskfuapp",
 			"tags": [
