@@ -21,9 +21,7 @@
 				Go back home
 			</p>
 			<div style="flex: 1;" />
-			<p class="disclaimer">
-				Notable recent projects are highlighted.
-			</p>
+
 <!--
 			<p>
 				Below is a non-exhaustive list of projects from freelance collaborations, full-time employment &
