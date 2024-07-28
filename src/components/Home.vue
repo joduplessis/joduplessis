@@ -27,7 +27,7 @@
 						-->
 				</div>
 				<h2>
-					Product guy. Design systems geek. Building
+					UI/UX guy. Design systems geek. Building
 					<a href="https://fold.dev" target="_blank">Fold</a>.
 				</h2>
 				<h3>
