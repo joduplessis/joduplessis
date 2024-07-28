@@ -17,7 +17,6 @@
 			"project_type": "Web App Dashboard",
 			"project": "Paiment POS",
 			"private": true,
-			"notable": true,
 			"roles": [
 				"Development",
 				"Design",
@@ -52,7 +51,6 @@
 			"project_type": "SaaS Enterprise Platforms",
 			"project": "Ignition Group",
 			"private": true,
-			"notable": true,
 			"roles": [
 				"UI/UX Design",
 				"User Journey planning",
@@ -99,7 +97,6 @@
 				"Design System lead"
 			],
 			"slug": "plural",
-			"notable": true,
 			"tags": [
 				"web3",
 				"Javascript",
@@ -162,7 +159,6 @@
 			"notes": "Zero-dependency React components for scaling your product to the next level.",
 			"partner": "",
 			"project_type": "React components",
-			"notable": true,
 			"project": "Fold",
 			"roles": ["Design", "Development", "DevOps", "Strategy"],
 			"slug": "fold",
@@ -218,7 +214,6 @@
 			"partner": "Adlastik",
 			"project_type": "SaaS App & Branding",
 			"project": "Adlastik",
-			"notable": true,
 			"roles": ["Design", "Development", "DevOps", "Design System", "FE Architecture"],
 			"slug": "adlastik",
 			"tags": [
@@ -342,7 +337,6 @@
 			"links": ["https://adtriba.com"],
 			"notes": "Adtriba is a marketing attribution & machine learning company.",
 			"partner": "Adtriba",
-			"notable": true,
 			"project_type": "B2B Platform",
 			"project": "Adtriba",
 			"roles": [
@@ -540,7 +534,6 @@
 			"partner": "",
 			"project_type": "Micro-SaaS Product",
 			"project": "PDFasaurus",
-			"notable": true,
 			"roles": ["Design", "Development", "DevOps"],
 			"slug": "pdfasaurus",
 			"tags": [
@@ -593,7 +586,6 @@
 			"partner": "Yreeka",
 			"project_type": "SaaS Product",
 			"project": "Teachfolk",
-			"notable": true,
 			"roles": ["Design", "Development", "DevOps"],
 			"slug": "teachfolk",
 			"tags": [
@@ -653,7 +645,6 @@
 			"partner": "Yack",
 			"project_type": "Micro-SaaS Product",
 			"project": "Yack",
-			"notable": true,
 			"roles": ["Design", "Development", "DevOps"],
 			"slug": "yack",
 			"tags": [
@@ -734,7 +725,6 @@
 			"partner": "Weekday",
 			"project_type": "SaaS Product",
 			"project": "Weekday",
-			"notable": true,
 			"roles": [
 				"Architecture",
 				"Design",
@@ -819,7 +809,6 @@
 			"partner": "Chow",
 			"project_type": "Mobile App Concept",
 			"project": "Chow v2",
-			"notable": true,
 			"roles": ["Design", "Development", "Technical Direction"],
 			"slug": "chow-new",
 			"tags": ["UX", "UI", "Affinity"],
@@ -911,7 +900,6 @@
 			"partner": "",
 			"project_type": "Mobile SaaS Platform",
 			"project": "Wami",
-			"notable": true,
 			"roles": ["DevOps", "Design", "Development"],
 			"slug": "wami",
 			"tags": [
@@ -981,7 +969,6 @@
 			"project": "Beiersdorf Consumer Insights Platform",
 			"roles": ["Design", "Strategy"],
 			"hidden": true,
-			"notable": true,
 			"slug": "beiersdorf",
 			"tags": ["UX", "UI", "HTML", "CSS", "Affinity"],
 			"year": 2018
@@ -1005,7 +992,6 @@
 			"partner": "Chow",
 			"project_type": "Mobile Apps",
 			"project": "Chow v1.5",
-			"notable": true,
 			"roles": ["Design", "Development", "Technical Direction"],
 			"slug": "chow-next",
 			"tags": [
@@ -1049,7 +1035,6 @@
 			"project": "Otees Colour Your World",
 			"roles": ["Development", "Wireframing", "Technical Direction"],
 			"slug": "hcss-otees",
-			"notable": true,
 			"tags": [
 				"Angular.io",
 				"Typescript",
@@ -1114,7 +1099,6 @@
 			"partner": "Yreeka",
 			"project_type": "Web App",
 			"project": "Luna",
-			"notable": true,
 			"roles": ["Development", "Design", "Technical Direction"],
 			"slug": "luna",
 			"tags": [
@@ -1539,7 +1523,6 @@
 			"project_type": "Web App Concept",
 			"project": "V&A Waterfront",
 			"roles": ["Design"],
-			"notable": true,
 			"slug": "va-waterfront",
 			"tags": ["Design", "UX", "UI"],
 			"year": 2016
@@ -1593,7 +1576,6 @@
 			"partner": "Yreeka / others",
 			"project_type": "3D LMS",
 			"project": "Playfirst",
-			"notable": true,
 			"roles": ["DevOps", "Development", "Design", "Strategy"],
 			"slug": "playfirst",
 			"tags": [
@@ -1821,7 +1803,6 @@
 			"partner": "",
 			"project_type": "Mobile App",
 			"project": "Chow",
-			"notable": true,
 			"roles": ["Strategy", "Development"],
 			"slug": "chowmobileapp",
 			"tags": [
@@ -1914,7 +1895,6 @@
 			"notes": "Dimension Data Sentinels is an HTML5 learning MMO crafted in PixiJS. It incorporates achievable quests, interactive NPCs, in-game maps, and quizzes for an engaging educational experience.",
 			"partner": "Trainiac",
 			"project_type": "HTML5 Game",
-			"notable": true,
 			"project": "Dimension Data Sentinels",
 			"roles": ["Development", "Technical Direction"],
 			"slug": "trainiac-dimensiondatasentinels",
@@ -2024,7 +2004,6 @@
 			"partner": "MRP Home",
 			"project_type": "HTML5 Interactive & Web App",
 			"project": "Paper",
-			"notable": true,
 			"roles": ["Design", "Development", "UX"],
 			"slug": "paper",
 			"tags": [
@@ -2115,7 +2094,6 @@
 			],
 			"notes": "Ping is a social alarm clock app idea that got around 60% into development. Heavy restrictions imposed on alarms in iOS & Android caused development to go dormant. You can install the latest build apk & download the source code.",
 			"partner": "",
-			"notable": true,
 			"project_type": "Android App",
 			"project": "Ping",
 			"roles": ["Development", "Design", "UX"],
@@ -2243,7 +2221,6 @@
 			"partner": "MRP Home",
 			"project_type": "Web App",
 			"project": "Mrphome Catalogues",
-			"notable": true,
 			"roles": ["Development", "Technical Direction"],
 			"slug": "mrphomecataloguespaper",
 			"tags": [
@@ -2737,7 +2714,6 @@
 			"partner": "MRP Home",
 			"project_type": "Flash Interactive",
 			"project": "Mrphome Winter Style Guide",
-			"notable": true,
 			"roles": ["Development", "design"],
 			"slug": "mrphomewinterstyleguide",
 			"tags": ["Archive", "HTML", "CSS", "AS3", "Flash"],
@@ -2755,7 +2731,6 @@
 			"partner": "MRP Home",
 			"project_type": "HTML5 Interactive",
 			"project": "Mrphome Summer Inspiration",
-			"notable": true,
 			"roles": ["Development", "UX"],
 			"slug": "mrphomesummerinspiration2013",
 			"tags": ["Archive", "HTML", "CSS", "Javascipt", "Jquery", "Bower"],
@@ -2780,7 +2755,6 @@
 			"partner": "MRP Home",
 			"project_type": "HTML5 Interactive",
 			"project": "Mrphome Online Launch",
-			"notable": true,
 			"roles": ["Development", "design"],
 			"slug": "mrphomelaunchevent",
 			"tags": [
@@ -2878,7 +2852,6 @@
 			"partner": "",
 			"project_type": "iOS App",
 			"project": "Task Fu",
-			"notable": true,
 			"roles": ["Development", "Design", "UX"],
 			"slug": "taskfuapp",
 			"tags": [
@@ -3583,7 +3556,6 @@
 			"partner": "Trainiac",
 			"project_type": "Flash Game",
 			"project": "Dimension Data Casino",
-			"notable": true,
 			"roles": ["Development", "UX"],
 			"slug": "trainiac-dimensiondatacasino",
 			"tags": [
