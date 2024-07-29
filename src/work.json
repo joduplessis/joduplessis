@@ -505,22 +505,6 @@
 		},
 		{
 			"author": "Jo du Plessis",
-			"images": ["store-images/github.jpg", "store-images/github.jpg"],
-			"links": [
-				"https://github.com/joduplessis",
-				"https://gist.github.com/joduplessis"
-			],
-			"notes": "Personal libraries, mini-projects & code snippets hosted on GitHub.",
-			"partner": "",
-			"project_type": "Various",
-			"project": "libraries, projects & snippets",
-			"roles": ["Design", "Development", "DevOps"],
-			"slug": "joduplessis-github",
-			"tags": ["Javascript", "Typescript", "GitHub"],
-			"year": 2022
-		},
-		{
-			"author": "Jo du Plessis",
 			"images": [
 				"store-images/PDFasaurus/00.png",
 				"store-images/PDFasaurus/01.png",
@@ -940,7 +924,7 @@
 				"Tokenization",
 				"Instant Messaging"
 			],
-			"year": 2018
+			"year": 2019
 		},
 		{
 			"author": "Jo du Plessis",
